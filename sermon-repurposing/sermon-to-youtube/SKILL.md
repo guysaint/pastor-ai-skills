@@ -1,209 +1,209 @@
 ---
 name: sermon-to-youtube
-description: Optimize a sermon video for YouTube. Provide the title and transcript. Get back optimized titles, description with timestamps, tags, thumbnail concepts, and a short-form clip recommendation.
+description: 설교 영상을 YouTube에 최적화합니다. 제목과 녹취를 제공하면 최적화된 제목, 타임스탬프가 있는 설명, 태그, 썸네일 컨셉, 숏폼 클립 추천을 돌려받습니다.
 ---
 
-# Sermon to YouTube
+# 설교를 YouTube로
 
-**Upload your sermon so people actually find it.**
+**사람들이 실제로 찾을 수 있도록 설교를 업로드하라.**
 
-> Requires: pastor-foundation skill
-
----
-
-## What This Skill Does
-
-You uploaded your sermon to YouTube. Maybe you titled it "Sunday Service 4/6/26" and called it a day. Maybe it's been sitting at 14 views for six months, mostly from your mom and one guy from the prayer chain.
-
-YouTube is the second-largest search engine in the world. People search it every day for answers to the exact questions your sermon addressed. The gap between "no one finds this" and "hundreds of people find this" is not production value. It is optimization.
-
-This skill takes your sermon title and transcript and produces a complete, ready-to-upload YouTube package: titles that rank, a description that works, tags that matter, thumbnail concepts a designer can execute, and one short-form clip worth pulling immediately.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Input
+## 이 스킬이 하는 일
 
-Provide the following:
+설교를 YouTube에 올리셨습니다. "2026/4/6 주일예배"라고 제목을 달고 마쳤을 수도 있습니다. 6개월 동안 조회수 14에 머물러 있을 수도 있습니다. 그것도 대부분 어머니와 기도 모임 한 분에게서 나온.
 
-- **Sermon title** (working title or series title is fine, it will be improved)
-- **Sermon transcript** (full preferred; partial works if it covers the key moments)
-- **Optional:** Approximate sermon length in minutes (used to estimate timestamps)
+YouTube는 세계 두 번째로 큰 검색 엔진입니다. 사람들이 매일 검색하는 질문이 바로 당신의 설교가 다룬 질문입니다. "아무도 찾지 못함"과 "수백 명이 찾음" 사이의 간극은 제작 품질이 아닙니다. 최적화입니다.
 
-If you have a YouTube channel description or your church's standard "about" text, include it. It will be used in the description's about section.
+이 스킬은 설교 제목과 녹취를 받아 업로드 준비가 완료된 YouTube 패키지를 산출합니다: 검색 순위에 드는 제목, 작동하는 설명, 의미 있는 태그, 디자이너가 실행할 수 있는 썸네일 컨셉, 즉시 뽑을 가치가 있는 숏폼 클립 하나.
 
 ---
 
-## Workflow
+## 입력
 
-### Step 1: Analyze the Sermon
+다음을 제공:
 
-Before generating anything, read the transcript and identify:
+- **설교 제목** (작업 제목이나 시리즈 제목도 괜찮음, 개선됨)
+- **설교 녹취** (전체 선호, 핵심 순간을 다루는 부분 녹취도 됨)
+- **선택사항:** 설교의 대략적인 분 수 (타임스탬프 추정에 사용)
 
-- **Core topic.** One sentence. What question does this sermon answer, or what truth does it establish?
-- **Key moments.** The 4-8 most distinct movements: opening, first major point, story/illustration, scripture exposition, application, call to action, close. These become timestamps.
-- **Emotional peaks.** Where does the content hit hardest? The story that lands. The turn. The line people write down. These are short-form candidates.
-- **Searchable angles.** What would someone type into YouTube to find this sermon? Think: "how to trust God when life falls apart," "what does the Bible say about anxiety," "Romans 8 explained." Not "Week 4: Anchor Series."
-
-Write out your analysis before proceeding. This shapes everything else.
+YouTube 채널 설명이나 교회의 표준 "소개" 문구가 있으면 포함하십시오. 설명의 소개 섹션에 사용됩니다.
 
 ---
 
-### Step 2: Generate the YouTube Package
+## 워크플로우
 
-Produce all five components below. No placeholders. Complete, polished output ready to copy and paste.
+### 단계 1: 설교 분석
 
----
+뭔가를 생성하기 전에 녹취를 읽고 식별:
 
-#### Title Options (3)
+- **핵심 주제.** 한 문장. 이 설교가 어떤 질문에 답하는가, 또는 어떤 진리를 세우는가?
+- **핵심 순간.** 가장 뚜렷한 4~8개의 흐름: 오프닝, 첫 주요 포인트, 이야기/예화, 본문 강해, 적용, 행동 요청, 마무리. 이것들이 타임스탬프가 됩니다.
+- **정서적 정점.** 콘텐츠가 가장 강하게 가닿는 곳. 잘 착지한 이야기. 전환점. 사람들이 적는 문장. 이것들이 숏폼 후보입니다.
+- **검색 가능한 각도.** 누군가 이 설교를 찾기 위해 YouTube에 무엇을 입력할까? "삶이 무너질 때 하나님을 신뢰하는 법", "성경이 불안에 대해 말하는 것", "로마서 8장 해설"을 생각해 보십시오. "4주차: 닻 시리즈"가 아니라.
 
-Each title must be:
-
-- Under 60 characters (YouTube truncates at 60 in search results)
-- Built around what the sermon answers, not what it was called internally
-- Free of series names as the primary identifier
-- Written for the person searching, not the person who was already in the room
-
-Generate three options, one of each type:
-
-1. **Search-optimized.** Keyword-forward. Starts with the topic people search. Speaks directly to the question.
-   - Example: "What the Bible Actually Says About Worry"
-   - Example: "How to Forgive Someone Who Hurt You Deeply"
-
-2. **Curiosity-driven.** Hooks a browser. Creates a gap. Makes someone need to know.
-   - Example: "The Verse About Fear No One Talks About"
-   - Example: "Why Most Christians Get Patience Wrong"
-
-3. **Direct and clear.** Straightforward value statement. Works well for returning subscribers who trust the channel.
-   - Example: "Trusting God in Uncertain Times: A Biblical Framework"
-   - Example: "Finding Peace When Life Doesn't Make Sense"
-
-After all three, recommend one and explain why in one sentence.
-
-**What to avoid:**
-- "Romans Part 3, Sunday Sermon" -- series names with no topic signal
-- "Pastor [Name] Preaches on..." -- name-first titles lose to topic-first titles in search
-- Titles over 60 characters
-- Titles that only make sense if you already know the series
+진행 전에 분석을 적으십시오. 이것이 나머지 모두를 형성합니다.
 
 ---
 
-#### Description (200-400 words)
+### 단계 2: YouTube 패키지 생성
 
-Structure the description in this order:
-
-**First 2 lines (above "Show More"):**
-These are the only lines visible before someone clicks. They must earn the click. Write a compelling 1-2 sentence summary of what the viewer will get. Include the primary keyword naturally. Write for the person who found this in search, not someone who already attends.
-
-Do not open with the pastor's name, the church name, or "Watch this sermon about..." These waste the most valuable real estate in the description.
-
-**Timestamps (4-8 chapters):**
-Format: `00:00 Chapter Title`
-
-Use approximate timestamps based on the sermon's structure and length. Chapters improve watch time, show up in search, and help viewers navigate. Label them for content, not structure ("The Problem With Worry" beats "Introduction").
-
-If exact timestamps are not available, estimate based on total length and transcript pacing. Note that timestamps are approximate if needed.
-
-**About section (2-3 sentences):**
-Brief, warm, third-person. Who is this pastor. What church. Where. One sentence invitation to subscribe or explore more.
-
-**Links:**
-Include placeholder lines for:
-- Church website
-- Social media (Facebook, Instagram)
-- Giving link
-- Subscribe prompt
-
-Write these as real lines, not labels. Example: "Visit us online at [church website]" not "[INSERT WEBSITE HERE]."
-
-**Keywords woven in:**
-The description body should naturally include the primary keyword and 2-3 related terms. Do not add a keyword dump at the bottom. YouTube reads the whole description. Write for a human, not a crawler.
+아래 다섯 구성 요소 모두 산출. 자리표시자 없음. 복사·붙여넣기 준비가 완료된 완성되고 다듬어진 출력.
 
 ---
 
-#### Tags (15-20)
+#### 제목 옵션 (3개)
 
-Mix three types:
+각 제목은:
 
-1. **Broad and high-volume:** "sermon," "church," "Bible study," "Christian message," "Sunday sermon," "church online"
-2. **Topic-specific:** Use the actual topic, scripture passage, book of the Bible, and related search terms. Examples: "Romans 8 sermon," "suffering and faith," "trusting God," "anxiety Bible"
-3. **Identity tags:** Pastor name, church name, city and state, denomination if applicable
+- 30자 미만 (한국어 기준, YouTube는 모바일 검색에서 잘림)
+- 내부적으로 무엇이라 불렸는지가 아니라 설교가 답하는 것을 중심으로
+- 시리즈 이름을 주 식별자로 사용하지 않음
+- 이미 그 자리에 있던 사람이 아니라 검색하는 사람을 위해
 
-Keep total tags between 15 and 20. YouTube's tag limit matters less than it used to, but specificity still helps in related video placement.
+세 가지 옵션을 생성, 각 유형 하나씩:
 
----
+1. **검색 최적화.** 키워드 우선. 사람들이 검색하는 주제로 시작. 질문에 직접 말함.
+   - 예: "성경이 걱정에 대해 실제로 말하는 것"
+   - 예: "깊이 상처 준 사람을 용서하는 법"
 
-#### YouTube Category
+2. **호기심 유발.** 둘러보는 사람을 후킹. 간극을 만듦. 알아야만 하게 만듦.
+   - 예: "아무도 말하지 않는, 두려움에 관한 그 구절"
+   - 예: "대부분의 그리스도인이 인내를 오해하는 이유"
 
-Name the recommended category and why. Most sermons fit one of two:
+3. **직접적이고 명확함.** 단도직입적 가치 진술. 채널을 신뢰하는 구독자에게 잘 작동.
+   - 예: "불확실한 시대에 하나님 신뢰하기: 성경적 틀"
+   - 예: "삶이 이해되지 않을 때 평안 찾기"
 
-- **Education:** Best for exposition-heavy sermons, Bible teaching, topical messages with practical application
-- **Nonprofits and Activism:** Best for church announcement videos, generosity campaigns, community-facing content
+세 가지 후 하나를 추천하고 그 이유를 한 문장으로 설명.
 
-Pick one and state the reason in one sentence.
-
----
-
-#### Thumbnail Concepts (2-3 ideas)
-
-For each concept, specify:
-
-- **Background:** Solid color, gradient, or image (if image, describe what kind: close-up face, environmental shot, texture)
-- **Text overlay:** 3-5 words. Large. High contrast. Readable on a phone screen at thumbnail size. Write the actual text, not a description of it.
-- **Pastor photo:** Yes or no. If yes, placement: left side, right side, centered. Expression direction: confident, concerned, hopeful, surprised.
-- **Emotional tone:** What does this thumbnail communicate before anyone reads it?
-
-**Hard rules:**
-- Maximum 5 words of text on the thumbnail. Fewer is better.
-- Text must contrast with the background. Dark text on dark background is invisible at small size.
-- No stock photo vibe. Thumbnails that look polished but generic get ignored.
-- The text and image should work together to create curiosity or confirm relevance.
+**피할 것:**
+- "로마서 3편, 주일설교" — 주제 신호 없는 시리즈 이름
+- "[목사 이름] 목사가 …에 대해 설교합니다" — 이름 우선 제목은 주제 우선 제목에 검색에서 밀림
+- 30자 넘는 제목 (한국어)
+- 시리즈를 이미 알고 있어야 이해되는 제목
 
 ---
 
-#### Short-Form Clip Recommendation
+#### 설명 (한국어 기준 300~600자)
 
-Identify the single best 30-60 second segment from the transcript to pull as a YouTube Short, Instagram Reel, or TikTok.
+설명을 이 순서로 구조화:
 
-Provide:
+**첫 2줄 ("더보기" 위):**
+이 두 줄만이 클릭 전에 보입니다. 클릭을 얻어내야 합니다. 시청자가 얻을 것을 매력적인 1~2 문장으로 요약. 주 키워드를 자연스럽게 포함. 이미 출석하는 사람이 아니라 검색에서 발견한 사람을 위해 쓰십시오.
 
-- **Start and end timestamps** (approximate, based on transcript position)
-- **Transcript excerpt:** Paste the actual words from that segment
-- **Why this segment works:** 2-3 sentences. What makes it land as a standalone clip? Does it have a hook in the first 3 seconds? Does it resolve tension? Does it leave someone wanting more?
-- **Suggested short-form title:** Under 50 characters. Written for short-form discovery, not the full sermon title.
+목회자 이름, 교회 이름, 또는 "이 설교를 시청하세요…"로 시작하지 마십시오. 설명에서 가장 가치 있는 부동산을 낭비합니다.
 
-A good short-form clip:
-- Starts in the middle of tension, not at an introduction
-- Makes a complete point or tells a complete micro-story
-- Does not require the rest of the sermon to make sense
-- Has a moment worth pausing on or rewatching
+**타임스탬프 (4~8 챕터):**
+형식: `00:00 챕터 제목`
+
+설교의 구조와 길이에 기반한 근사 타임스탬프 사용. 챕터는 시청 시간을 늘리고, 검색에 등장하며, 시청자의 탐색을 돕습니다. 구조가 아니라 콘텐츠로 라벨링 ("걱정의 문제"가 "서론"보다 낫습니다).
+
+정확한 타임스탬프를 사용할 수 없으면 전체 길이와 녹취 페이스에 기반해 추정. 필요하면 근사 타임스탬프임을 표시.
+
+**소개 섹션 (2~3 문장):**
+짧고 따뜻하게, 3인칭. 이 목사가 누구. 어떤 교회. 어디. 구독이나 더 둘러보기를 권하는 한 문장.
+
+**링크:**
+다음 항목을 위한 자리표시자 줄 포함:
+- 교회 웹사이트
+- 소셜미디어 (페이스북, 인스타그램)
+- 헌금 링크
+- 구독 권유
+
+라벨이 아니라 실제 줄로 쓰십시오. 예: "[교회 웹사이트]에서 만나요"이지 "[웹사이트 여기]"가 아닙니다.
+
+**자연스럽게 엮인 키워드:**
+설명 본문은 주 키워드와 관련 단어 2~3개를 자연스럽게 포함해야 합니다. 아래쪽에 키워드 덤프를 추가하지 마십시오. YouTube는 설명 전체를 읽습니다. 크롤러가 아니라 사람을 위해 쓰십시오.
 
 ---
 
-## Anti-Patterns
+#### 태그 (15~20개)
 
-These are hard stops. None of these belong in the output:
+세 유형 혼합:
 
-- **Clickbait that misrepresents the content.** If the sermon does not answer the promise in the title, change the title.
-- **"YOU WON'T BELIEVE" energy.** This is a sermon. Sensationalism kills trust with the exact audience most likely to watch.
-- **More than 20 tags.** Tag bloat signals spam. Quality over quantity.
-- **Transcript-dump descriptions.** The description is not the transcript. It is a sales page for the video. Write it like one.
-- **Thumbnails with more than 5 words.** If you need 8 words to explain the thumbnail, the concept is not strong enough.
-- **Series-name-only titles.** "Anchored: Part 5" tells a search engine nothing and convinces no one to click.
-- **Em dashes.** Do not use them. Use a period, comma, or colon instead.
+1. **광범위하고 검색량 높음:** "설교", "교회", "성경공부", "주일설교", "온라인예배"
+2. **주제 특정적:** 실제 주제, 성경 본문, 성경 권, 관련 검색어 사용. 예: "로마서 8장 설교", "고난과 믿음", "하나님 신뢰", "불안 성경"
+3. **정체성 태그:** 목회자 이름, 교회 이름, 도시와 지역, 해당될 경우 교단
+
+총 태그 수는 15~20개로 유지. YouTube의 태그 한도는 예전보다 덜 중요하지만, 구체성은 여전히 관련 영상 배치에 도움이 됩니다.
 
 ---
 
-## Quality Check
+#### YouTube 카테고리
 
-Before presenting the output, verify:
+추천 카테고리와 이유. 대부분의 설교는 둘 중 하나에 들어갑니다:
 
-- [ ] All three title options are under 60 characters
-- [ ] The first 2 lines of the description stand alone without "Show More"
-- [ ] Timestamps are present and labeled by content, not structure
-- [ ] Tags total between 15 and 20
-- [ ] No tag appears twice in different forms
-- [ ] Each thumbnail concept includes background, text, photo placement, and tone
-- [ ] Thumbnail text is 5 words or fewer
-- [ ] Short-form clip is 30-60 seconds, has a transcript excerpt, and has a suggested title
-- [ ] No em dashes used anywhere in the output
-- [ ] No placeholders. All content is complete and ready to use.
+- **교육:** 강해 위주 설교, 성경 가르침, 실용적 적용이 있는 주제 메시지에 최적
+- **비영리·활동:** 교회 광고 영상, 헌신 캠페인, 지역사회 대상 콘텐츠에 최적
+
+하나를 고르고 이유를 한 문장으로 진술.
+
+---
+
+#### 썸네일 컨셉 (2~3개)
+
+각 컨셉에 대해 명시:
+
+- **배경:** 단색, 그라데이션, 또는 이미지 (이미지일 경우 어떤 종류인지 묘사: 클로즈업 얼굴, 환경 샷, 텍스처)
+- **텍스트 오버레이:** 3~5단어 (한국어 기준 6~10자). 크게. 고대비. 휴대폰 썸네일 크기에서 읽힘. 실제 텍스트를 쓰십시오, 묘사가 아니라.
+- **목회자 사진:** 예/아니오. 예라면 위치: 왼쪽, 오른쪽, 중앙. 표정 방향: 확신, 염려, 소망, 놀람.
+- **정서적 톤:** 누군가 읽기 전에 이 썸네일이 무엇을 전달하는가?
+
+**단단한 규칙:**
+- 썸네일 텍스트 최대 5단어. 더 적을수록 좋음.
+- 텍스트는 배경과 대비되어야 함. 어두운 배경의 어두운 텍스트는 작은 크기에서 보이지 않음.
+- 스톡 사진 느낌 금지. 정돈됐지만 일반적으로 보이는 썸네일은 무시됨.
+- 텍스트와 이미지가 함께 작동해 호기심을 만들거나 관련성을 확인해야 함.
+
+---
+
+#### 숏폼 클립 추천
+
+녹취에서 YouTube Shorts, Instagram Reels, 또는 TikTok용으로 뽑을 가장 좋은 30~60초 구간 하나를 식별.
+
+다음 제공:
+
+- **시작·종료 타임스탬프** (근사, 녹취 위치 기반)
+- **녹취 발췌:** 그 구간의 실제 단어를 붙여넣음
+- **왜 이 구간이 작동하는가:** 2~3 문장. 독립 클립으로 무엇이 가닿게 만드는가? 첫 3초에 후크가 있는가? 긴장을 해결하는가? 더 보고 싶게 만드는가?
+- **추천 숏폼 제목:** 20자 미만 (한국어). 전체 설교 제목이 아니라 숏폼 발견을 위해.
+
+좋은 숏폼 클립:
+- 도입이 아니라 긴장의 중간에서 시작
+- 완전한 포인트를 만들거나 완전한 마이크로 이야기를 전함
+- 이해를 위해 설교 나머지를 필요로 하지 않음
+- 멈추거나 다시 볼 가치가 있는 순간이 있음
+
+---
+
+## 안티 패턴
+
+이것들은 단단한 정지점. 출력에 속하지 않음:
+
+- **콘텐츠를 잘못 표현하는 클릭베이트.** 설교가 제목의 약속에 답하지 않는다면, 제목을 바꾸십시오.
+- **"믿을 수 없을 것입니다" 에너지.** 이것은 설교입니다. 선정주의는 시청할 가능성이 가장 큰 청중과의 신뢰를 죽입니다.
+- **20개 넘는 태그.** 태그 부풀림은 스팸 신호. 양보다 질.
+- **녹취 덤프 설명.** 설명은 녹취가 아닙니다. 영상의 판매 페이지입니다. 그렇게 쓰십시오.
+- **5단어 넘는 썸네일.** 8단어가 필요하다면, 컨셉이 충분히 강하지 않은 것.
+- **시리즈 이름만 있는 제목.** "닻: 5편"은 검색 엔진에게 아무것도 말해주지 않고 아무에게도 클릭을 설득하지 못함.
+- **줄표.** 사용하지 마십시오. 마침표, 쉼표, 콜론 사용.
+
+---
+
+## 품질 점검
+
+출력 제시 전 확인:
+
+- [ ] 세 제목 옵션 모두 30자 미만 (한국어)
+- [ ] 설명의 첫 2줄이 "더보기" 없이 독립적으로 서 있음
+- [ ] 타임스탬프가 존재하고 구조가 아니라 콘텐츠로 라벨됨
+- [ ] 태그 총합이 15~20개
+- [ ] 같은 태그가 다른 형태로 두 번 등장하지 않음
+- [ ] 각 썸네일 컨셉이 배경, 텍스트, 사진 위치, 톤을 포함
+- [ ] 썸네일 텍스트가 5단어 이하
+- [ ] 숏폼 클립이 30~60초이고, 녹취 발췌가 있으며, 추천 제목이 있음
+- [ ] 출력 어디에도 줄표 사용 없음
+- [ ] 자리표시자 없음. 모든 콘텐츠가 완성되고 사용 준비됨.

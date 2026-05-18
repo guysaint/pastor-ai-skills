@@ -1,185 +1,185 @@
 ---
 name: announcement-script
-description: Write a 60-90 second spoken announcement script for Sunday morning. Conversational, prioritized, max 3-4 items. No one zones out.
+description: 주일 광고용 60~90초 스피치 원고를 작성합니다. 대화체, 우선순위 정리, 최대 3~4개 항목. 아무도 졸지 않게.
 ---
 
-# Sunday Announcement Script
+# 주일 광고 스피치 원고
 
-**Say what matters in 90 seconds or less.**
+**중요한 것을 90초 이하로 말하라.**
 
-> Requires: pastor-foundation skill
-
----
-
-## What This Skill Does
-
-Most Sunday announcements are boring because they try to cover everything. This skill does the opposite. It forces ruthless prioritization, then writes a word-for-word spoken script that opens with energy, moves fast, and lands every item with a clear call to action.
-
-The result: people actually listen, and you're done in under 90 seconds.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Input
+## 이 스킬이 하는 일
 
-Provide a list of announcements to work from. Include anything you're considering mentioning. More is fine. This skill will sort it out.
+대부분의 주일 광고는 모든 것을 다루려 해서 지루합니다. 이 스킬은 정반대로 합니다. 잔혹할 정도의 우선순위 정리를 강제한 후, 에너지로 시작하고, 빠르게 움직이며, 모든 항목을 명확한 행동 요청으로 착지시키는 단어 단위 스피치 원고를 작성합니다.
 
-**Required:**
-- A list of announcements (events, deadlines, updates, volunteer needs, giving moments, anything)
+결과: 사람들이 실제로 듣고, 90초 이내에 끝납니다.
 
-**Optional:**
-- Who is delivering the announcements (pastor, worship leader, volunteer, etc.)
-- The overall tone of the service (celebratory, reflective, high energy, quiet)
-- Any announcement that is non-negotiable and must be spoken
+---
 
-**Example input:**
+## 입력
+
+작업할 광고 목록을 제공하십시오. 언급할까 고민 중인 것 모두 포함하십시오. 많아도 됩니다. 이 스킬이 정리합니다.
+
+**필수:**
+- 광고 목록 (행사, 마감, 업데이트, 봉사 모집, 헌금 시간, 모든 것)
+
+**선택사항:**
+- 광고를 전하는 사람 (목회자, 예배 인도자, 봉사자 등)
+- 예배의 전반적 톤 (축하, 묵상, 고에너지, 차분함)
+- 협상 불가능하고 반드시 구두로 전해야 하는 광고
+
+**입력 예시:**
 ```
-- Women's Bible study starts Thursday, 7pm, room 214
-- Volunteer signup for summer VBS
-- Baptism Sunday is April 20th, sign up at the welcome table
-- Offering moment
-- New sermon series starts next week
-- Youth group rescheduled from Friday to Saturday this week
-- Food pantry needs canned goods
+- 여전도회 성경공부 목요일 저녁 7시 시작, 214호
+- 여름 성경학교 봉사자 모집
+- 침례 주일 4월 20일, 안내석에서 신청
+- 헌금 시간 멘트
+- 다음 주 새 설교 시리즈 시작
+- 청년부 모임 이번 주만 금요일에서 토요일로 변경
+- 푸드뱅크 통조림 후원 요청
 ```
 
 ---
 
-## Workflow
+## 워크플로우
 
-### Step 1: Triage
+### 단계 1: 분류
 
-If more than 4 items are submitted, force-rank them by two criteria:
+4개를 넘는 항목이 제출되면, 두 가지 기준으로 강제 순위를 매깁니다:
 
-1. **Urgency:** Is there a deadline this week or next? Would missing this cost someone a real opportunity?
-2. **Relevance to the whole room:** Does this apply to most of the congregation, or just a small segment?
+1. **긴급성:** 이번 주나 다음 주 마감이 있는가? 놓치면 실제 기회 비용이 있는가?
+2. **전체 회중과의 관련성:** 회중 대부분에 해당하는가, 일부에만 해당하는가?
 
-Only the top 3-4 items make the spoken script. Everything else gets bumped to the bulletin, slides, or email section at the bottom of the output. Be decisive. Crowding the script helps no one.
+상위 3~4개만 구두 원고에 들어갑니다. 나머지는 모두 주보, 슬라이드, 또는 출력물 하단의 이메일 섹션으로 밀려납니다. 결단력 있게 하십시오. 원고를 채우는 것은 누구에게도 도움이 되지 않습니다.
 
-If an item was marked non-negotiable by the submitter, it stays in the spoken script regardless of rank.
-
----
-
-### Step 2: Write the Script
-
-Write a complete, word-for-word spoken script. No fill-in-the-blank. No placeholders. Every sentence should be deliverable as written.
-
-**Rules:**
-
-**Opening hook.** Do not open with "We have a few announcements" or any variation of it. Open with something that earns attention. A question, a bold statement, a brief moment of connection to what just happened in worship, or a direct lead into the first announcement. Examples:
-- "Before we go any further, I need 60 seconds of your attention because what I'm about to tell you matters."
-- "A few things that can genuinely change your week."
-- "Three things. One minute. Here we go."
-
-**Each announcement: 2-3 sentences max.** Structure every item the same way:
-1. Why it matters to the person in the seat (the benefit, the transformation, the need being met)
-2. The logistics (date, time, location, what to do)
-3. One clear single action (sign up, talk to someone, grab a card, text a number)
-
-Do not include room numbers, committee chair names, or other fine print in the spoken script. That belongs in the bulletin.
-
-**Transitions.** Write brief natural bridges between items. Not "Number two." Not "Also." Something that moves the energy forward without sounding like a list.
-
-**Close.** End with a warm, forward-facing transition into the next part of the service. Not "That's all!" or "Back to you, pastor." Something that lands and leads. Examples:
-- "Alright. Now let's do what we came here to do."
-- "That's what's ahead. Right now, let's turn our attention to giving."
-- "Now, let's worship."
-
-**Length:** 60-90 seconds spoken at a natural pace. That is 150-225 words for the script body. Stay in that range.
-
-**Delivery notes.** Add brief parenthetical cues where helpful: (pause), (smile), (hold up the card), (point to the screen). Keep them minimal. Only where it genuinely helps the delivery.
+제출자가 협상 불가로 표시한 항목은 순위와 상관없이 구두 원고에 남습니다.
 
 ---
 
-## Output Format
+### 단계 2: 원고 작성
 
-Output is a **branded single-page PDF** designed to be printed and handed to the announcer. The PDF generator lives at `generate-pdf.py` in this skill folder.
+완전한 단어 단위 스피치 원고를 작성합니다. 빈칸 채우기 없음. 자리표시자 없음. 모든 문장이 쓰인 그대로 전달 가능해야 합니다.
 
-### PDF Layout
+**규칙:**
 
-1. **Header:** "Sunday Announcements" in navy, centered, bold
-2. **Meta line:** date | estimated seconds | items covered out of submitted (centered, gray)
-3. **Gold accent rule**
-4. **Deliverer/tone notes** in italic slate (if provided)
-5. **Script body** in readable serif type. Delivery cues written as `[pause]` in the JSON render as *(pause)* in italic slate color inline.
-6. **Divider** (thin gray rule)
-7. **Bumped items section:** "For the Bulletin / Slides / Email" header with bullet list of items that did not make the spoken cut
-8. **Footer:** thin gray rule with page number only (no REACHRIGHT branding)
+**오프닝 후크.** "광고 몇 가지 있습니다"나 그 어떤 변형으로 시작하지 마십시오. 주의를 끄는 것으로 여십시오. 질문, 대담한 진술, 방금 예배에서 일어난 일과의 짧은 연결, 또는 첫 광고로 바로 들어가기. 예:
+- "더 가기 전에, 60초만 집중해 주십시오. 제가 말씀드릴 내용이 중요합니다."
+- "이번 주를 바꿀 수도 있는 몇 가지."
+- "세 가지. 1분. 갑니다."
 
-### JSON Schema
+**각 광고: 최대 2~3문장.** 모든 항목을 같은 방식으로 구성:
+1. 자리에 앉은 사람에게 왜 중요한지 (혜택, 변화, 채워지는 필요)
+2. 실무 사항 (날짜, 시간, 장소, 할 일)
+3. 명확한 단일 행동 하나 (등록, 누구와 이야기, 카드 받기, 문자 보내기)
 
-Save the structured output as JSON matching this schema, then run `python generate-pdf.py input.json` to produce the PDF.
+방 번호, 위원장 이름, 또는 기타 세부 사항은 구두 원고에 포함하지 마십시오. 그건 주보에 속합니다.
+
+**전환.** 항목 사이에 짧고 자연스러운 다리를 씁니다. "두 번째." 아닙니다. "또한." 아닙니다. 목록처럼 들리지 않게 에너지를 앞으로 움직이는 것.
+
+**마무리.** 예배의 다음 부분으로 따뜻하고 앞을 향한 전환으로 끝냅니다. "이상입니다!" 또는 "다시 목사님께!" 아닙니다. 착지하고 이끄는 것. 예:
+- "좋습니다. 이제 우리가 모인 그 일을 하겠습니다."
+- "앞으로의 일이었습니다. 지금은 헌금에 마음을 모으겠습니다."
+- "이제, 예배 드리겠습니다."
+
+**길이:** 자연스러운 속도로 말할 때 60~90초. 한국어 기준 250~400자 사이의 원고 본문. 그 범위 안에서 유지.
+
+**전달 노트.** 도움이 되는 곳에 짧은 괄호 큐를 추가하십시오: (잠시 멈춤), (미소), (카드를 들어 보임), (화면을 가리킴). 최소한으로 유지. 전달에 진짜 도움이 되는 곳에만.
+
+---
+
+## 출력 형식
+
+출력은 광고하는 사람에게 인쇄해서 전달하기 위해 설계된 **단일 페이지 PDF**입니다. PDF 생성기는 이 스킬 폴더의 `generate-pdf.py`에 있습니다.
+
+### PDF 레이아웃
+
+1. **헤더:** "주일 광고", 진청색, 가운데 정렬, 굵게
+2. **메타 줄:** 날짜 | 예상 시간 | 제출된 항목 중 다룬 항목 (가운데, 회색)
+3. **금색 강조 선**
+4. **전달자/톤 노트** 슬레이트 이탤릭 (제공된 경우)
+5. **원고 본문** 읽기 좋은 명조체. JSON에서 `[pause]`로 쓴 전달 큐는 슬레이트 색 이탤릭의 *(잠시 멈춤)*으로 인라인 렌더링.
+6. **구분선** (얇은 회색 선)
+7. **밀려난 항목 섹션:** "주보·슬라이드·이메일용" 헤더와 구두 원고에 들어가지 못한 항목의 글머리표 목록
+8. **푸터:** 얇은 회색 선과 페이지 번호만 (REACHRIGHT 브랜딩 없음)
+
+### JSON 스키마
+
+구조화된 출력을 이 스키마에 맞는 JSON으로 저장한 다음 `python generate-pdf.py input.json`을 실행해 PDF를 생성하십시오.
 
 ```json
 {
-  "date": "April 20, 2026",
+  "date": "2026년 4월 20일",
   "estimated_seconds": 75,
   "items_submitted": 7,
   "items_covered": 3,
-  "deliverer": "Worship Pastor",
-  "tone_notes": "High energy, celebratory. Baptism Sunday.",
-  "script_body": "Full script text. Use [cue] for delivery cues. Separate paragraphs with double newlines.",
+  "deliverer": "예배 인도자",
+  "tone_notes": "고에너지, 축하 분위기. 침례 주일.",
+  "script_body": "원고 전체 텍스트. 전달 큐는 [큐] 사용. 문단은 이중 줄바꿈으로.",
   "bumped_items": [
-    {"item": "Youth group schedule change", "summary": "Friday moved to Saturday this week only."}
+    {"item": "청년부 일정 변경", "summary": "이번 주만 금요일에서 토요일로 이동."}
   ]
 }
 ```
 
-**Field notes:**
+**필드 메모:**
 
-- `script_body` -- Use `[brackets]` for delivery cues (e.g., `[pause]`, `[smile]`, `[point to screen]`). They render as italic colored text in the PDF. Separate paragraphs with double newlines (`\n\n`).
-- `bumped_items` -- Announcements that did not make the spoken script. Each has an `item` name and a one-line `summary` with key logistics.
-- `deliverer` and `tone_notes` are optional. If omitted, those lines are skipped in the PDF.
-- The PDF is church-branded (no REACHRIGHT footer).
-
----
-
-## Anti-Patterns
-
-Never do any of these:
-
-- **Exceed 90 seconds.** If the script runs long, cut an item. Do not compress by talking faster.
-- **Open with "We have a few announcements."** Or any version of it. This is the universal signal for people to check their phones.
-- **Include fine print in the spoken script.** Room numbers, committee chairs, budget lines, parking instructions. All of that belongs in the bulletin. The spoken script carries the headline and the action only.
-- **Use vague CTAs.** "Check it out!" or "Learn more!" are not actions. Every item ends with one specific thing a person can do right now or this week.
-- **End with dead phrases.** "That's all I got!" "That's it for announcements!" "Back to you, pastor!" None of these. The close should land the script and lead forward.
-- **Write for the announcer, not the listener.** Every sentence should answer the question: why does this matter to the person sitting in that seat right now?
+- `script_body` — 전달 큐는 `[대괄호]` 사용 (예: `[잠시 멈춤]`, `[미소]`, `[화면 가리킴]`). PDF에서 이탤릭 색상 텍스트로 렌더링. 문단은 이중 줄바꿈(`\n\n`)으로 구분.
+- `bumped_items` — 구두 원고에 들어가지 못한 광고. 각각 `item` 이름과 핵심 실무 정보가 담긴 한 줄 `summary`.
+- `deliverer`와 `tone_notes`는 선택사항. 생략하면 PDF에서 해당 줄이 건너뛰어집니다.
+- PDF는 교회 브랜드 (REACHRIGHT 푸터 없음).
 
 ---
 
-## Examples
+## 안티 패턴
 
-### Example: Strong Opening (Good)
+절대 하지 말 것:
 
-"Before we get to worship, three things you actually want to know about."
-
-### Example: Weak Opening (Bad)
-
-"Okay, so we have a couple of announcements real quick."
-
----
-
-### Example: Strong Announcement Item (Good)
-
-"If you've been thinking about getting baptized, this is your moment. Baptism Sunday is April 20th. Grab a card from the welcome table on your way out and hand it to anyone on our team."
-
-### Example: Weak Announcement Item (Bad)
-
-"We're having Baptism Sunday on April 20th, coordinated by the pastoral care team. If you're interested, you can find more information on the back table or talk to someone from the committee, and there are forms available in room 214."
+- **90초 초과.** 원고가 길어지면 항목을 자르십시오. 빨리 말해서 줄이지 마십시오.
+- **"광고 몇 가지 있습니다"로 시작.** 또는 그 어떤 변형도. 사람들이 휴대폰을 보기 시작하는 보편적 신호입니다.
+- **구두 원고에 세부 사항 포함.** 방 번호, 위원장, 예산, 주차 안내. 모두 주보에 속합니다. 구두 원고는 헤드라인과 행동만 운반합니다.
+- **모호한 행동 요청.** "확인해 보세요!" 또는 "더 알아보세요!"는 행동이 아닙니다. 모든 항목은 사람이 지금 또는 이번 주에 할 수 있는 구체적인 한 가지로 끝납니다.
+- **죽은 문구로 마무리.** "이상입니다!" "광고 끝!" "다시 목사님께!" 모두 안 됩니다. 마무리는 원고를 착지시키고 앞으로 이끌어야 합니다.
+- **광고자를 위해 쓰기, 청자가 아니라.** 모든 문장은 다음 질문에 답해야 합니다: 지금 이 자리에 앉은 사람에게 왜 이것이 중요한가?
 
 ---
 
-### Example: Strong Close (Good)
+## 예시
 
-"Alright. That's what's coming. Right now, let's give our attention to what matters most."
+### 예시: 강한 오프닝 (좋음)
 
-### Example: Weak Close (Bad)
+"예배 드리기 전에, 실제로 알고 싶으실 세 가지."
 
-"Okay, that's all I've got! Back to you, Pastor Dave."
+### 예시: 약한 오프닝 (나쁨)
+
+"네, 짧게 광고 몇 가지 있습니다."
 
 ---
 
-## Notes for the Deliverer
+### 예시: 강한 광고 항목 (좋음)
 
-If the person making announcements is not the lead pastor, include a brief note at the top of the output with one or two tone reminders specific to whoever is delivering. A worship leader carries different energy than a volunteer coordinator. The script should feel natural in their voice, not borrowed from someone else.
+"침례를 생각하고 계신다면 지금이 그 순간입니다. 침례 주일은 4월 20일입니다. 나가시면서 안내석에서 카드 한 장 받아 저희 팀원에게 전달해 주십시오."
 
-When in doubt, write shorter. Ninety seconds feels like three minutes when the congregation is waiting to worship. Respect their attention. Earn it fast. Get out clean.
+### 예시: 약한 광고 항목 (나쁨)
+
+"4월 20일에 침례 주일이 있고, 목양위원회에서 진행합니다. 관심 있으시면 뒤쪽 테이블에서 정보를 보시거나 위원회 분과 이야기하시면 되고, 214호에 신청서가 있습니다."
+
+---
+
+### 예시: 강한 마무리 (좋음)
+
+"좋습니다. 앞으로의 일이었습니다. 지금은 가장 중요한 것에 마음을 모으겠습니다."
+
+### 예시: 약한 마무리 (나쁨)
+
+"네, 이상입니다! 다시 박 목사님께 마이크를 넘기겠습니다."
+
+---
+
+## 전달자를 위한 메모
+
+광고하는 사람이 담임목사가 아니라면, 누가 전달하는지에 맞는 톤 리마인더 1~2개를 출력 상단에 짧게 포함하십시오. 예배 인도자는 봉사 코디네이터와 다른 에너지를 가집니다. 원고가 다른 사람에게서 빌려온 듯하지 않고 그 사람의 목소리에 자연스럽게 느껴져야 합니다.
+
+확신이 안 서면 더 짧게 쓰십시오. 회중이 예배를 기다릴 때 90초는 3분처럼 느껴집니다. 그들의 주의를 존중하십시오. 빠르게 얻으십시오. 깔끔하게 빠지십시오.

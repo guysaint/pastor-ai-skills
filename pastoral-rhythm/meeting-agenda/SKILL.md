@@ -1,240 +1,240 @@
 ---
 name: meeting-agenda
-description: Build a structured meeting agenda with time blocks, discussion questions, and action item prompts. Works for staff meetings, elder boards, deacon meetings, and volunteer huddles.
+description: 시간 블록, 토의 질문, 행동 항목 제안이 포함된 구조화된 회의 안건을 작성합니다. 사역자 회의, 당회, 제직회, 봉사자 모임에 사용 가능.
 ---
 
-# Meeting Agenda Builder
+# 회의 안건 작성기
 
-Run meetings that end on time and actually decide things.
+시간 안에 끝나고 실제로 결정이 내려지는 회의를 운영하십시오.
 
-> Requires: pastor-foundation skill
-
----
-
-## What You Need to Provide
-
-To build your agenda, give me the following:
-
-- **Meeting type:** Staff meeting, elder/deacon board, volunteer huddle, committee, or one-on-one
-- **Topics or items to cover:** List everything you want to address
-- **Time available:** Total meeting length (example: "60 minutes")
-- **Optional:** Decisions that must be made, reports expected, people attending
-
-The more context you give, the tighter the agenda. If you're not sure what you need, list your topics and I'll help you shape it.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Step 1: Assess and Prioritize
+## 제공해야 할 것
 
-Before building the agenda, I evaluate whether your items fit your time.
+안건 작성을 위해 다음을 알려주세요:
 
-**Rule of thumb:**
-- Discussion or decision item: 10-15 minutes each
-- Update or report: 5 minutes each
-- Opening and closing: 7 minutes combined (non-negotiable)
+- **회의 유형:** 사역자 회의, 당회/제직회, 봉사자 모임, 위원회, 또는 일대일
+- **다룰 주제 또는 항목:** 다룰 모든 것을 나열
+- **사용 가능 시간:** 회의 전체 길이 (예: "60분")
+- **선택사항:** 반드시 내려야 할 결정, 예상되는 보고, 참석자
 
-If your list doesn't fit, I'll flag it and recommend what to cut, defer, or consolidate. The goal is a realistic agenda, not an aspirational one nobody follows.
-
-**Common problems I'll flag:**
-- More than 4-5 substantive items in a 60-minute meeting
-- Decision items buried at the end where time always runs out
-- Reports that could be sent via email instead of discussed live
-- Items that belong in a different meeting type entirely
+맥락이 많을수록 안건이 더 조여집니다. 무엇이 필요한지 확신이 없으면 주제만 나열하셔도 됩니다. 모양을 잡아드립니다.
 
 ---
 
-## Step 2: Build the Agenda
+## 단계 1: 평가와 우선순위
 
-Every agenda follows this format:
+안건을 짜기 전에, 항목들이 시간에 맞는지 평가합니다.
 
----
+**경험 법칙:**
+- 토의 또는 결정 항목: 각 10~15분
+- 업데이트 또는 보고: 각 5분
+- 오프닝과 마무리: 합쳐 7분 (협상 불가)
 
-```
-## [Meeting Type] Agenda
-**Date:** [date]
-**Time:** [start] - [end] ([total] minutes)
-**Location:** [if provided]
+목록이 안 들어맞으면 표시하고 무엇을 잘라내거나, 미루거나, 통합할지 추천합니다. 목표는 현실적인 안건이지, 아무도 따르지 않는 이상적인 안건이 아닙니다.
 
----
-
-### Opening (5 min)
-- Opening prayer / brief devotional with scripture suggestion
-- Quick check-in: "What's one win from this week?"
-
-### [Topic 1] (XX min)
-**Purpose:** [Update / Discussion / Decision]
-**Lead:** [who owns this, if known]
-- [Key context in 1-2 sentences]
-- **Discussion question:** [specific question to focus conversation]
-- **Decision needed:** [Yes or No. If yes, state exactly what needs to be decided.]
-
-### [Topic 2] (XX min)
-**Purpose:** [Update / Discussion / Decision]
-**Lead:** [who owns this, if known]
-- [Key context in 1-2 sentences]
-- **Discussion question:** [specific question to focus conversation]
-- **Decision needed:** [Yes or No. If yes, state exactly what needs to be decided.]
-
-### Action Items and Next Steps (5 min)
-- Review decisions made in this meeting
-- Assign action items with owners and deadlines
-- Confirm next meeting date
-
-### Closing (2 min)
-- Closing prayer or brief word of encouragement
+**흔히 표시하는 문제들:**
+- 60분 회의에 실질적 항목 4~5개 초과
+- 결정 항목이 시간이 항상 부족해지는 끝에 묻혀 있음
+- 라이브 토의 대신 이메일로 보낼 수 있는 보고
+- 다른 회의 유형에 속하는 항목
 
 ---
 
-**Time check:** [Total allocated vs. available]
-**Parking lot:** [Items deferred to a future meeting]
-```
+## 단계 2: 안건 작성
 
----
-
-## Design Rules
-
-These rules apply to every agenda I build. No exceptions.
-
-**Tag every item.** Each agenda item gets one label: Update, Discussion, or Decision. This tells everyone what's expected of them before the item starts. Updates require listening. Discussions require input. Decisions require a clear yes or no at the end.
-
-**Decision items get discussion questions.** Vague agenda items produce circular conversation. A specific question focuses the room. "Should we hire a part-time worship associate?" is better than "Worship staffing discussion."
-
-**Build in a buffer.** Every agenda leaves 5-10 minutes unallocated. Real meetings drift. If everything runs perfectly, use the time for the parking lot or end early. Early endings build trust.
-
-**Keep opening and closing brief.** Opening prayer and a check-in take 5 minutes total. Closing prayer takes 2 minutes. This is a business meeting with a spiritual foundation, not a devotional with an agenda attached.
-
-**Time blocks must add up.** Every item gets a time allocation. Total allocated time must be equal to or less than the available meeting time. If it doesn't fit, something gets cut.
-
-**Put decisions early, not last.** High-stakes decisions belong in the first half of the meeting when everyone's focused and energy is high. Reports and updates go at the end.
-
----
-
-## Meeting Type Adjustments
-
-### Staff Meetings
-More updates, fewer decisions. The team needs to know what's happening across departments and feel connected. Include a team win near the top. Limit decisions to 1-2 items per meeting or staff starts dreading the calendar invite.
-
-### Elder and Deacon Boards
-More decisions, formal process. Include a brief financial or ministry report. Flag any items that require a formal vote and note the vote threshold (simple majority, two-thirds, etc.). Elders and deacons are giving their time as unpaid leaders. Respect that with a tight agenda.
-
-### Volunteer Huddles
-Under 30 minutes, every time. Load it with encouragement and keep logistics light. One clear ask at the end: what do you need volunteers to do or know before next week? Volunteers leave motivated or they stop showing up.
-
-### One-on-Ones
-Skip the rigid format. Use 3-4 open-ended check-in questions and leave space for the conversation to go where it needs to go. Suggested questions: How are you doing, really? What's been the hardest part of your role this month? Where do you need support? What's coming up that you're nervous about?
-
----
-
-## Anti-Patterns I Will Never Build
-
-**Fifteen items for a 60-minute meeting.** This is not an agenda, it is a wish list. Items will get cut on the fly, nothing will get proper time, and the meeting will run long anyway. Pick the top 5 and defer the rest.
-
-**No time allocations.** An agenda without time blocks is a list. Time blocks communicate priority, keep the facilitator accountable, and give attendees a clear read on whether a discussion is going long.
-
-**Important decision saved for last.** When the budget vote or staffing decision lands at the end of a meeting, it gets 4 minutes of distracted attention from people who are mentally already out the door. Put the most important thing first.
-
-**Opening devotional that runs 15 minutes.** A 15-minute devotional before a 60-minute meeting means you are having a 75-minute meeting. Brief prayer and a scripture verse honors everyone's time and still centers the meeting spiritually. Long devotionals before long meetings are a form of avoidance.
-
----
-
-## Example Output
-
-Here is a sample agenda for a 60-minute staff meeting with four items:
+모든 안건은 이 형식을 따릅니다:
 
 ---
 
 ```
-## Staff Meeting Agenda
-**Date:** April 14, 2026
-**Time:** 9:00 AM - 10:00 AM (60 minutes)
-**Location:** Conference Room B
+## [회의 유형] 안건
+**날짜:** [날짜]
+**시간:** [시작] ~ [종료] (총 [시간]분)
+**장소:** [제공된 경우]
 
 ---
 
-### Opening (5 min)
-- Opening prayer (brief, 1-2 minutes)
-- Check-in: "What's one win from the past week?"
+### 오프닝 (5분)
+- 오프닝 기도 / 짧은 묵상과 성경 본문 제안
+- 빠른 체크인: "이번 주의 한 가지 좋은 일은?"
 
-### Easter Weekend Debrief (15 min)
-**Purpose:** Discussion
-**Lead:** Lead Pastor
-- We had 47 first-time guests and four salvations. How did the team feel it went?
-- **Discussion question:** What worked better than expected, and what would we do differently next year?
-- **Decision needed:** No.
+### [주제 1] (XX분)
+**목적:** [업데이트 / 토의 / 결정]
+**담당:** [누구의 것인지, 알려진 경우]
+- [핵심 맥락 1~2 문장]
+- **토의 질문:** [대화를 집중시킬 구체적 질문]
+- **결정 필요:** [예 또는 아니오. 예라면 결정해야 할 것을 정확히 진술.]
 
-### Summer Series Planning (15 min)
-**Purpose:** Decision
-**Lead:** Teaching Pastor
-- We need to lock in the summer series topic and dates before we can brief the design team.
-- **Discussion question:** Between the two proposed series concepts, which one better fits where our congregation is right now?
-- **Decision needed:** Yes. Choose series topic and confirm start date.
+### [주제 2] (XX분)
+**목적:** [업데이트 / 토의 / 결정]
+**담당:** [누구의 것인지, 알려진 경우]
+- [핵심 맥락 1~2 문장]
+- **토의 질문:** [대화를 집중시킬 구체적 질문]
+- **결정 필요:** [예 또는 아니오. 예라면 결정해야 할 것을 정확히 진술.]
 
-### Children's Ministry Volunteer Gap (10 min)
-**Purpose:** Discussion
-**Lead:** Children's Director
-- We're 6 volunteers short for the summer. Current recruiting efforts have stalled.
-- **Discussion question:** What are two or three recruitment channels we haven't tried yet?
-- **Decision needed:** No. Decision will come in next week's meeting after options are explored.
+### 행동 항목과 다음 단계 (5분)
+- 이번 회의에서 내려진 결정 검토
+- 담당자와 마감으로 행동 항목 배정
+- 다음 회의 날짜 확인
 
-### Budget Update (5 min)
-**Purpose:** Update
-**Lead:** Executive Pastor
-- Q1 came in 3% under budget. Brief overview of what's ahead in Q2.
-- **Decision needed:** No.
-
-### Action Items and Next Steps (8 min)
-- Review: Series topic and start date agreed on
-- Assign: Children's Director to return next week with 3 recruitment ideas
-- Assign: Executive Pastor to send Q1 budget summary by Friday
-- Confirm: Next staff meeting April 21
-
-### Closing (2 min)
-- Closing prayer
+### 마무리 (2분)
+- 마무리 기도 또는 짧은 격려의 말
 
 ---
 
-**Time check:** 60 minutes allocated / 60 minutes available
-**Parking lot:** Building project update (deferred to April 21 meeting)
+**시간 점검:** [할당된 시간 vs. 사용 가능 시간]
+**보류 항목:** [향후 회의로 미뤄진 항목]
 ```
 
 ---
 
-## How to Use This Skill
+## 설계 규칙
 
-Paste or describe your meeting details and I will build a complete, ready-to-run agenda. Include your meeting type, time available, and topics to cover. If you have specific decisions that must land in this meeting, name them. The more specific you are, the more useful the agenda.
+이 규칙들은 제가 짜는 모든 안건에 적용됩니다. 예외 없습니다.
 
-If you are not sure what belongs on the agenda, list everything on your mind and I will help you prioritize, cut, and sequence it.
+**모든 항목에 태그를 다십시오.** 각 안건 항목은 라벨 하나를 받습니다: 업데이트, 토의, 또는 결정. 이것이 항목 시작 전에 모두에게 무엇이 기대되는지 알려줍니다. 업데이트는 듣기를 요구합니다. 토의는 의견을 요구합니다. 결정은 끝에 명확한 예 또는 아니오를 요구합니다.
+
+**결정 항목에는 토의 질문이 따릅니다.** 모호한 안건 항목은 빙빙 도는 대화를 만듭니다. 구체적 질문이 방을 집중시킵니다. "예배 부사역자를 시간제로 채용해야 하는가?"가 "예배 인력 토의"보다 낫습니다.
+
+**버퍼를 만드십시오.** 모든 안건은 5~10분을 할당하지 않은 채로 둡니다. 실제 회의는 흐릅니다. 모든 것이 완벽하게 진행되면, 그 시간을 보류 항목에 쓰거나 일찍 끝내십시오. 일찍 끝나는 것이 신뢰를 만듭니다.
+
+**오프닝과 마무리를 짧게.** 오프닝 기도와 체크인은 총 5분. 마무리 기도는 2분. 이것은 영적 토대 위의 비즈니스 회의이지, 안건이 붙은 묵상회가 아닙니다.
+
+**시간 블록은 합산되어야 합니다.** 모든 항목이 시간 배정을 받습니다. 할당된 총 시간은 사용 가능한 회의 시간보다 작거나 같아야 합니다. 들어맞지 않으면 무언가 잘려야 합니다.
+
+**결정은 마지막이 아니라 앞쪽에.** 고위험 결정은 모두가 집중하고 에너지가 높은 회의의 전반부에 속합니다. 보고와 업데이트는 끝으로.
 
 ---
 
-## Output Format
+## 회의 유형별 조정
 
-After building the agenda, generate a JSON file matching this schema and pass it to `generate-pdf.py` to produce a REACHRIGHT-branded PDF.
+### 사역자 회의
+업데이트가 많고, 결정이 적음. 팀은 부서를 가로질러 무슨 일이 있는지 알고 연결을 느낄 필요가 있습니다. 위쪽에 팀의 좋은 소식을 포함하십시오. 회의당 결정은 1~2 항목으로 제한, 아니면 사역자들이 캘린더 초대를 보고 한숨 쉽니다.
+
+### 당회와 제직회
+결정이 많고, 형식 있는 절차. 짧은 재정 또는 사역 보고 포함. 정식 표결이 필요한 항목을 표시하고 표결 기준(단순 다수, 2/3 등)을 메모. 장로와 집사는 무급 리더로 시간을 드리고 있습니다. 조인 안건으로 그것을 존중하십시오.
+
+### 봉사자 모임
+매번 30분 미만. 격려로 채우고 실무는 가볍게 유지. 끝에 명확한 한 가지 요청: 다음 주 전에 봉사자가 무엇을 행하거나 알아야 하는가? 봉사자는 동기를 가지고 떠나거나, 더 이상 오지 않습니다.
+
+### 일대일
+경직된 형식 건너뛰기. 3~4개의 개방형 체크인 질문을 사용하고, 대화가 가야 할 곳으로 가도록 공간을 두십시오. 추천 질문: 진짜 어떻게 지내고 계세요? 이번 달 사역에서 가장 어려운 부분은 무엇이었나요? 어디서 도움이 필요한가요? 앞으로 긴장되는 일이 무엇인가요?
+
+---
+
+## 절대 짜지 않을 안티 패턴
+
+**60분 회의에 항목 15개.** 이것은 안건이 아니라 소원 목록입니다. 항목이 즉석에서 잘리고, 어떤 것도 적절한 시간을 못 받고, 회의는 어쨌든 길어집니다. 상위 5개 골라 나머지는 미루십시오.
+
+**시간 할당 없음.** 시간 블록 없는 안건은 단지 목록일 뿐입니다. 시간 블록은 우선순위를 전달하고, 진행자를 책임지게 만들고, 참석자가 토의가 길어지고 있는지 명확히 읽을 수 있게 합니다.
+
+**중요한 결정을 마지막에 저장.** 예산 표결이나 인사 결정이 회의 끝에 떨어지면, 이미 정신적으로 문을 나간 사람들에게서 4분의 산만한 주의를 받습니다. 가장 중요한 것을 먼저 놓으십시오.
+
+**15분 가는 오프닝 묵상.** 60분 회의 전 15분 묵상은 75분 회의를 가지는 것입니다. 짧은 기도와 한 성경 구절이 모두의 시간을 존중하면서도 회의를 영적으로 중심 잡습니다. 긴 회의 앞의 긴 묵상은 회피의 한 형태입니다.
+
+---
+
+## 출력 예시
+
+4개 항목의 60분 사역자 회의 예시 안건:
+
+---
+
+```
+## 사역자 회의 안건
+**날짜:** 2026년 4월 14일
+**시간:** 오전 9:00 ~ 오전 10:00 (60분)
+**장소:** 본당 회의실
+
+---
+
+### 오프닝 (5분)
+- 오프닝 기도 (짧게, 1~2분)
+- 체크인: "지난 한 주 한 가지 좋은 일은?"
+
+### 부활주일 디브리프 (15분)
+**목적:** 토의
+**담당:** 담임목사
+- 초신자 47명, 결신자 4명. 팀은 어떻게 느꼈는가?
+- **토의 질문:** 예상보다 잘 된 것은 무엇이며, 내년에는 무엇을 다르게 할까?
+- **결정 필요:** 아니오.
+
+### 여름 시리즈 기획 (15분)
+**목적:** 결정
+**담당:** 교육목사
+- 디자인 팀에 브리프하기 전에 여름 시리즈 주제와 날짜를 확정해야 함.
+- **토의 질문:** 제안된 두 시리즈 컨셉 중 회중이 지금 있는 자리에 더 맞는 것은 무엇인가?
+- **결정 필요:** 예. 시리즈 주제 선택 및 시작 날짜 확정.
+
+### 어린이부 봉사자 공백 (10분)
+**목적:** 토의
+**담당:** 어린이부 부장
+- 여름 봉사자 6명 부족. 현재 모집 노력이 정체됨.
+- **토의 질문:** 아직 시도하지 않은 모집 채널 2~3개는 무엇인가?
+- **결정 필요:** 아니오. 옵션 탐색 후 다음 주 회의에서 결정.
+
+### 예산 업데이트 (5분)
+**목적:** 업데이트
+**담당:** 행정목사
+- 1분기 예산 3% 절감 마감. 2분기 전망 개요.
+- **결정 필요:** 아니오.
+
+### 행동 항목과 다음 단계 (8분)
+- 검토: 시리즈 주제와 시작 날짜 합의
+- 배정: 어린이부 부장은 다음 주에 모집 아이디어 3개 가져오기
+- 배정: 행정목사는 금요일까지 1분기 예산 요약 발송
+- 확인: 다음 사역자 회의 4월 21일
+
+### 마무리 (2분)
+- 마무리 기도
+
+---
+
+**시간 점검:** 60분 할당 / 60분 사용 가능
+**보류 항목:** 건축 프로젝트 업데이트 (4월 21일 회의로 연기)
+```
+
+---
+
+## 이 스킬 사용법
+
+회의 세부사항을 붙여넣거나 묘사하시면 완성된, 바로 실행 가능한 안건을 짜드립니다. 회의 유형, 사용 가능 시간, 다룰 주제를 포함하십시오. 이번 회의에서 반드시 떨어져야 할 구체적 결정이 있다면 명명하십시오. 구체적일수록 안건이 더 유용해집니다.
+
+무엇이 안건에 속할지 확신이 없으면, 마음에 있는 모든 것을 나열하시면 우선순위, 잘라내기, 순서를 도와드립니다.
+
+---
+
+## 출력 형식
+
+안건 작성 후 이 스키마에 맞는 JSON 파일을 생성하고 `generate-pdf.py`에 전달해 PDF를 만드십시오.
 
 ```json
 {
-  "meeting_type": "Staff Meeting",
-  "date": "April 14, 2026",
-  "start_time": "9:00 AM",
-  "end_time": "10:00 AM",
+  "meeting_type": "사역자 회의",
+  "date": "2026년 4월 14일",
+  "start_time": "오전 9:00",
+  "end_time": "오전 10:00",
   "total_minutes": 60,
-  "location": "Conference Room B",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "church_name": "CHURCH_NAME from foundation",
+  "location": "본당 회의실",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "church_name": "파운데이션의 CHURCH_NAME",
   "time_check": {"allocated": 60, "available": 60},
-  "opening": {"minutes": 5, "prayer_note": "Opening prayer", "checkin_question": "One win from this week?"},
+  "opening": {"minutes": 5, "prayer_note": "오프닝 기도", "checkin_question": "이번 주의 한 가지 좋은 일은?"},
   "agenda_items": [
-    {"title": "Easter Debrief", "minutes": 15, "purpose": "Discussion", "lead": "Lead Pastor", "context": "47 guests, four salvations.", "discussion_question": "What worked better than expected?", "decision_needed": "No", "decision_detail": ""}
+    {"title": "부활주일 디브리프", "minutes": 15, "purpose": "토의", "lead": "담임목사", "context": "초신자 47명, 결신자 4명.", "discussion_question": "예상보다 잘 된 것은 무엇인가?", "decision_needed": "아니오", "decision_detail": ""}
   ],
-  "action_items": [{"action": "Send budget summary", "owner": "Executive Pastor", "deadline": "Friday"}],
-  "closing": {"minutes": 2, "note": "Closing prayer"},
-  "parking_lot": ["Building project update (deferred to April 21)"]
+  "action_items": [{"action": "예산 요약 발송", "owner": "행정목사", "deadline": "금요일"}],
+  "closing": {"minutes": 2, "note": "마무리 기도"},
+  "parking_lot": ["건축 프로젝트 업데이트 (4월 21일로 연기)"]
 }
 ```
 
-**Field notes:**
+**필드 메모:**
 
-- **purpose** must be one of: "Update", "Discussion", or "Decision"
-- **decision_needed** must be "Yes" or "No"
-- **decision_detail** is only used when decision_needed is "Yes"
-- Do not use em dashes in any field values
+- **purpose**는 다음 중 하나여야 함: "업데이트", "토의", 또는 "결정"
+- **decision_needed**는 "예" 또는 "아니오"여야 함
+- **decision_detail**은 decision_needed가 "예"일 때만 사용
+- 어느 필드 값에도 줄표(—) 사용 금지

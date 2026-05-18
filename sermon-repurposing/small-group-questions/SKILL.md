@@ -1,190 +1,190 @@
 ---
 name: small-group-questions
-description: Generate weekly small group discussion questions based on the Sunday sermon. Observation, interpretation, application flow. Includes icebreaker and closing prayer prompt. Ready to hand to group leaders.
+description: 주일 설교 기반의 주간 순/목장 토론 질문을 생성합니다. 관찰·해석·적용의 흐름. 아이스브레이커와 마무리 기도 제안 포함. 인도자에게 바로 건넬 수 있는 가이드.
 ---
 
-# Small Group Discussion Questions
+# 순/목장 토론 질문
 
-Sunday's sermon becomes Monday's small group conversation.
+주일의 설교가 월요일의 순/목장 대화가 됩니다.
 
-**Requires:** pastor-foundation skill
-
----
-
-## What You Need to Provide
-
-**Required:**
-- Sermon passage (book, chapter, verses)
-
-**Helpful (any level of detail works):**
-- Key points from the sermon
-- The big idea or main takeaway
-- A transcript, outline, or rough notes
-
-**Optional:**
-- A specific application emphasis you want reinforced
-- The date of the sermon
-- Your preferred Bible translation
-
-The more context you provide, the tighter the questions will track the actual sermon. A passage alone is enough to generate solid questions, but sermon notes produce a guide that feels like a direct extension of Sunday.
+**필수:** pastor-foundation 스킬
 
 ---
 
-## Step 1: Extract the Core
+## 제공해야 할 것
 
-Before writing a single question, identify:
+**필수:**
+- 설교 본문 (권, 장, 절)
 
-1. **The Big Idea.** One sentence. What was the sermon ultimately about? Not the topic, the point. "God is faithful" is a topic. "God's faithfulness in the wilderness is the reason you can trust him in yours" is a big idea.
-2. **2-3 Key Themes.** The threads the pastor kept returning to. These anchor the interpretation questions.
-3. **The Primary Application.** What did the pastor call people to do, believe, or change?
+**도움이 됨 (어느 수준이든 작동):**
+- 설교의 핵심 메시지
+- 큰 아이디어 또는 주요 결론
+- 녹취, 개요, 또는 거친 메모
 
-Questions reinforce the sermon. They do not go on interesting tangents the passage could support. If the pastor preached on forgiveness and didn't touch on justice, don't write a question about justice. Stay in the lane the sermon opened.
+**선택사항:**
+- 강조하고 싶은 구체적 적용 포인트
+- 설교 날짜
+- 선호하는 성경 번역본
 
----
-
-## Step 2: Generate the Discussion Guide
-
-Produce the complete guide in this format:
-
----
-
-## Small Group Discussion Guide
-
-**Week of:** [date if provided, otherwise leave blank]
-**Passage:** [passage reference]
-**Big Idea:** [one sentence distilled from the sermon]
+맥락을 더 제공할수록 질문이 실제 설교를 더 정확히 따라갑니다. 본문만 있어도 견고한 질문을 생성할 수 있지만, 설교 노트가 있으면 주일의 직접적인 연장처럼 느껴지는 가이드가 나옵니다.
 
 ---
 
-**Icebreaker** (leader picks one)
+## 단계 1: 핵심 추출
 
-- [Option A: lighter or fun. Something anyone can answer without knowing the Bible or having attended the service. Draws people in before the conversation gets serious.]
-- [Option B: slightly more reflective. Still accessible, but begins to open the emotional or experiential door toward the sermon topic.]
+질문 한 줄을 쓰기 전에 다음을 식별합니다:
 
----
+1. **큰 아이디어.** 한 문장. 설교가 궁극적으로 무엇에 관한 것이었는가? 주제가 아니라 요점입니다. "하나님은 신실하시다"는 주제입니다. "광야에서의 하나님의 신실하심이 당신의 광야에서도 그분을 신뢰할 수 있는 이유다"는 큰 아이디어입니다.
+2. **2~3개의 핵심 주제.** 설교자가 계속 돌아왔던 줄기들. 해석 질문의 닻이 됩니다.
+3. **주요 적용.** 설교자가 사람들에게 무엇을 행하고, 믿고, 바꾸라고 부르고 있었는가?
 
-**Read the Passage Together**
-
-[Passage reference. Use the pastor's preferred translation if known. Default to NIV.]
-
----
-
-**Observation Questions** (what does the text say?)
-
-1. [A question grounded in what's literally on the page. Characters, sequence, key words, repeated phrases. Anyone who just read the passage can answer this.]
-2. [Something easy to miss on a first read. A detail, a phrase, a shift in tone that most people skip over. Builds careful reading habits without requiring commentary.]
+질문은 설교를 강화합니다. 본문이 지지할 수 있을 흥미로운 곁길로 빠지지 않습니다. 설교자가 용서에 대해 설교했고 정의를 다루지 않았다면, 정의에 대한 질문을 쓰지 마십시오. 설교가 연 차선 안에 머무십시오.
 
 ---
 
-**Interpretation Questions** (what does the text mean?)
+## 단계 2: 토론 가이드 생성
 
-3. [Why the author made a specific choice: word selection, structure, who he addressed. Moves from observation into meaning.]
-4. [Cultural, historical, or linguistic context that changes or deepens the meaning. Keep it accessible, not academic. "In that culture, this meant..." style.]
-5. [How this passage connects to the larger biblical story. A thread to another text, a theme that runs through Scripture, or how this moment fits the redemption arc.]
+다음 형식으로 완전한 가이드를 산출합니다:
 
 ---
 
-**Application Questions** (what do we do about it?)
+## 순/목장 토론 가이드
 
-6. [Personal without being invasive. Invites honest reflection without requiring public confession. "Where do you find yourself in this story?" style.]
-7. [Connects the passage to daily life: work, family, relationships, finances, parenting. Makes the Bible feel relevant to Tuesday morning, not just Sunday.]
-8. [Challenges comfort or issues a call to action. This one should have some edge. Not harsh, but not soft either. The sermon made a demand. This question reinforces it.]
-
----
-
-**Going Deeper** (for groups that want more)
-
-9. [A cross-reference question that connects this passage to another text. "How does [X passage] add to or challenge what we read here?" Give the reference. Don't make them hunt for it.]
-10. [A theological question with guardrails. Opens a real doctrinal or philosophical question the passage raises, but frames it in a way that keeps the conversation grounded. Not "do you believe in predestination?" but "what does this text tell us about how God initiates relationship with people?"]
+**주차:** [날짜가 제공된 경우, 아니면 비워둠]
+**본문:** [본문 참조]
+**큰 아이디어:** [설교에서 정제한 한 문장]
 
 ---
 
-**Closing**
+**아이스브레이커** (인도자가 하나 선택)
 
-- **Prayer prompt:** [Specific direction based on the sermon theme. Not "pray for each other." Something like: "Spend a few minutes praying specifically about the area where this week's passage challenged you most. Ask God for the courage to act on what you heard, not just to think about it."]
-- **Optional challenge:** [One small, concrete action step for the week. Specific enough to be doable. Vague enough that it applies to different life situations. Something a group member could report back on next week.]
-
----
-
-## Design Rules
-
-**Volume:** 8-10 questions total, never more. Groups have 60-90 minutes. Every question should earn its place or get cut.
-
-**Flow:** Observation to Interpretation to Application. This is the inductive Bible study method. It works because it follows how understanding actually develops: see it, understand it, apply it. Never start with application. Groups that start with "what should we do?" skip the work of actually understanding what the text says.
-
-**Question type:** Open-ended only. Never yes/no. If the question can be answered with one word, rewrite it.
-
-**Application:** Specific to real life situations. Not theological abstraction. "How does this passage inform how you respond to a difficult coworker?" beats "How should Christians handle conflict?" every time.
-
-**Icebreakers:** Always provide two options. Different groups have different cultures. A men's group at 6 AM and a couples' group on Thursday night need different entry points.
-
-**Translation note:** Include the passage reference in the guide. Do not print out the full text. Groups should open their Bibles. That habit matters.
+- [옵션 A: 가볍거나 재미있는 것. 성경을 모르거나 예배에 참석하지 않았어도 누구나 답할 수 있는 것. 대화가 진지해지기 전에 사람들을 끌어들임.]
+- [옵션 B: 약간 더 묵상적인 것. 여전히 접근 가능하지만, 설교 주제로 향하는 정서적·경험적 문을 열기 시작.]
 
 ---
 
-## Anti-Patterns
+**함께 본문 읽기**
 
-These are the ways small group guides go wrong. Avoid all of them.
-
-**Writing for seminary students.** If a question requires knowing Greek, having read multiple commentaries, or understanding 2nd Temple Judaism to engage meaningfully, cut it or rewrite it. Questions serve the group, not the pastor's library.
-
-**Leading questions with one right answer.** "Don't you think God was testing Abraham's faith here?" is not a discussion question. It's a quiz with pressure attached. Write questions that genuinely invite different responses.
-
-**Feelings-only questions.** "How did this passage make you feel?" on repeat is not Bible study. It's group therapy with a Bible on the table. Feelings are one lane. The observation and interpretation questions keep the group in the text.
-
-**Assuming everyone heard the sermon.** Some group members skip Sunday. Others zone out. Others attend a different service and haven't seen the notes. Every question should work on its own. The guide should function as a standalone document even if someone walks in cold with only their Bible.
-
-**Generic closing prayers.** "Pray for each other's needs" is what groups do when the guide ran out of ideas. The prayer prompt should connect directly to what the passage demanded. If the sermon was about surrender, the closing prayer should be about surrender. Specific. Not generic.
-
-**Too many application questions.** Application is the goal, but three application questions is the limit. More than that and the group starts feeling like a confession booth. Let the text do the work in the observation and interpretation phases. The application questions land harder when they're earned.
+[본문 참조. 알려진 경우 설교자의 선호 번역본 사용. 기본값은 개역개정.]
 
 ---
 
-## Output Quality Check
+**관찰 질문** (본문이 무엇을 말하는가?)
 
-Before delivering the guide, verify:
-
-- The Big Idea is one sentence and comes from the sermon, not from a general theme the passage could support
-- All 10 questions are open-ended: no question can be answered yes or no
-- The three sections flow in order: observation, interpretation, application
-- At least one application question connects to daily work, family, or relationships (not just spiritual life)
-- The prayer prompt is specific to the sermon theme, not generic
-- The optional challenge is a concrete action step, not a vague encouragement
-- No em dashes anywhere in the document
-- Total question count is 10 or fewer
+1. [말 그대로 페이지에 있는 것에 기반한 질문. 인물, 순서, 핵심 단어, 반복되는 문구. 방금 본문을 읽은 사람이라면 답할 수 있음.]
+2. [처음 읽을 때 놓치기 쉬운 것. 디테일, 한 문구, 사람들이 보통 지나치는 톤의 전환. 주석 없이도 신중하게 읽는 습관을 길러줌.]
 
 ---
 
-## PDF Output
+**해석 질문** (본문이 무엇을 의미하는가?)
 
-The final output is a formatted, REACHRIGHT-branded PDF, not terminal text. Requires `reportlab` (`pip install reportlab`).
+3. [저자가 특정 선택을 한 이유: 단어 선택, 구조, 누구를 향해 썼는지. 관찰에서 의미로 이동.]
+4. [의미를 바꾸거나 깊게 하는 문화적·역사적·언어적 맥락. 학문적이지 않고 접근 가능하게. "그 문화에서는 이것이…" 식.]
+5. [이 본문이 더 큰 성경의 이야기와 어떻게 연결되는가. 다른 본문과의 줄기, 성경 전체를 흐르는 주제, 또는 이 순간이 구속 아크에 어떻게 들어맞는가.]
 
-### Process
+---
 
-1. Generate the discussion guide using the steps above.
-2. Assemble the structured data into the JSON schema below.
-3. Write a temporary JSON file matching the schema.
-4. Run `generate-pdf.py` with the JSON file to produce the PDF.
-5. Return the PDF path to the pastor.
+**적용 질문** (우리는 이것에 대해 무엇을 하는가?)
 
-### JSON Schema
+6. [침범적이지 않으면서 개인적. 공개 고백을 요구하지 않으면서 솔직한 반성을 초대. "이 이야기에서 자신은 어디 있는가?" 식.]
+7. [본문을 일상 삶에 연결: 일, 가정, 관계, 재정, 자녀양육. 성경을 주일뿐 아니라 화요일 아침에도 관련 있게 느껴지게.]
+8. [편안함에 도전하거나 행동을 요구. 약간의 날이 있어야 함. 거칠지 않게, 그러나 무르지도 않게. 설교가 요구를 했다면, 이 질문이 그것을 강화.]
+
+---
+
+**더 깊이** (더 원하는 순/목장을 위해)
+
+9. [이 본문을 다른 본문과 연결하는 상호참조 질문. "[X 본문]은 우리가 여기서 읽은 것에 무엇을 더하거나 도전하는가?" 참조를 주십시오. 사냥하게 만들지 마십시오.]
+10. [가드레일이 있는 신학적 질문. 본문이 제기하는 진짜 교리적·철학적 질문을 열되, 대화가 지면에 머물도록 프레임. "예정론을 믿는가?"가 아니라 "이 본문은 하나님이 사람과의 관계를 어떻게 시작하시는지 우리에게 무엇을 말하는가?"]
+
+---
+
+**마무리**
+
+- **기도 제안:** [설교 주제에 기반한 구체적 방향. "서로를 위해 기도하세요"가 아닙니다. "이번 주 본문이 가장 도전한 영역에 대해 구체적으로 몇 분 기도합시다. 들은 것을 단지 생각만 하는 게 아니라 행할 용기를 하나님께 구하십시오." 같은 식.]
+- **선택 도전 과제:** [이번 주의 작고 구체적인 행동 한 가지. 실행 가능할 만큼 구체적. 다른 삶의 상황에 적용될 만큼 모호. 다음 주에 순/목장 구성원이 보고할 수 있는 것.]
+
+---
+
+## 설계 규칙
+
+**분량:** 총 8~10개 질문, 더 안 됨. 순/목장은 60~90분이 있습니다. 모든 질문은 자리를 얻거나 잘려야 합니다.
+
+**흐름:** 관찰 → 해석 → 적용. 이것은 귀납적 성경공부 방법입니다. 이해가 실제로 발전하는 방식을 따르기 때문에 작동합니다: 보고, 이해하고, 적용합니다. 적용으로 시작하지 마십시오. "우리가 무엇을 해야 하는가?"로 시작하는 순/목장은 본문이 실제로 무엇을 말하는지 이해하는 작업을 건너뜁니다.
+
+**질문 유형:** 개방형만. 절대 예/아니오 아님. 한 단어로 답할 수 있다면 다시 쓰십시오.
+
+**적용:** 실제 삶의 상황에 구체적으로. 신학적 추상이 아님. "어려운 동료에게 어떻게 반응하는지에 이 본문이 어떻게 정보를 주는가?"가 "그리스도인이 갈등을 어떻게 다뤄야 하는가?"보다 매번 낫습니다.
+
+**아이스브레이커:** 항상 두 옵션 제공. 다른 순/목장은 다른 문화를 가집니다. 새벽 6시 남성 모임과 목요일 밤 부부 모임은 다른 진입점이 필요합니다.
+
+**번역본 메모:** 가이드에 본문 참조를 포함. 전체 본문을 인쇄하지 마십시오. 순/목장은 성경을 펴야 합니다. 그 습관이 중요합니다.
+
+---
+
+## 안티 패턴
+
+순/목장 가이드가 잘못되는 방식들. 모두 피하십시오.
+
+**신학교 학생을 위한 글쓰기.** 의미 있게 참여하려면 헬라어를 알거나, 여러 주석을 읽었거나, 2성전 시대 유대교를 이해해야 하는 질문이라면 잘라내거나 다시 쓰십시오. 질문은 목회자의 서재가 아니라 순/목장을 섬깁니다.
+
+**정답이 하나인 유도 질문.** "여기서 하나님이 아브라함의 믿음을 시험하셨다고 생각하지 않으세요?"는 토론 질문이 아닙니다. 압박이 붙은 퀴즈입니다. 진짜로 다른 답을 초대하는 질문을 쓰십시오.
+
+**감정만 묻는 질문.** "이 본문이 어떻게 느껴졌나요?"를 반복하는 것은 성경공부가 아닙니다. 성경을 놓고 하는 집단 상담입니다. 감정은 한 차선입니다. 관찰과 해석 질문이 순/목장을 본문 안에 머물게 합니다.
+
+**모두가 설교를 들었다고 가정.** 어떤 구성원은 주일을 건너뜁니다. 다른 사람은 졸기도 합니다. 또 다른 사람은 다른 시간 예배에 참석해 노트를 못 봤습니다. 모든 질문은 그 자체로 작동해야 합니다. 가이드는 누군가 성경만 들고 차갑게 들어와도 독립적인 문서로 기능해야 합니다.
+
+**일반적인 마무리 기도.** "서로의 필요를 위해 기도합시다"는 가이드가 아이디어가 떨어졌을 때 순/목장이 하는 것입니다. 기도 제안은 본문이 요구한 것과 직접 연결되어야 합니다. 설교가 항복에 관한 것이었다면, 마무리 기도는 항복에 관한 것이어야 합니다. 구체적으로. 일반적이지 않게.
+
+**너무 많은 적용 질문.** 적용이 목표이지만, 적용 질문 셋이 한계입니다. 그 이상이면 순/목장이 고해성사실처럼 느껴지기 시작합니다. 관찰과 해석 단계에서 본문이 일하게 하십시오. 적용 질문은 충분히 깔린 뒤에 더 강하게 가닿습니다.
+
+---
+
+## 출력 품질 점검
+
+가이드를 전달하기 전에 확인:
+
+- 큰 아이디어는 한 문장이며 본문이 지지할 수 있는 일반 주제가 아니라 설교에서 나왔는가
+- 10개 질문 모두 개방형: 예/아니오로 답할 수 있는 질문이 없는가
+- 세 섹션이 순서대로 흐르는가: 관찰, 해석, 적용
+- 적어도 하나의 적용 질문이 일상의 일·가정·관계에 연결되는가 (단순 영적 삶이 아니라)
+- 기도 제안이 일반적이지 않고 설교 주제에 구체적인가
+- 선택 도전 과제가 모호한 격려가 아니라 구체적 행동 단계인가
+- 문서 어디에도 줄표(—)가 없는가
+- 총 질문 수가 10개 이하인가
+
+---
+
+## PDF 출력
+
+최종 출력은 포맷된 PDF입니다 (터미널 텍스트가 아님). `reportlab`이 필요합니다 (`pip install reportlab`).
+
+### 프로세스
+
+1. 위 단계로 토론 가이드를 생성.
+2. 아래 JSON 스키마에 구조화된 데이터 조립.
+3. 스키마에 맞는 임시 JSON 파일 작성.
+4. JSON 파일로 `generate-pdf.py`를 실행해 PDF 생성.
+5. PDF 경로를 목회자에게 반환.
+
+### JSON 스키마
 
 ```json
 {
-  "passage": "Romans 8:1-11",
-  "date": "April 13, 2026",
-  "translation": "ESV",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "church_name": "CHURCH_NAME from foundation",
-  "big_idea": "One sentence distilled from the sermon.",
-  "icebreakers": ["Option A", "Option B"],
+  "passage": "로마서 8:1-11",
+  "date": "2026년 4월 13일",
+  "translation": "개역개정",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "church_name": "파운데이션의 CHURCH_NAME",
+  "big_idea": "설교에서 정제한 한 문장.",
+  "icebreakers": ["옵션 A", "옵션 B"],
   "observation_questions": ["Q1", "Q2"],
   "interpretation_questions": ["Q3", "Q4", "Q5"],
   "application_questions": ["Q6", "Q7", "Q8"],
   "going_deeper_questions": ["Q9", "Q10"],
-  "prayer_prompt": "Specific prayer direction.",
-  "optional_challenge": "One concrete action step."
+  "prayer_prompt": "구체적 기도 방향.",
+  "optional_challenge": "구체적 행동 단계 하나."
 }
 ```
 
-**Notes:** `icebreakers` always has exactly 2 entries. Question counts follow the guide structure: 2 observation + 3 interpretation + 3 application + 2 going deeper = 10 total. `pastor_name` and `church_name` come from the pastor-foundation skill. No em dashes anywhere in the content.
+**메모:** `icebreakers`는 항상 정확히 2개 항목. 질문 수는 가이드 구조를 따름: 관찰 2 + 해석 3 + 적용 3 + 더 깊이 2 = 총 10. `pastor_name`과 `church_name`은 pastor-foundation에서. 콘텐츠 어디에도 줄표 없음.

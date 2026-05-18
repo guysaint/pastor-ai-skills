@@ -1,168 +1,168 @@
 ---
 name: sermon-to-blog
-description: Turn a sermon transcript into a readable 800-1200 word blog post. Not a transcript. A standalone article. SEO-friendly title, meta description, and web-formatted body.
+description: 설교 녹취를 800~1,200자(공백 제외 기준 환산 후) 분량의 읽을 만한 블로그 글로 변환. 녹취가 아닌 독립된 글. SEO 친화적 제목, 메타 설명, 웹 포맷 본문.
 ---
 
-# Sermon to Blog Post
+# 설교를 블로그 글로
 
-**Preach it once, publish it forever.**
+**한 번 설교하고, 영원히 출판하라.**
 
-> Requires: pastor-foundation skill
-
----
-
-## What This Skill Does
-
-You preached a sermon. Maybe it was great. Maybe it was the best thing you've said from the pulpit all year. And now it's sitting in a folder somewhere as a transcript or a set of notes, doing nothing for the people who weren't in the room.
-
-This skill turns that sermon into a standalone, web-ready blog post that works for someone who has never heard you preach. Not a transcript dump. Not a summary. A real article, structured for reading, optimized for search, and written in your voice.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Input
+## 이 스킬이 하는 일
 
-Provide one of the following:
+설교를 하셨습니다. 좋았을 수도 있습니다. 올해 강단에서 한 말 중 최고였을 수도 있습니다. 그리고 지금 어딘가 폴더 안에 녹취나 노트로 앉아 있고, 그 자리에 없었던 사람들에게는 아무 일도 하지 않고 있습니다.
 
-- Full sermon transcript (preferred)
-- Recording notes or detailed outline with key points and illustrations
-- Bullet points covering the main ideas, scripture references, and any stories you told
-
-**Optional but helpful:** A target keyword or topic angle for SEO (e.g., "how to overcome anxiety as a Christian" or "what the Bible says about forgiveness").
-
-If you don't provide a keyword, one will be identified from the sermon content.
+이 스킬은 그 설교를, 당신의 설교를 한 번도 들어보지 않은 사람에게 작동하는 독립된 웹 준비 블로그 글로 변환합니다. 녹취 덤프가 아닙니다. 요약도 아닙니다. 읽기 위해 구조화되고, 검색에 최적화되고, 당신의 목소리로 쓰인 진짜 글입니다.
 
 ---
 
-## Workflow
+## 입력
 
-### Step 1: Extract the Core Message
+다음 중 하나를 제공:
 
-Before writing a single word of the post, identify:
+- 설교 전체 녹취 (선호)
+- 핵심 메시지와 예화가 담긴 녹음 노트나 상세 개요
+- 주요 아이디어, 성경 참조, 들려준 이야기를 다룬 글머리표
 
-- **The big idea.** One sentence. What is this sermon actually about? Not the title, not the passage. The transferable truth.
-- **The strongest illustration.** One story, analogy, or real-world example from the sermon that will translate well to reading (not all illustrations work the same way in print).
-- **The 3-4 most practical takeaways.** What can someone actually do, think differently about, or believe differently because of this content?
-- **The primary scripture.** The passage the whole message hangs on.
+**선택사항이지만 도움이 됨:** SEO를 위한 타깃 키워드나 주제 각도 (예: "그리스도인이 불안을 이기는 법", "성경이 용서에 대해 말하는 것").
 
-This step determines the structure. A blog post is not a transcript. It is a distilled, restructured version of the sermon's best content, rebuilt for a reader who is skimming on a phone at 7am.
-
----
-
-### Step 2: Write the Blog Post
-
-Produce all three components below. No placeholders. Complete, polished output.
+키워드를 제공하지 않으면 설교 내용에서 식별됩니다.
 
 ---
 
-#### Title
+## 워크플로우
 
-- SEO-friendly and compelling
-- Under 60 characters
-- Functions as both a search result and a social share
-- Includes the primary keyword naturally
-- Generate 2-3 options and recommend one
+### 단계 1: 핵심 메시지 추출
 
-**Examples of strong titles:**
-- "How to Stop Worrying When Life Falls Apart"
-- "What Jesus Actually Said About Anxiety"
-- "3 Things the Bible Says About Trusting God in Hard Times"
+글의 한 단어를 쓰기 전에 식별:
 
-**Avoid:**
-- Vague sermon titles that mean nothing outside the church walls ("The Anchor Holds," "Week 3: Going Deeper")
-- Clickbait that overpromises
-- Titles over 60 characters
+- **큰 아이디어.** 한 문장. 이 설교는 실제로 무엇에 관한 것인가? 제목이나 본문이 아닙니다. 전이 가능한 진리.
+- **가장 강한 예화.** 설교에서 읽기로 잘 옮겨갈 한 이야기, 비유, 또는 실제 사례 (모든 예화가 인쇄에서 같은 방식으로 작동하지는 않음).
+- **가장 실용적인 결론 3~4개.** 이 콘텐츠 때문에 누군가 실제로 무엇을 행하거나, 다르게 생각하거나, 다르게 믿을 수 있는가?
+- **주 성경 본문.** 메시지 전체가 걸린 본문.
+
+이 단계가 구조를 결정합니다. 블로그 글은 녹취가 아닙니다. 설교의 가장 좋은 콘텐츠를 정제하고 재구성한 버전이며, 오전 7시 휴대폰으로 훑어보는 독자를 위해 재건축됩니다.
 
 ---
 
-#### Meta Description
+### 단계 2: 블로그 글 작성
 
-- 140-160 characters
-- Summarizes the value of the article for someone seeing it in a search result
-- Includes the primary keyword naturally, not forced
-- Reads like a human wrote it, not a checklist item
+아래 세 구성 요소를 모두 산출. 자리표시자 없이. 완성되고 다듬어진 출력.
 
 ---
 
-#### Body: 800-1200 words
+#### 제목
 
-Structure the article as follows:
+- SEO 친화적이고 매력적
+- 30자 미만 (한국어 기준)
+- 검색 결과와 SNS 공유 모두에 기능
+- 주 키워드를 자연스럽게 포함
+- 2~3개 옵션 생성하고 하나를 추천
 
-**Opening Hook (no heading, 2-3 sentences)**
+**강한 제목의 예:**
+- "삶이 무너질 때 걱정을 멈추는 법"
+- "예수님이 불안에 대해 실제로 하신 말씀"
+- "어려운 때 하나님을 신뢰하는 것에 대해 성경이 말하는 3가지"
 
-Draw in a reader who did NOT hear the sermon. Use relatable tension, a pointed question, or a surprising statement. Meet them where they actually are.
-
-Do not open with:
-- "Last Sunday I preached about..."
-- "In this blog post, we will explore..."
-- A block of scripture
-- The sermon title
-
-The hook earns the right to be read. It should make a reader think: "Yes. That's exactly where I am."
-
----
-
-**Body Sections (3-4 sections, each with an H2 subheading)**
-
-Each section covers one key point from the sermon. The subheadings should be scannable and meaningful, not decorators.
-
-Guidelines for each section:
-- 150-250 words
-- Weave in scripture naturally. Do not block-quote every other paragraph. Reference it, quote a phrase, let it breathe.
-- Use the sermon's language and illustrations, adapted for reading. A story told out loud has different pacing than one told on the page. Tighten it. Cut the setup. Lead with what matters.
-- Keep paragraphs short: 2-3 sentences. White space is your friend.
-- Bold only what is genuinely worth emphasizing. Not every sentence. Sparingly.
-- Use bullet points only for actual lists, not to fake structure.
+**피할 것:**
+- 교회 담장 밖에서는 의미가 없는 모호한 설교 제목 ("닻은 잡힌다", "3주차: 더 깊이")
+- 과장 클릭베이트
+- 30자(한국어) 넘는 제목
 
 ---
 
-**Closing (no "In Conclusion" or "As We Wrap Up")**
+#### 메타 설명
 
-- 100-150 words
-- Clear single takeaway: what should the reader walk away believing or doing?
-- One concrete action step. Specific. Not "spend time in prayer this week." Something they can actually do today.
-- End with strength. Not a fade. Not a hedge. A statement or a question that lands.
-
----
-
-## Anti-Patterns
-
-These are hard stops. None of these belong in a published blog post:
-
-- **"In this blog post, we'll explore..."** -- Never. Cut it.
-- **Altar-call language** -- "If you're ready to give your life to Jesus tonight..." belongs in a sermon, not a blog post. Adapt it or cut it.
-- **Transcript sections** -- Do not paste long chunks of what was said verbatim. Restructure for reading.
-- **Keyword stuffing** -- One primary keyword. Use it 3-5 times naturally. Do not force it into every paragraph or subheading.
-- **Exceeding 1200 words** -- If you are over 1200 words, cut. Tighter is better. A reader who makes it to the end is worth more than one who gets halfway.
-- **Weak openings** -- If the first line would not stop a scroll, rewrite it.
-- **Em dashes** -- Do not use em dashes. Use a period, comma, or colon instead.
+- 70~90자 (한국어 기준)
+- 검색 결과에서 보는 사람에게 글의 가치를 요약
+- 주 키워드를 강요하지 않고 자연스럽게 포함
+- 체크리스트 항목이 아니라 사람이 쓴 것처럼 읽힘
 
 ---
 
-## Output Format
+#### 본문: 1,200~2,500자 (한국어 기준)
 
-Deliver the following, in order:
+다음과 같이 구조화:
 
-1. **Recommended title** (with 2 alternatives below it)
-2. **Meta description**
-3. **Full article body** (formatted with H2 subheadings, ready to paste into WordPress or any CMS)
-4. **SEO notes:** primary keyword identified, estimated keyword density, any secondary keywords naturally present
+**오프닝 후크 (제목 없음, 2~3 문장)**
+
+설교를 듣지 않은 독자를 끌어들이십시오. 공감되는 긴장, 날카로운 질문, 또는 놀라운 진술을 사용. 그들이 실제로 있는 자리에서 만나십시오.
+
+다음으로 시작하지 마십시오:
+- "지난 주일에 …에 대해 설교했습니다…"
+- "이 글에서 우리는 …을 살펴볼 것입니다…"
+- 성경 본문 한 덩어리
+- 설교 제목
+
+후크는 읽힐 권리를 얻습니다. 독자가 이렇게 생각하게 해야 합니다: "맞아. 정확히 내가 있는 자리야."
 
 ---
 
-## Quality Check
+**본문 섹션 (3~4 섹션, 각각 H2 부제)**
 
-Before presenting the output, verify:
+각 섹션은 설교의 핵심 포인트 하나를 다룹니다. 부제는 장식이 아니라 훑기 좋고 의미 있어야 합니다.
 
-- [ ] Opening hook does not reference the sermon, the service, or the pastor's name
-- [ ] Word count is between 800 and 1200
-- [ ] No em dashes used anywhere
-- [ ] Scripture is woven in, not block-quoted throughout
-- [ ] Paragraphs are 2-3 sentences max
-- [ ] Subheadings are present every 200-300 words
-- [ ] Closing has a clear action step
-- [ ] No altar-call language
-- [ ] Title is under 60 characters
-- [ ] Meta description is 140-160 characters
-- [ ] No filler phrases ("In this post...", "As we wrap up...", "In conclusion...")
+각 섹션 가이드라인:
+- 250~500자
+- 성경을 자연스럽게 엮어 짜기. 한 단락 건너 한 단락마다 블록 인용하지 마십시오. 참조하고, 한 구절을 인용하고, 숨 쉬게 하십시오.
+- 설교의 언어와 예화를 읽기에 맞게 각색. 소리 내어 말한 이야기는 종이에서와 다른 박자를 가집니다. 조이십시오. 도입부를 자르십시오. 중요한 것으로 이끄십시오.
+- 단락은 짧게: 2~3 문장. 공백은 당신의 친구입니다.
+- 진짜 강조할 가치가 있는 것만 굵게. 모든 문장이 아니라. 아껴서.
+- 글머리표는 실제 목록에만, 구조를 가짜로 꾸미는 데 쓰지 마십시오.
 
-If the output fails any of these checks, revise before presenting.
+---
+
+**마무리 ("결론적으로"나 "마무리하면" 없음)**
+
+- 200~300자
+- 명확한 단일 결론: 독자가 무엇을 믿거나 행하며 떠나야 하는가?
+- 하나의 구체적 행동 단계. 구체적으로. "이번 주에 기도 시간을 가지세요"가 아니라. 오늘 실제로 할 수 있는 것.
+- 강하게 끝맺기. 흐려지지 않게. 얼버무리지 않게. 가닿는 진술 또는 질문.
+
+---
+
+## 안티 패턴
+
+이것들은 단단한 정지점입니다. 출판되는 블로그 글에 속하지 않습니다:
+
+- **"이 글에서 우리는 …을 살펴볼 것입니다…"** — 절대 안 됨. 잘라내십시오.
+- **결단 초청 언어** — "오늘 저녁 예수님께 삶을 드릴 준비가 되셨다면…"은 설교에 속하지 블로그 글에 속하지 않습니다. 각색하거나 잘라내십시오.
+- **녹취 섹션** — 들은 말 그대로 긴 덩어리를 붙여넣지 마십시오. 읽기에 맞게 재구성하십시오.
+- **키워드 스터핑** — 주 키워드 하나. 자연스럽게 3~5번 사용. 모든 단락이나 부제에 강요하지 마십시오.
+- **2,500자 초과** — 넘으면 자르십시오. 더 조이면 더 낫습니다. 끝까지 읽는 독자가 절반까지 가는 독자보다 가치 있습니다.
+- **약한 오프닝** — 첫 줄이 스크롤을 멈추지 못한다면 다시 쓰십시오.
+- **줄표(—)** — 줄표를 사용하지 마십시오. 마침표, 쉼표, 콜론을 사용하십시오.
+
+---
+
+## 출력 형식
+
+다음을 순서대로 전달:
+
+1. **추천 제목** (아래 2개 대안 함께)
+2. **메타 설명**
+3. **전체 본문** (H2 부제로 포맷, WordPress나 어떤 CMS에도 붙여넣을 준비 완료)
+4. **SEO 메모:** 식별된 주 키워드, 추정 키워드 밀도, 자연스럽게 존재하는 보조 키워드
+
+---
+
+## 품질 점검
+
+출력 제시 전 확인:
+
+- [ ] 오프닝 후크가 설교, 예배, 또는 목회자 이름을 언급하지 않는다
+- [ ] 글자 수가 1,200~2,500자 사이
+- [ ] 어디에도 줄표 사용 없음
+- [ ] 성경이 엮여 짜여 있고, 전체에 블록 인용되어 있지 않음
+- [ ] 단락은 최대 2~3 문장
+- [ ] 250~500자마다 부제가 존재
+- [ ] 마무리에 명확한 행동 단계가 있음
+- [ ] 결단 초청 언어 없음
+- [ ] 제목이 30자 미만
+- [ ] 메타 설명이 70~90자
+- [ ] 채움 문구 없음 ("이 글에서…", "마무리하면…", "결론적으로…")
+
+이 점검 중 하나라도 통과하지 못하면 제시 전에 수정.

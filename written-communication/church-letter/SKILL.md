@@ -1,216 +1,212 @@
 ---
 name: church-letter
-description: Write a complete church letter for any occasion. Leadership transitions, facility updates, policy changes, welcome letters, or sensitive communications. Pastoral tone with appropriate weight for the situation.
+description: 다양한 상황의 교회 편지를 완성합니다. 리더십 전환, 시설 안내, 정책 변경, 환영 편지, 또는 민감한 소통. 상황에 맞는 무게감이 담긴 목회적 어조.
 ---
 
-# Church Letter Writer
+# 교회 편지 작성기
 
-The right words for the hard letters and the good ones.
+어려운 편지와 좋은 편지를 위한 정확한 단어들.
 
-**Requires: pastor-foundation skill**
-
----
-
-## What to Give Me
-
-**Required:**
-- The occasion or purpose of the letter
-- Key details (what happened, what is changing, what the reader needs to know)
-- Audience: whole congregation, a specific group (e.g., volunteers, small group leaders), or an individual
-
-**Optional but useful:**
-- Tone guidance (e.g., "keep it brief," "this is sensitive," "I want this to feel celebratory")
-- Anything to avoid: specific phrases, details that should not be in writing, topics that need to stay off the page
-- Whether this will be printed, emailed, or both
+**필수: pastor-foundation 스킬**
 
 ---
 
-## How This Works
+## 제공해야 할 것
 
-### Step 1: Assess the Situation
+**필수:**
+- 편지의 상황 또는 목적
+- 핵심 세부사항 (무엇이 일어났는가, 무엇이 변하는가, 독자가 알아야 할 것은 무엇인가)
+- 대상: 전 회중, 특정 그룹 (예: 봉사자, 순/목장 인도자), 또는 개인
 
-Before writing a word, I identify the letter type and calibrate tone and length accordingly.
+**선택사항이지만 유용:**
+- 톤 안내 (예: "짧게 유지", "민감한 사안", "축하 느낌으로")
+- 피해야 할 것: 특정 표현, 글로 남기면 안 되는 디테일, 다루지 말아야 할 주제
+- 인쇄용인지, 이메일인지, 둘 다인지
 
-| Letter Type | Tone | Length |
+---
+
+## 작동 방식
+
+### 단계 1: 상황 평가
+
+한 단어 쓰기 전에 편지 유형을 식별하고 그에 맞게 톤과 길이를 조정합니다.
+
+| 편지 유형 | 톤 | 길이 |
 |---|---|---|
-| Welcome / celebration | Warm, upbeat | 200-300 words |
-| Facility / logistics update | Clear, positive | 150-250 words |
-| Leadership transition | Honest, hopeful, pastoral | 300-500 words |
-| Staff departure | Careful, gracious, brief | 200-300 words |
-| Policy change | Clear, empathetic, firm | 250-400 words |
-| Financial update / need | Transparent, vision-driven | 300-400 words |
-| Crisis or difficult news | Pastoral, steady, compassionate | 300-500 words |
+| 환영 / 축하 | 따뜻함, 밝음 | 한국어 400~600자 |
+| 시설 / 실무 안내 | 명확함, 긍정적 | 300~500자 |
+| 리더십 전환 | 정직함, 소망적, 목회적 | 600~1,000자 |
+| 사역자 이임 | 신중함, 품격, 간결 | 400~600자 |
+| 정책 변경 | 명확함, 공감, 단호함 | 500~800자 |
+| 재정 안내 / 필요 | 투명함, 비전 중심 | 600~800자 |
+| 위기 또는 어려운 소식 | 목회적, 안정적, 긍휼 | 600~1,000자 |
 
-If the situation does not fit cleanly into one category, I will note that and explain the blend I am using.
+상황이 어느 한 범주에 깔끔하게 맞지 않으면 그렇다고 표시하고 어떤 혼합을 사용하는지 설명합니다.
 
-Sensitive letters get extra scrutiny before drafting. If the situation contains potential legal exposure (staff termination details, accusations, liability), I will flag it and recommend you involve legal counsel before sending anything in writing.
-
----
-
-### Step 2: Write the Letter
-
-Every letter follows the same structural logic, adjusted for tone and occasion.
-
-#### Open with the relationship, not the news.
-
-The first sentence connects before it informs. Your congregation is not a memo recipient. They are people who trust you. Open like someone who knows them.
-
-**Examples:**
-- "This church has meant everything to our family, and that is exactly why I want to write to you directly."
-- "You have built something real here, and I want you to know what is coming next."
-- "Before Sunday, I wanted you to hear this from me."
-
-Never open with: "I am writing to inform you..." or "It is with great excitement that..." or "As we continue our journey together as a faith community..."
+민감한 편지는 작성 전에 추가 검토를 받습니다. 잠재적 법적 노출 (사역자 해임 세부사항, 고발, 책임 문제)이 포함된 경우 표시하고, 어떤 것이든 글로 보내기 전에 법률 자문을 받으시도록 권고합니다.
 
 ---
 
-#### State facts clearly.
+### 단계 2: 편지 작성
 
-No burying the lead. No euphemisms. If someone is leaving, say they are leaving. If the building is closing for repairs, say it is closing. If finances are tight, say so.
+모든 편지는 같은 구조 논리를 따르며, 톤과 상황에 맞게 조정됩니다.
 
-Clarity is a form of respect. Vague letters read as dishonest even when they are not. Your congregation will fill in the blanks you leave, and they will fill them in with their worst assumptions.
+#### 소식이 아니라 관계로 시작.
 
-What to say clearly:
-- What is happening
-- When it is happening
-- Who is affected
-- What you are doing about it (if applicable)
+첫 문장은 알리기 전에 연결합니다. 회중은 회람 수신자가 아닙니다. 당신을 신뢰하는 사람들입니다. 그들을 아는 사람처럼 시작하십시오.
 
----
+**예시:**
+- "이 교회는 우리 가정에 모든 것을 의미해 왔습니다. 바로 그래서 여러분에게 직접 쓰고 싶었습니다."
+- "여러분은 여기서 실제적인 것을 세워 왔습니다. 다음에 무엇이 오는지 아셔야 합니다."
+- "주일 전에, 이것을 저로부터 직접 들으시기 원했습니다."
 
-#### Acknowledge reader emotions.
-
-Most church letters skip this entirely. That is a mistake. When people receive news, they feel things before they process information. If you do not name the emotional reality, the reader feels unacknowledged and the letter feels cold.
-
-This does not require a long detour. One or two sentences is enough.
-
-**Examples:**
-- "I know this raises questions. That is okay. Here is what I can tell you right now."
-- "This is not easy news. I am not going to pretend otherwise."
-- "Some of you will be surprised. Others of you saw this coming. Either way, I want to walk through it with you."
+절대 이렇게 시작하지 마십시오: "다음을 알려드리고자 합니다…" 또는 "기쁜 마음으로…" 또는 "신앙 공동체로서 함께 여정을 이어가는 가운데…"
 
 ---
 
-#### Provide a clear next step or path forward.
+#### 사실을 명확하게 말함.
 
-Every letter should answer: what do I do with this information? That answer will vary by letter type.
+리드를 묻지 않기. 완곡어법 없음. 누가 떠난다면, 떠난다고 말하십시오. 건물이 보수를 위해 닫힌다면, 닫힌다고 말하십시오. 재정이 어렵다면, 그렇다고 말하십시오.
 
-- Welcome letter: show up Sunday, introduce yourself, here is how to get connected
-- Leadership transition: here is the timeline, here is who to contact with questions, here is the next gathering where this will be addressed
-- Financial update: here is the specific ask or action, here is the deadline, here is where to give
-- Crisis or difficult news: here is what we know, here is our next communication date, here is how to reach pastoral staff
+명확함은 존중의 한 형태입니다. 모호한 편지는 거짓이 아닐 때조차 거짓처럼 읽힙니다. 회중은 비워둔 빈칸을 채울 것이며, 최악의 추측으로 채울 것입니다.
 
-If there is genuinely no action to take, close the loop explicitly: "You do not need to do anything. I just wanted you to hear this from me."
-
----
-
-#### Close with pastoral warmth.
-
-End with prayer, blessing, or confidence in the church. This is not a formality. It is a pastoral move. The last thing they read should remind them who you are and that you are with them.
-
-**Examples:**
-- "I am praying for each of you by name this week. See you Sunday."
-- "God is not finished with this church. I am more convinced of that today than I was a year ago."
-- "Thank you for trusting us with this community. It is not something we take lightly."
-
-Never end with "God bless" as a throwaway. If you invoke blessing, mean it.
+명확하게 말해야 할 것:
+- 무엇이 일어나고 있는가
+- 언제 일어나는가
+- 누가 영향을 받는가
+- 그에 대해 무엇을 하고 있는가 (해당될 경우)
 
 ---
 
-## Rules for Sensitive Letters
+#### 독자의 감정 인정.
 
-These rules apply specifically to staff departures, leadership transitions, crisis communications, and policy changes involving personnel.
+대부분의 교회 편지가 이 부분을 통째로 건너뜁니다. 실수입니다. 사람들은 소식을 받을 때, 정보를 처리하기 전에 감정을 먼저 느낍니다. 정서적 현실을 명명하지 않으면, 독자는 인정받지 못한 느낌을 받고 편지는 차갑게 느껴집니다.
 
-**Never assign blame.** Not in the letter, not between the lines. The reader will infer it anyway if it is there. If a staff departure is not mutual, you still do not put that in writing.
+긴 우회가 필요한 게 아닙니다. 1~2문장이면 충분합니다.
 
-**Never over-explain a difficult decision.** The more you explain, the more it reads like a defense. State the decision clearly, give enough context for the reader to understand what is happening, and stop. Paragraphs four, five, and six defending the decision are never necessary and are usually counterproductive.
-
-**Never pre-answer every question.** You will be tempted to answer objections before they are raised. Resist it. That impulse produces bloated, defensive letters. Answer the most important question, acknowledge that others exist, and direct people to the appropriate channel for follow-up.
-
-**Never include legally problematic language.** Do not name specific complaints, incidents, violations, or terms of separation in a congregational letter. If you are unsure whether something is safe to put in writing, it probably is not. Flag it and get counsel before sending.
-
----
-
-## Anti-Patterns
-
-These patterns appear in church letters constantly. They weaken the communication and, in sensitive situations, can cause real harm.
-
-- **Corporate language.** "Stakeholders," "alignment," "moving forward," "transitioning," "prayerfully discerning our next steps together as a community." Say what you mean in plain English.
-- **Vagueness about actual news.** If something is changing, name it. "Some adjustments to our leadership structure" tells no one anything. "Pastor David is stepping down as worship director" tells people what happened.
-- **Over-explanation of a difficult decision.** If your letter is defending a choice more than it is communicating news, you are writing the wrong letter.
-- **Assuming all questions can be answered in writing.** Some letters exist to inform. Others exist to open a conversation. Know which one you are writing.
-- **Performative grief.** "It is with a heavy heart that we announce..." is not pastoral. It is theater. If something is hard, say it is hard. Then tell people what happened.
-- **Ending on a question.** Letters are not small group discussions. Do not close with "What is God saying to you?" or "How can we pray for you specifically?" That belongs in a different format.
+**예시:**
+- "이 소식이 질문을 일으킨다는 것을 압니다. 괜찮습니다. 지금 말씀드릴 수 있는 것은 다음과 같습니다."
+- "쉬운 소식이 아닙니다. 그렇지 않은 척하지 않겠습니다."
+- "어떤 분들은 놀라실 것입니다. 다른 분들은 이미 예상하셨을 것입니다. 어느 쪽이든, 여러분과 함께 통과하고 싶습니다."
 
 ---
 
-## What the Finished Letter Looks Like
+#### 명확한 다음 단계나 길 제시.
 
-Every completed letter includes:
+모든 편지는 답해야 합니다: 이 정보로 나는 무엇을 해야 하는가? 답은 편지 유형에 따라 다릅니다.
 
-1. **The letter itself:** Dated, addressed appropriately (e.g., "Dear Grace Family," or "Dear [Name],"), and signed with the pastor's name and title.
-2. **A one-sentence framing note:** How I would describe this letter if someone asked what it communicates. This is for your reference, not to send.
-3. **Any flags:** If anything in the letter warrants legal review, pastoral follow-up, or a separate in-person conversation before or after sending, I will say so explicitly.
+- 환영 편지: 주일에 오십시오, 인사 나누세요, 이렇게 연결됩니다
+- 리더십 전환: 일정은 이렇습니다, 질문은 이쪽으로 연락하십시오, 이 사안이 다뤄질 다음 모임
+- 재정 안내: 구체적인 요청이나 행동, 마감, 헌금 방법
+- 위기 또는 어려운 소식: 알고 있는 것, 다음 소통 날짜, 목회 사역자 연락처
 
-If the letter type calls for it, I will also offer an alternate closing paragraph so you have two tones to choose from.
-
----
-
-## Why Getting This Right Matters
-
-Most church letters are written under pressure, by someone who is not sure what to say, in the window between "this needs to go out" and "there is no more time." That is exactly when the wrong word gets chosen, the sensitive detail slips in, or the tone lands colder than intended.
-
-A letter from a pastor carries weight that an email or announcement does not. People save them. They re-read them. They quote them in conversations months later. That weight is not a reason to avoid writing letters. It is a reason to write them carefully.
-
-The goal is not a perfect letter. The goal is a letter your congregation can receive clearly, trust completely, and act on confidently.
+행동이 없는 경우, 명시적으로 마무리하십시오: "특별히 하실 일은 없습니다. 다만 저로부터 직접 들으시길 원했습니다."
 
 ---
 
-## Output Format
+#### 목회적 따뜻함으로 마무리.
 
-This skill outputs a formatted PDF document with church letterhead, not terminal text. The PDF includes the church name as a centered letterhead, a gold accent line, the dated and addressed letter body in justified type, and a pastor signature block. This is a church-branded document with no REACHRIGHT branding.
+기도, 축복, 또는 교회에 대한 확신으로 끝맺습니다. 형식이 아닙니다. 목회적 행위입니다. 마지막으로 읽는 것이 당신이 누구이며 그들과 함께 있다는 것을 떠올리게 해야 합니다.
 
-### Requirements
+**예시:**
+- "이번 주 한 분 한 분의 이름을 부르며 기도하겠습니다. 주일에 뵙겠습니다."
+- "하나님은 이 교회와의 일을 끝내지 않으셨습니다. 1년 전보다 오늘 더 확신합니다."
+- "이 공동체를 우리에게 맡겨 주셔서 감사합니다. 가볍게 받아들이지 않습니다."
 
-The PDF generator requires Python and the `reportlab` library. If reportlab is not installed, install it before generating:
+마무리에 의례적인 "은혜 충만하시기를"을 던지지 마십시오. 축복을 부르려면, 진심으로 하십시오.
+
+---
+
+## 민감한 편지를 위한 규칙
+
+이 규칙들은 특히 사역자 이임, 리더십 전환, 위기 커뮤니케이션, 인사 관련 정책 변경에 적용됩니다.
+
+**책임 전가 금지.** 편지 안에서도, 행간에서도. 그것이 있다면 독자는 어쨌든 추론할 것입니다. 사역자 이임이 합의된 것이 아니어도, 글로 쓰지 마십시오.
+
+**어려운 결정을 과도하게 설명하지 마십시오.** 더 설명할수록 변명처럼 읽힙니다. 결정을 명확하게 진술하고, 독자가 무슨 일인지 이해할 만큼의 맥락을 주고, 멈추십시오. 결정을 옹호하는 네 번째, 다섯 번째, 여섯 번째 단락은 결코 필요하지 않으며 보통 역효과입니다.
+
+**모든 질문을 미리 답하지 마십시오.** 제기되기 전에 반론에 답하고 싶어질 것입니다. 저항하십시오. 그 충동은 부풀려진 방어적 편지를 만듭니다. 가장 중요한 질문에 답하고, 다른 질문이 존재함을 인정하고, 사람들을 후속 소통을 위한 적절한 채널로 안내하십시오.
+
+**법적으로 문제가 될 표현 금지.** 회중 편지에 특정 불만, 사건, 위반, 또는 분리 조건의 세부사항을 명명하지 마십시오. 글로 남겨도 안전한지 확실하지 않다면, 아마 안전하지 않습니다. 표시하고 보내기 전에 자문을 받으십시오.
+
+---
+
+## 안티 패턴
+
+이 패턴들은 교회 편지에 계속 등장합니다. 소통을 약화시키고, 민감한 상황에서는 실제 해를 끼칠 수 있습니다.
+
+- **기업 언어.** "이해관계자", "정렬", "앞으로 나아가다", "전환 중", "공동체로서 함께 다음 단계를 기도로 분별". 평이한 한국어로 의미하는 것을 말하십시오.
+- **실제 소식에 대한 모호함.** 무언가 변한다면, 명명하십시오. "리더십 구조의 일부 조정"은 아무에게도 아무것도 말하지 않습니다. "예배 인도자 박OO 전도사가 직책에서 물러납니다"는 사람들에게 무슨 일이 일어났는지 말해 줍니다.
+- **어려운 결정의 과잉 설명.** 편지가 소식을 전달하기보다 선택을 변호하고 있다면, 잘못된 편지를 쓰고 있는 것입니다.
+- **모든 질문에 글로 답할 수 있다고 가정.** 어떤 편지는 알리기 위해 존재합니다. 다른 편지는 대화를 여는 데 존재합니다. 어느 것을 쓰고 있는지 아십시오.
+- **수행적 슬픔.** "무거운 마음으로 알려드립니다…"는 목회적이지 않습니다. 연극입니다. 어려우면, 어렵다고 말하십시오. 그리고 무슨 일이 일어났는지 말하십시오.
+- **질문으로 마무리.** 편지는 소그룹 토론이 아닙니다. "하나님이 여러분에게 무엇을 말씀하고 계신가요?" 또는 "어떻게 구체적으로 기도해 드릴까요?"로 끝맺지 마십시오. 그건 다른 형식에 속합니다.
+
+---
+
+## 완성된 편지의 모습
+
+완성된 모든 편지는 다음을 포함합니다:
+
+1. **편지 자체:** 날짜 표시, 적절한 호칭 (예: "사랑하는 목자교회 가족 여러분께", 또는 "OOO 님께"), 목회자의 이름과 직책으로 서명.
+2. **한 문장 프레이밍 메모:** 누군가 이 편지가 무엇을 전달하는지 물으면 어떻게 설명할지. 발송용이 아니라 참고용입니다.
+3. **표시 사항:** 편지에 법률 검토, 목회적 후속 조치, 또는 발송 전후 별도 대면 대화가 필요한 부분이 있다면 명시적으로 알립니다.
+
+편지 유형이 그렇게 요구하는 경우, 두 가지 톤 중에서 선택할 수 있도록 대안 마무리 단락을 함께 제공합니다.
+
+---
+
+## 이것을 잘 하는 게 왜 중요한가
+
+대부분의 교회 편지는 무엇을 말해야 할지 확신이 서지 않는 누군가가 압박 아래에서, "이건 나가야 한다"와 "더 이상 시간이 없다" 사이의 창문에서 쓰입니다. 그때가 바로 잘못된 단어가 선택되고, 민감한 디테일이 슬쩍 들어가고, 톤이 의도보다 차갑게 착지하는 시점입니다.
+
+목회자가 쓴 편지는 이메일이나 광고가 갖지 못하는 무게를 지닙니다. 사람들은 저장합니다. 다시 읽습니다. 몇 달 후 대화에서 인용합니다. 그 무게는 편지 쓰기를 피해야 할 이유가 아닙니다. 신중하게 써야 할 이유입니다.
+
+목표는 완벽한 편지가 아닙니다. 목표는 회중이 명확하게 받고, 온전히 신뢰하고, 확신을 가지고 행동할 수 있는 편지입니다.
+
+---
+
+## 출력 형식
+
+이 스킬은 터미널 텍스트가 아니라 교회 레터헤드가 있는 포맷된 PDF 문서를 출력합니다. PDF는 가운데 정렬된 레터헤드로서의 교회 이름, 금색 강조 선, 날짜와 호칭이 있는 정렬된 편지 본문, 목회자 서명 블록을 포함합니다. REACHRIGHT 브랜딩이 없는 교회 브랜드 문서입니다.
+
+### 요구 사항
 
 ```
 pip install reportlab
 ```
 
-### How It Works
+### 작동 방식
 
-After writing the complete letter, do the following:
+편지를 완성한 후 다음을 수행:
 
-1. **Write a JSON file** containing the structured letter data. Save it as a temporary file (e.g., `church-letter-temp.json`) in the current working directory.
-2. **Locate `generate-pdf.py`** in the same directory as this skill file. Search skill directories if needed.
-3. **Run the script:** `python generate-pdf.py church-letter-temp.json`
-4. **Delete the temporary JSON file** after the PDF generates successfully.
-5. **Tell the pastor** the PDF filename and where it was saved.
+1. **JSON 파일 작성** — 구조화된 편지 데이터를 담은 JSON. 현재 작업 디렉토리에 임시 파일로 저장 (예: `church-letter-temp.json`).
+2. **`generate-pdf.py` 위치 확인** — 이 스킬 파일과 같은 디렉토리.
+3. **스크립트 실행:** `python generate-pdf.py church-letter-temp.json`
+4. **PDF가 성공적으로 생성된 후 임시 JSON 파일 삭제.**
+5. **목회자에게 PDF 파일명과 저장 위치를 알림.**
 
-The PDF saves to the current working directory with a filename based on the date and topic (e.g., `Church-Letter-April-14-2026-Leadership-Transition.pdf`).
+PDF는 현재 작업 디렉토리에 날짜와 주제 기반 파일명으로 저장됩니다 (예: `Church-Letter-2026-04-14-Leadership-Transition.pdf`).
 
-### JSON Data Structure
-
-Structure the letter into this exact format before generating the PDF.
+### JSON 데이터 구조
 
 ```json
 {
-  "church_name": "CHURCH_NAME from foundation",
-  "date": "April 14, 2026",
-  "topic": "Leadership Transition",
-  "addressee": "Dear New Hope Family,",
-  "body": "Full letter text. Separate paragraphs with double newlines.",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "pastor_title": "PASTOR_TITLE from foundation",
-  "framing_note": "One sentence describing the letter for pastor reference only.",
-  "flags": ["Any flags for legal review or pastoral follow-up."]
+  "church_name": "파운데이션의 CHURCH_NAME",
+  "date": "2026년 4월 14일",
+  "topic": "리더십 전환",
+  "addressee": "사랑하는 목자교회 가족 여러분께,",
+  "body": "편지 전체 텍스트. 문단은 이중 줄바꿈으로 구분.",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "pastor_title": "파운데이션의 PASTOR_TITLE",
+  "framing_note": "목회자 참고용으로만, 편지를 한 문장으로 설명.",
+  "flags": ["법률 검토나 목회적 후속 조치를 위한 표시."]
 }
 ```
 
-**Important notes on the JSON:**
-- `framing_note` and `flags` do not appear in the PDF. They are for the pastor's reference only.
-- `body` is a plain text string. Separate paragraphs with double newlines (`\n\n`).
-- This is a church-branded document. No REACHRIGHT branding appears anywhere in the output.
-- Use the pastor's real name, title, and church name from the foundation variables, not placeholders.
-- Do not use em dashes anywhere in the content. Use commas, colons, or periods instead.
+**JSON 관련 중요 사항:**
+- `framing_note`와 `flags`는 PDF에 나타나지 않습니다. 목회자 참고용만.
+- `body`는 일반 텍스트 문자열. 문단은 이중 줄바꿈(`\n\n`)으로 구분.
+- 교회 브랜드 문서. REACHRIGHT 브랜딩은 출력 어디에도 나타나지 않음.
+- 파운데이션 변수에서 목회자의 실제 이름, 직책, 교회 이름 사용.
+- 콘텐츠 어디에도 줄표(—) 사용 금지. 쉼표, 콜론, 마침표 사용.

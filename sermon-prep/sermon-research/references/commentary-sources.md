@@ -1,63 +1,80 @@
-# Commentary Sources Reference
+# 주석 출처 참고
 
-This is the reference list of commentary series and resources the sermon-research skill draws on. Knowing what these are helps you understand where an insight comes from and whether you want to track down the full source.
+sermon-research 스킬이 참고하는 주석 시리즈와 자원의 목록입니다. 어떤 출처에서 통찰이 나오는지 알면 전체 원천을 추적하고 싶은지 판단하는 데 도움이 됩니다.
 
 ---
 
-## Academic Commentaries
+## 한국어 주석 시리즈
 
-These series are written primarily for scholars, seminary students, and pastors who want maximum exegetical depth. They engage the original languages, text-critical issues, and interact with a wide range of scholarly positions.
+한국 교회에서 가장 널리 사용되는 주석 시리즈들입니다. 강단·교육·신학 토론에 일상적으로 인용됩니다.
 
-| Name | Publisher | Description | Access |
+| 이름 | 출판사 | 설명 | 접근 |
 |---|---|---|---|
-| Word Biblical Commentary (WBC) | Zondervan / HarperCollins | Verse-by-verse commentary series from evangelical scholars. Engages Hebrew and Greek extensively. One of the most thorough academic series available for both Testaments. | Paid. Available in Logos, Wordsearch, and print. |
-| New International Commentary on the New Testament (NICNT) | Eerdmans | Long-running academic series with strong evangelical grounding. Authors include Gordon Fee, F.F. Bruce, and Leon Morris. Excellent on theology and background. | Paid. Print and Logos. |
-| New International Commentary on the Old Testament (NICOT) | Eerdmans | Same series as NICNT, covering the Old Testament. Reliable scholarship with pastoral awareness. Strong on historical context. | Paid. Print and Logos. |
-| Baker Exegetical Commentary on the New Testament (BECNT) | Baker Academic | Technical commentary series with detailed grammatical analysis. Uses transliterated Greek throughout, making it accessible to pastors with limited Greek training. | Paid. Print and Logos. |
-| Pillar New Testament Commentary | Eerdmans | Aimed at ministers and serious students. Academically rigorous but written with preaching in mind. Contributors include D.A. Carson and Andreas Kostenberger. | Paid. Print and Logos. |
+| 호크마 주석 | 기독지혜사 | 한국 보수 교단(장로교 합동·고신·합신·기성 등)에서 가장 널리 사용되는 종합 주석. 신구약 전권 커버. 평신도 평균 어휘로 작성되어 강단 준비에 실용적. | 유료. 인쇄·디지털. |
+| 그랜드 종합주석 | 제자원 | 신구약 전권 종합 주석. 호크마와 함께 한국 교회의 표준. 본문 해설·교리적 적용·예화 자료가 통합되어 있음. | 유료. 인쇄·디지털. |
+| 옥스퍼드 원어성경대전 | 제자원 | 원어(히브리어·헬라어) 분석에 초점을 둔 대전형 주석. 단어별 어원·문법 해설. 신학교 수준의 깊이. | 유료. 인쇄·디지털. |
+| 톰슨 II 주석성경 | 기독지혜사 | 본문 옆에 직접 주석이 달린 형식. 주제별 사슬 참조가 강함. 묵상·소그룹 인도에 유용. | 유료. 인쇄. |
+| 두란노 HOW 주석 | 두란노 | 적용 중심의 주석. 본문→배경→메시지→적용 순으로 구성. 설교 준비에 직접 사용 가능. | 유료. 인쇄·디지털. |
+| 빛과소금 주석 | 생명의말씀사 | 강해 설교에 강점. 본문의 흐름을 따라가는 강해형 주석. 칼빈주의·개혁주의 입장에서 작성. | 유료. 인쇄. |
 
 ---
 
-## Pastoral Commentaries
+## 영어 학술 주석
 
-These series are written primarily for preachers. They engage the text seriously but prioritize application and sermon development over technical language debates.
+학자, 신학교 학생, 그리고 최대치의 주해적 깊이를 원하는 목회자를 위해 주로 쓰인 시리즈들입니다. 원어, 본문비평 이슈를 다루며 광범위한 학문적 입장과 상호작용합니다. 한국에서는 신학교 출신 목회자들이 깊은 연구를 위해 사용합니다.
 
-| Name | Publisher | Description | Access |
+| 이름 | 출판사 | 설명 | 접근 |
 |---|---|---|---|
-| NIV Application Commentary (NIVAC) | Zondervan | Structured in three sections per passage: original meaning, bridging contexts, and contemporary significance. Built for preaching application. Wide coverage of both Testaments. | Paid. Print and Logos. |
-| BE Series (Wiersbe) | David C. Cook | Warren Wiersbe's accessible, illustration-rich commentary series. Written in plain English. Better for devotional context and illustration ideas than for technical exegesis. Strong for lay-level explanation. | Paid. Print. Some titles in digital platforms. |
-| Preaching the Word (Crossway) | Crossway | Edited by R. Kent Hughes. Expository sermon commentaries. Excellent for seeing how a skilled preacher has worked through a text. Not verse-by-verse analysis but full sermon-level treatment. | Paid. Print and Crossway website. |
-| Christ-Centered Exposition (CCE) | B&H Academic | Series designed to help preachers see the gospel thread through every passage. Contributors include David Platt and Tony Merida. Useful for connecting any text back to Christ. | Paid. Print and Logos. |
+| Word Biblical Commentary (WBC) | Zondervan / HarperCollins | 복음주의 학자들의 절별 주석 시리즈. 히브리어·헬라어를 광범위하게 다룸. 신구약 모두에 대한 가장 철저한 학술 시리즈 중 하나. | 유료. Logos, 인쇄. |
+| New International Commentary on the New Testament (NICNT) | Eerdmans | 강한 복음주의 기반의 오래된 학술 시리즈. Gordon Fee, F.F. Bruce, Leon Morris 등이 저자. 신학과 배경에 탁월. | 유료. 인쇄·Logos. |
+| New International Commentary on the Old Testament (NICOT) | Eerdmans | NICNT와 같은 시리즈의 구약. 목회적 인식을 갖춘 신뢰할 만한 학문. 역사적 배경에 강함. | 유료. 인쇄·Logos. |
+| Baker Exegetical Commentary on the New Testament (BECNT) | Baker Academic | 상세한 문법 분석이 있는 기술 주석 시리즈. 음역된 헬라어를 사용해 헬라어 훈련이 제한된 목회자에게도 접근 가능. | 유료. 인쇄·Logos. |
+| Pillar New Testament Commentary | Eerdmans | 사역자와 진지한 학생을 대상. 학문적으로 엄격하면서 설교를 염두에 둠. D.A. Carson, Andreas Kostenberger 등이 기고. | 유료. 인쇄·Logos. |
 
 ---
 
-## Single-Volume Reference Works
+## 목회 주석
 
-These are reference books rather than commentary series. They are used to answer specific background questions quickly rather than provide sustained verse-by-verse treatment.
+설교자를 위해 주로 쓰인 시리즈들입니다. 본문을 진지하게 다루지만 기술적 언어 논쟁보다 적용과 설교 개발을 우선시합니다.
 
-| Name | Publisher | Description | Access |
+| 이름 | 출판사 | 설명 | 접근 |
 |---|---|---|---|
-| IVP Bible Background Commentary: New Testament | IVP Academic | Craig Keener's compact guide to cultural and historical context for every New Testament passage. The single most useful reference for background questions most pastors face. | Paid. Print and digital. |
-| IVP Bible Background Commentary: Old Testament | IVP Academic | Covers cultural, archaeological, and historical context for the Old Testament. Co-authored by John Walton, Victor Matthews, and Mark Chavalas. | Paid. Print and digital. |
-| Zondervan Illustrated Bible Backgrounds Commentary | Zondervan | Two separate sets covering Old and New Testaments. Full-color archaeological photos, maps, and cultural notes. Particularly strong for visual learners and teaching series. | Paid. Print and Logos. |
+| NIV Application Commentary (NIVAC) | Zondervan | 본문별로 세 섹션으로 구조화: 원래의 의미, 다리 놓는 맥락, 현대적 의의. 설교 적용을 위해 만들어짐. 신구약 광범위 커버. 한국어 번역본도 부분적으로 출간. | 유료. 인쇄·Logos. |
+| BE 시리즈 (Wiersbe) | David C. Cook | Warren Wiersbe의 접근 가능하고 예화가 풍부한 주석 시리즈. 평이한 영어로 작성. 기술적 주해보다 묵상 맥락과 예화 아이디어에 더 좋음. 평신도 수준 설명에 강함. | 유료. 인쇄. 일부 디지털. |
+| Preaching the Word | Crossway | R. Kent Hughes 편집. 강해 설교 주석. 능숙한 설교자가 본문을 어떻게 다루었는지 보기에 탁월. 절별 분석이 아니라 설교 수준의 전체 처리. | 유료. 인쇄·Crossway 웹사이트. |
+| Christ-Centered Exposition (CCE) | B&H Academic | 모든 본문을 관통하는 복음의 줄기를 보도록 설교자를 돕기 위해 설계된 시리즈. David Platt, Tony Merida 등이 기고. 어떤 본문이든 그리스도로 연결하는 데 유용. | 유료. 인쇄·Logos. |
 
 ---
 
-## Digital Tools and Platforms
+## 단권 참고서
 
-These are platforms and tools that aggregate multiple commentaries or provide original language resources directly. Most pastors use at least one of these.
+주석 시리즈가 아니라 참고서입니다. 지속적인 절별 처리를 제공하기보다 특정 배경 질문에 빠르게 답하기 위해 사용됩니다.
 
-| Name | Platform | Description | Free or Paid |
+| 이름 | 출판사 | 설명 | 접근 |
 |---|---|---|---|
-| Blue Letter Bible | blueletterbible.org | Free web tool for word studies, interlinear text, lexicons (Strong's, Thayer's, BDB), and commentary excerpts from Matthew Henry, Jamieson-Fausset-Brown, and others. The fastest free option for original language lookups. | Free |
-| Bible Hub | biblehub.com | Free interlinear Bible, original language concordances, parallel translations, and brief commentary excerpts. Strong for comparing translations side-by-side quickly. | Free |
-| Logos Bible Software | logos.com | The most comprehensive digital Bible study platform. Aggregates hundreds of commentaries, lexicons, and reference works with cross-linking. Significant investment but the standard tool for serious study. | Paid. Starter packages begin around $200. |
-| Accordance Bible Software | accordancebible.com | Strong alternative to Logos. Better performance on Mac. Deep original language tools and a large library. Common in academic and seminary settings. | Paid. |
+| IVP Bible Background Commentary: New Testament | IVP Academic | Craig Keener의 신약 모든 본문에 대한 문화적·역사적 맥락 간결 가이드. 대부분의 목회자가 직면하는 배경 질문에 가장 유용한 단일 참고서. | 유료. 인쇄·디지털. |
+| IVP Bible Background Commentary: Old Testament | IVP Academic | 구약의 문화적·고고학적·역사적 맥락을 커버. John Walton, Victor Matthews, Mark Chavalas 공동 저작. | 유료. 인쇄·디지털. |
+| Zondervan Illustrated Bible Backgrounds Commentary | Zondervan | 구약·신약을 다루는 두 별도 세트. 풀컬러 고고학 사진, 지도, 문화 노트. 시각적 학습자와 교육 시리즈에 특히 강함. | 유료. 인쇄·Logos. |
 
 ---
 
-## How This Skill Uses These Sources
+## 디지털 도구와 플랫폼
 
-The sermon-research skill draws on the positions and insights of commentators from these series when summarizing commentary insights for a passage. It does not fabricate direct quotes. When a commentator's position is cited by name, it reflects that scholar's documented interpretive stance.
+여러 주석을 모으거나 원어 자원을 직접 제공하는 플랫폼과 도구입니다. 대부분의 목회자가 적어도 하나는 사용합니다.
 
-If you have access to specific commentaries through Logos, Blue Letter Bible, or print, reading the original source after reviewing the research summary is always worth the time. The goal of this reference document is to give you a map so you know what is out there and where to go deeper.
+| 이름 | 플랫폼 | 설명 | 무료/유료 |
+|---|---|---|---|
+| 갓피플 성경 | godpeople.com / 앱 | 한국에서 가장 널리 사용되는 성경 앱·웹. 다양한 번역본 비교, 주석(호크마·그랜드 등) 일부 통합, 원어 검색. 한국 목회자가 가장 자주 접하는 디지털 자원. | 무료(기본) / 유료(고급) |
+| Bible OS | bibleos.com | 한국어 환경의 성경 연구 플랫폼. 한국어 주석과 영어 주석을 연동. 설교 작성 기능 포함. | 유료. |
+| Blue Letter Bible | blueletterbible.org | 단어 연구, 행간 본문, 사전(Strong's, Thayer's, BDB), 그리고 Matthew Henry, Jamieson-Fausset-Brown 등의 주석 발췌를 위한 무료 웹 도구. 원어 검색의 가장 빠른 무료 옵션. | 무료 |
+| Bible Hub | biblehub.com | 무료 행간 성경, 원어 색인, 병행 번역본, 간결한 주석 발췌. 번역본을 빠르게 나란히 비교하기에 강함. | 무료 |
+| Logos Bible Software | logos.com | 가장 포괄적인 디지털 성경 연구 플랫폼. 수백 권의 주석, 사전, 참고서를 상호 연결로 통합. 상당한 투자가 필요하지만 진지한 연구의 표준 도구. | 유료. 시작 패키지 약 $200부터. |
+| Accordance Bible Software | accordancebible.com | Logos의 강력한 대안. Mac에서 성능이 더 나음. 깊이 있는 원어 도구와 큰 라이브러리. 학술·신학교 환경에서 흔함. | 유료. |
+
+---
+
+## 이 스킬이 이 출처들을 어떻게 사용하는가
+
+sermon-research 스킬은 본문에 대한 주석 통찰을 요약할 때 이 시리즈들에 속한 주석가들의 입장과 통찰에서 끌어옵니다. 직접 인용을 지어내지 않습니다. 한 주석가의 입장이 이름으로 인용될 때, 그것은 그 학자의 기록된 해석적 입장을 반영합니다.
+
+Logos, 갓피플, 또는 인쇄로 특정 주석에 접근할 수 있다면, 조사 요약을 검토한 후 원천 자료를 읽는 것은 항상 시간을 들일 가치가 있습니다. 이 참고 문서의 목표는 무엇이 어디에 있는지 알 수 있도록 지도를 제공하여 더 깊이 들어갈 수 있도록 하는 것입니다.

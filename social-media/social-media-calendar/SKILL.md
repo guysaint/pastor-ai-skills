@@ -1,128 +1,128 @@
 ---
 name: social-media-calendar
-description: Generate a week or month of social media content mapped to dates. Provide upcoming sermons, events, and emphases. Get back a structured calendar with post ideas, types, and platform assignments.
+description: 일정에 매핑된 한 주 또는 한 달치 소셜미디어 콘텐츠를 생성합니다. 다가오는 설교, 행사, 강조점을 제공하면 포스트 아이디어, 유형, 플랫폼 배정이 담긴 구조화된 캘린더를 돌려받습니다.
 ---
 
-# Social Media Content Calendar
+# 소셜미디어 콘텐츠 캘린더
 
-**Plan a week (or month) of posts in five minutes.**
+**한 주(또는 한 달)의 포스트를 5분 안에 기획.**
 
-> Requires: pastor-foundation skill
-
----
-
-## What You Need to Provide
-
-Give me the following so I can build your calendar:
-
-- **Time period:** This week, next week, this month, or a specific date range
-- **Upcoming sermon series or topics:** What are you preaching? Series title, week number, or key theme
-- **Events and key dates:** Anything on the church calendar: baptisms, volunteer appreciation, outreach events, guest speakers, special services
-- **Any special emphasis:** Missions month, giving campaign, prayer initiative, back-to-school, holiday season, launch Sunday
-- **Posting frequency (optional):** Default is 4-5 times per week. Tell me if you want more or less.
-
-You do not need to have everything figured out. Give me what you have and I will fill in the gaps with content that fits your church's rhythm.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Step 1: Map the Calendar
+## 제공해야 할 것
 
-Before writing any post ideas, I build the content foundation using this weekly framework. The goal is a balanced mix: reinforce the message, build community, drive engagement, and invite action.
+캘린더를 짤 수 있도록 다음을 알려주세요:
 
-| Day | Content Type | Purpose |
+- **기간:** 이번 주, 다음 주, 이번 달, 또는 특정 날짜 범위
+- **다가오는 설교 시리즈 또는 주제:** 무엇을 설교하시는가? 시리즈 제목, 주차, 또는 핵심 주제
+- **행사와 주요 날짜:** 교회 일정에 있는 모든 것: 침례, 봉사자 감사, 전도 행사, 초청 강사, 특별 예배
+- **특별 강조점:** 선교의 달, 헌신 캠페인, 기도 운동, 신학기, 명절 시즌, 런칭 주일
+- **포스팅 빈도 (선택):** 기본은 주 4~5회. 더 많거나 적게 원하시면 알려주십시오.
+
+모든 것이 정리되어 있을 필요는 없습니다. 가진 것을 주시면 교회의 리듬에 맞는 콘텐츠로 빈틈을 채워 드립니다.
+
+---
+
+## 단계 1: 캘린더 매핑
+
+포스트 아이디어를 쓰기 전에 이 주간 프레임워크로 콘텐츠 기반을 만듭니다. 목표는 균형 잡힌 혼합입니다: 메시지 강화, 공동체 형성, 참여 유도, 행동 초대.
+
+| 요일 | 콘텐츠 유형 | 목적 |
 |---|---|---|
-| Sunday | Sermon quote or recap | Reinforce the message people just heard |
-| Monday | Behind-the-scenes or team highlight | Build community, show the human side |
-| Tuesday | Engagement question or poll | Drive interaction and comments |
-| Wednesday | Midweek encouragement (scripture or devotional thought) | Pastoral care between Sundays |
-| Thursday | Event promo or practical tip | Drive action, fill seats, move people |
-| Friday | Fun, lighthearted content, or testimony | End the week on a positive note |
-| Saturday | Sunday preview or community invite | Build anticipation, drive attendance |
+| 주일 | 설교 인용 또는 요약 | 방금 들은 메시지 강화 |
+| 월요일 | 비하인드 신 또는 팀 하이라이트 | 공동체 형성, 인간적인 면 보여주기 |
+| 화요일 | 참여 질문 또는 투표 | 상호작용과 댓글 유도 |
+| 수요일 | 주중 격려 (성경 또는 묵상) | 주일 사이의 목회적 돌봄 |
+| 목요일 | 행사 홍보 또는 실용 팁 | 행동 유도, 자리 채우기, 사람 움직이기 |
+| 금요일 | 재미있고 가벼운 콘텐츠 또는 간증 | 한 주를 긍정적으로 마무리 |
+| 토요일 | 주일 미리보기 또는 공동체 초대 | 기대 형성, 참석 유도 |
 
-This framework adapts based on your actual events and calendar. If you have a baptism Sunday, that changes everything around it. If you have no events that week, I lean into message-driven and engagement content.
+이 프레임워크는 실제 행사와 일정에 따라 적응합니다. 침례 주일이 있다면 주변 모든 것이 바뀝니다. 그 주에 행사가 없다면 메시지 중심 및 참여 콘텐츠로 기웁니다.
 
-Not every day needs a post. Four to five quality posts per week outperforms seven mediocre ones every time.
+매일 포스트가 필요한 게 아닙니다. 주 4~5개의 양질의 포스트가 매번 7개의 평범한 포스트를 이깁니다.
 
 ---
 
-## Step 2: Generate the Calendar
+## 단계 2: 캘린더 생성
 
-I produce a complete calendar table with every post mapped out:
+모든 포스트가 매핑된 완전한 캘린더 표를 산출합니다:
 
-| Date | Day | Platform | Post Type | Topic and Content Idea | CTA |
+| 날짜 | 요일 | 플랫폼 | 포스트 유형 | 주제와 콘텐츠 아이디어 | 행동 요청 |
 |---|---|---|---|---|---|
 
-Each row includes:
+각 행이 포함하는 것:
 
-- **Date:** The specific date (e.g., April 13)
-- **Day:** Day of the week
-- **Platform:** Facebook, Instagram, or both (when cross-posting makes sense)
-- **Post Type:** Sermon quote, engagement question, event promo, testimony, behind-the-scenes, scripture, fun/lighthearted, Sunday invite
-- **Topic and Content Idea:** A clear, ready-to-use concept. Not a vague suggestion. A specific idea with enough detail to write the post or brief a team member.
-- **CTA:** The one action you want people to take. Comment below. Share this. Register here. See you Sunday.
-
----
-
-## Step 3: Notes and Flags
-
-After the calendar table, I add three categories of notes:
-
-**Graphics Needed**
-I flag every post that benefits from a custom graphic. I note whether it is a quote card, event promo image, or photo opportunity. If you have a graphic designer or volunteer on Canva, this list tells them exactly what to build and when it needs to be ready.
-
-**Evergreen Posts**
-I identify 1-2 posts in the calendar that are not date-sensitive. These can be scheduled in advance, batched when you have a creative burst, or held as backup content if a week falls apart. Knowing which posts are evergreen keeps your calendar flexible without going dark.
-
-**Platform Notes**
-I call out which posts are platform-specific versus which can be cross-posted with minor adjustments. Cross-posting is not always lazy. Sometimes the same message genuinely works on Facebook and Instagram. But I will tell you when a post needs a different hook, different image format, or different caption length for each platform.
+- **날짜:** 구체적 날짜 (예: 4월 13일)
+- **요일:** 요일
+- **플랫폼:** 페이스북, 인스타그램, 또는 둘 다 (크로스 포스팅이 의미 있을 때)
+- **포스트 유형:** 설교 인용, 참여 질문, 행사 홍보, 간증, 비하인드 신, 성경, 재미/가벼움, 주일 초대
+- **주제와 콘텐츠 아이디어:** 명확하고 즉시 사용 가능한 컨셉. 모호한 제안이 아닙니다. 포스트를 쓰거나 팀원에게 브리프할 만큼의 디테일이 있는 구체적 아이디어.
+- **행동 요청:** 사람들이 취하길 원하는 한 행동. 댓글, 공유, 등록, 주일에 만나요.
 
 ---
 
-## How I Prioritize Content
+## 단계 3: 메모와 표시
 
-Not all weeks are equal. When you give me your inputs, I run them through this priority filter before building the calendar:
+캘린더 표 뒤에 세 범주의 메모를 추가합니다:
 
-1. **Major events first.** Easter, launch Sunday, baptism Sunday, a guest speaker. These anchor the calendar. Everything else builds around them.
-2. **Sermon series next.** Your preaching is the thread that holds the week together. At minimum, Sunday gets a sermon recap or quote and the rest of the week echoes the theme.
-3. **Engagement content throughout.** Comments and saves tell the algorithm your page is worth showing. I place engagement questions and interactive posts at consistent intervals to keep the week from going flat.
-4. **Evergreen and practical content as fill.** Tips, testimonies, and behind-the-scenes posts round out the calendar without requiring constant creativity.
+**필요한 그래픽**
+맞춤 그래픽이 도움이 되는 모든 포스트를 표시합니다. 인용 카드인지, 행사 홍보 이미지인지, 사진 기회인지 메모합니다. Canva를 다루는 그래픽 디자이너나 봉사자가 있다면, 이 목록이 정확히 무엇을 언제까지 만들어야 할지 알려줍니다.
 
----
+**상시 활용 가능한 포스트**
+캘린더에서 날짜에 민감하지 않은 포스트 1~2개를 식별합니다. 사전 예약 가능, 창의적인 시간에 일괄 작업 가능, 또는 한 주가 무너질 때 백업 콘텐츠로 보관 가능. 어떤 포스트가 상시 활용 가능한지 알면 침묵 없이 캘린더에 유연성을 유지할 수 있습니다.
 
-## Anti-Patterns I Avoid
-
-These are the habits that turn a social media calendar into noise. I will not build a calendar around them.
-
-- **Never schedule more than one post per day per platform.** Posting twice in a day trains the algorithm to split your reach and trains your audience to ignore you.
-- **Never require a graphic designer for every post.** A text-based post on a solid color background or a good phone photo is better than no post while you wait on a designer. I build calendars that are actually executable.
-- **Never fill with filler content.** Four posts your congregation will stop for beats seven posts they will scroll past. If the idea is weak, it does not make the calendar.
-- **Never ignore the sermon.** Sunday morning is the center of your church's week. Your social media should extend that message, not replace it with something unrelated.
-- **Never use em dashes.** Periods, commas, and colons handle transitions without signaling that a machine wrote it.
+**플랫폼 메모**
+어떤 포스트가 플랫폼 특정인지, 어떤 것이 가벼운 조정으로 크로스 포스팅될 수 있는지 표시합니다. 크로스 포스팅이 항상 게으른 건 아닙니다. 때로는 같은 메시지가 페이스북과 인스타그램 모두에 진짜 작동합니다. 하지만 다른 후크, 다른 이미지 형식, 다른 캡션 길이가 필요한 포스트일 때 알려드립니다.
 
 ---
 
-## Output Format
+## 콘텐츠 우선순위 정하는 법
 
-Here is what you get when this skill runs:
+모든 주가 동등하지 않습니다. 입력을 주시면, 캘린더를 짜기 전에 이 우선순위 필터를 통과시킵니다:
 
-1. **Calendar Overview:** One paragraph summarizing the week or month, the main themes, and any anchor moments I built around.
-2. **Content Calendar Table:** Every post mapped by date, platform, post type, idea, and CTA. Ready to hand to a team member or fill in directly.
-3. **Graphics Needed:** A short list of posts requiring a designed asset, what the asset should be, and a suggested deadline.
-4. **Evergreen Posts:** 1-2 posts flagged as schedule-in-advance opportunities.
-5. **Platform Notes:** Any posts that need platform-specific adjustments or are best kept to one platform only.
-
-Everything is ready to act on. No vague suggestions. No research required on your end. You get a calendar you can hand off or execute yourself.
+1. **주요 행사 먼저.** 부활주일, 런칭 주일, 침례 주일, 초청 강사. 이것들이 캘린더의 닻입니다. 나머지가 그 주변에 세워집니다.
+2. **설교 시리즈 다음.** 설교는 한 주를 묶는 줄기입니다. 최소한 주일에는 설교 요약이나 인용이 들어가고 나머지 주가 그 주제를 메아리합니다.
+3. **참여 콘텐츠는 전반에 걸쳐.** 댓글과 저장은 알고리즘에게 페이지가 보여줄 가치가 있다고 말합니다. 한 주가 평평해지지 않도록 일관된 간격으로 참여 질문과 상호작용 포스트를 배치합니다.
+4. **상시 활용과 실용 콘텐츠로 채움.** 팁, 간증, 비하인드 신 포스트가 끊임없는 창의성 없이 캘린더를 완성합니다.
 
 ---
 
-## Usage Examples
+## 안티 패턴 (피합니다)
 
-**Input:** "This week only. Preaching on generosity, series called 'Open Hands.' We have a volunteer spotlight happening Sunday afternoon. Posting 4 times this week."
+소셜미디어 캘린더를 소음으로 바꾸는 습관들. 이런 식으로 캘린더를 짜지 않습니다.
 
-**Input:** "Build me April's calendar. Series is 'Rooted' through the book of John. We have baptisms on April 27 and a community cleanup event on April 19. Missions emphasis all month."
+- **하루에 플랫폼당 포스트 1개 초과 예약 금지.** 하루에 두 번 포스팅하면 알고리즘이 도달을 나누도록 학습하고 청중이 무시하도록 학습합니다.
+- **모든 포스트에 그래픽 디자이너 필요 금지.** 단색 배경의 텍스트 포스트나 좋은 휴대폰 사진이 디자이너를 기다리는 동안 포스트하지 않는 것보다 낫습니다. 실제로 실행 가능한 캘린더를 짭니다.
+- **채움 콘텐츠로 채우지 않음.** 회중이 멈출 4개 포스트가 스크롤할 7개 포스트를 이깁니다. 아이디어가 약하면 캘린더에 들어가지 않습니다.
+- **설교를 무시하지 않음.** 주일 아침은 교회 한 주의 중심입니다. 소셜미디어는 그 메시지를 확장해야지, 무관한 것으로 대체해서는 안 됩니다.
+- **줄표 사용 금지.** 마침표, 쉼표, 콜론이 기계가 썼다는 신호 없이 전환을 처리합니다.
 
-**Input:** "Next week. No series yet, in between series. Back Sunday with a standalone message on anxiety. Nothing special on the calendar."
+---
 
-**Input:** "Two weeks. We just launched a new kids ministry called Basecamp. Big push to get families to check it out. Preaching through Ephesians."
+## 출력 형식
 
-Give me what you have. The more context, the sharper the calendar. But even a single sentence gets us started.
+이 스킬을 실행하면 받는 것:
+
+1. **캘린더 개요:** 한 주 또는 한 달, 주요 주제, 그 주변에 세운 닻 순간을 요약한 한 문단.
+2. **콘텐츠 캘린더 표:** 날짜, 플랫폼, 포스트 유형, 아이디어, 행동 요청으로 매핑된 모든 포스트. 팀원에게 건네거나 직접 채울 준비 완료.
+3. **필요한 그래픽:** 디자인된 자산이 필요한 포스트의 짧은 목록, 자산이 무엇이어야 하는지, 제안 마감.
+4. **상시 활용 가능한 포스트:** 사전 예약 기회로 표시된 1~2개 포스트.
+5. **플랫폼 메모:** 플랫폼 특정 조정이 필요하거나 하나의 플랫폼에만 두는 것이 가장 좋은 포스트.
+
+모든 것이 행동할 준비 완료. 모호한 제안 없음. 당신 쪽에서 조사 필요 없음. 위임하거나 직접 실행할 수 있는 캘린더를 받습니다.
+
+---
+
+## 사용 예시
+
+**입력:** "이번 주만. 헌신에 대해 설교, 시리즈 이름은 '열린 손'. 주일 오후 봉사자 스포트라이트가 있음. 이번 주 4회 포스팅."
+
+**입력:** "4월 캘린더 짜주세요. 시리즈는 요한복음을 통한 '뿌리내림'. 4월 27일 침례, 4월 19일 지역 환경정화 행사. 한 달 내내 선교 강조."
+
+**입력:** "다음 주. 아직 시리즈 없음, 시리즈 사이 기간. 주일에 불안에 대한 단편 메시지로 돌아옴. 일정에 특별한 것 없음."
+
+**입력:** "두 주. 'Basecamp'라는 새 어린이 사역을 시작했음. 가정들이 와서 보도록 강한 푸시. 에베소서를 설교 중."
+
+가진 것을 주십시오. 맥락이 많을수록 캘린더가 날카로워집니다. 하지만 한 문장만으로도 시작할 수 있습니다.

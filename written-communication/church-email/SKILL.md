@@ -1,215 +1,215 @@
 ---
 name: church-email
-description: Write a complete weekly church email. Subject line, preview text, and body. Warm, scannable, mobile-friendly. Paste in announcements and events, get back a ready-to-send email.
+description: 한 주의 교회 이메일을 완성합니다. 제목, 미리보기 텍스트, 본문. 따뜻하고, 훑어보기 쉽고, 모바일 친화적. 광고와 행사를 붙여넣으면 바로 보낼 수 있는 이메일을 돌려받습니다.
 ---
 
-# Weekly Church Email Writer
+# 주간 교회 이메일 작성기
 
-Turn your announcements into an email people actually open.
+광고를 사람들이 실제로 열어보는 이메일로 바꾸십시오.
 
-**Requires: pastor-foundation skill**
-
----
-
-## What to Give Me
-
-Paste in whatever you have. It does not need to be clean. Messy bullet points, a voice dump, or a rough list of this week's events all work fine. I will organize it.
-
-**Required:**
-- This week's announcements, events, or sermon recap (any format)
-
-**Optional but useful:**
-- A personal note or pastoral thought you want to include
-- Any prayer request you want to emphasize
-- Seasonal or series theme (e.g., "we're in week 3 of our Anxiety series")
-- Service times or location if not set in pastor-foundation
+**필수: pastor-foundation 스킬**
 
 ---
 
-## How This Works
+## 제공해야 할 것
 
-### Step 1: Organize the Content
+가진 것을 붙여넣으세요. 깔끔할 필요 없습니다. 정리되지 않은 글머리표, 음성 메모, 이번 주 행사 거친 목록도 좋습니다. 정리해 드립니다.
 
-Before writing a word, I sort what you gave me into a logical structure:
+**필수:**
+- 이번 주 광고, 행사, 또는 설교 요약 (어떤 형식이든)
 
-- **Lead item:** The single most important thing your congregation needs to know or do this week. This goes first. No exceptions.
-- **Supporting items:** Everything else that is relevant and actionable, grouped by type (events, volunteer needs, pastoral content).
-- **Cut or defer:** Anything that is minor, redundant, or better suited for a different channel. If you sent me 8 items, I will flag what I cut and why.
-
-The goal is a clear priority order before any drafting begins. A church email that treats everything as equally important communicates nothing clearly.
-
-### Step 2: Write the Email
-
-Every weekly email has six components. Here is exactly how each one works:
+**선택사항이지만 유용:**
+- 개인적 메모 또는 포함하고 싶은 목회적 생각
+- 강조하고 싶은 기도 제목
+- 절기나 시리즈 주제 (예: "불안 시리즈 3주차")
+- pastor-foundation에 설정되지 않은 예배 시간이나 장소
 
 ---
 
-#### Subject Line
+## 작동 방식
 
-- Under 50 characters
-- Specific, not generic. "This Week at Grace Community" is a skip. "Kids Camp spots are almost gone" gets opened.
-- Lead with the most compelling item, not the most official-sounding one
-- Vary the format week to week: a question, a date, a teaser, a number, a name
-- Delivered as an A/B pair. Use A as the default; B as an alternative angle
+### 단계 1: 콘텐츠 정리
 
-**Examples of good subject lines:**
-- "3 spots left for Family Camp"
-- "Before Sunday: read this"
-- "Carl's teaching this week"
-- "Your invite to the fall kickoff"
+한 단어를 쓰기 전에, 받은 내용을 논리적 구조로 분류합니다:
 
-**Examples of weak subject lines (never use these):**
-- "This Week at [Church Name]"
-- "Weekly Newsletter"
-- "An Exciting Announcement from Pastor Mike"
-- "You're Invited!"
+- **리드 항목:** 회중이 이번 주에 알거나 행해야 할 단 하나의 가장 중요한 것. 이것이 먼저 나옵니다. 예외 없습니다.
+- **보조 항목:** 그 외 관련 있고 행동 가능한 모든 것, 종류별로 묶음 (행사, 봉사 모집, 목회 콘텐츠).
+- **잘라내거나 미룸:** 사소하거나, 중복되거나, 다른 채널에 더 적합한 것. 8개를 보내셨다면, 무엇을 왜 잘라냈는지 표시해 드립니다.
+
+목표는 작성 전에 명확한 우선순위입니다. 모든 것을 동등하게 중요한 것처럼 다루는 교회 이메일은 명확하게 전달하지 못합니다.
+
+### 단계 2: 이메일 작성
+
+매주 이메일에는 6개의 구성 요소가 있습니다. 각각이 정확히 어떻게 작동하는지:
 
 ---
 
-#### Preview Text
+#### 제목 (Subject Line)
 
-- 40 to 90 characters
-- Complements the subject line. Does not repeat it.
-- Acts as a second hook. If the subject line opens the door, the preview text invites them inside.
+- 30자 미만 (한국어 기준)
+- 구체적, 일반적이지 않게. "이번 주 [교회 이름] 소식"은 건너뛰어집니다. "여름 수련회 자리 곧 마감"은 열립니다.
+- 가장 공식적으로 들리는 항목이 아니라 가장 매력적인 항목으로 시작
+- 매주 형식을 바꾸기: 질문, 날짜, 티저, 숫자, 이름
+- A/B 쌍으로 제공. A를 기본으로, B는 대안 각도로
 
-**Example pairing:**
-- Subject: "3 spots left for Family Camp"
-- Preview: "Register by Wednesday or you'll miss it."
+**좋은 제목의 예:**
+- "여름 수련회 자리 3개 남음"
+- "주일 전에 읽어주세요"
+- "이번 주 박 집사님의 가르침"
+- "가을 시작 모임 초대"
 
----
-
-#### Personal Greeting
-
-- 1 to 2 sentences from the pastor
-- Warm, brief, connected to the week's theme or what is happening in the life of the church
-- Never: "Hope you had a great week!" or "Greetings, [Church Name] family!" or "Happy Monday!"
-- This should feel like the pastor briefly showing up, not like a form letter intro
-
-**Examples:**
-- "Sunday was one of those mornings I will be thinking about for a while. Thank you for showing up."
-- "We are in the middle of something good. I want you to see it."
-- "Quick note before the announcements: I am praying for the Hendersons this week. If you know them, reach out."
+**약한 제목의 예 (절대 사용하지 마세요):**
+- "이번 주 [교회 이름] 소식"
+- "주간 뉴스레터"
+- "김 목사로부터의 특별한 소식"
+- "여러분을 초대합니다!"
 
 ---
 
-#### Main Content
+#### 미리보기 텍스트 (Preview Text)
 
-This is the body of the email. Each announcement item follows a consistent structure: one clear sentence describing the thing, one to two sentences with relevant details, and one clear CTA.
+- 한국어 기준 30~60자
+- 제목을 보완. 반복하지 않음.
+- 두 번째 후크 역할. 제목이 문을 열면, 미리보기 텍스트가 안으로 초대.
 
-**Rules for main content:**
-
-- Lead item gets 2 to 3 sentences. It earned the top spot. Let it breathe.
-- All other items get 1 to 2 sentences. No more.
-- Every item must have a clear next step: register, sign up, show up, reply, bring a friend.
-- Bold the key details: dates, times, locations, deadlines.
-- Never list more than 5 announcement items. If you gave me more than 5, I will cut the lowest-priority ones and tell you what I cut.
-- Never write a paragraph-length announcement for a minor event. One sentence and a link is enough.
-
-**Vocabulary rules for announcement copy:**
-- Say "gathering" or "hangout" instead of "fellowship"
-- Say "serve" instead of "plug in"
-- Say "connect" instead of "do life together"
-- Say "new here?" instead of "first-time visitor"
-- Drop "be blessed" entirely. Just end the sentence.
+**예시 페어링:**
+- 제목: "여름 수련회 자리 3개 남음"
+- 미리보기: "수요일까지 등록하지 않으면 놓칩니다."
 
 ---
 
-#### Quick Links Section
+#### 개인 인사
 
-A scannable bullet list of the week's action items with links. This is for the reader who skimmed the body and wants to know what to click.
+- 목회자의 1~2문장
+- 따뜻하고 짧게, 이번 주 주제나 교회 삶에서 일어나는 일에 연결
+- 절대 사용 금지: "한 주 잘 보내셨나요!" 또는 "[교회 이름] 가족 여러분, 안녕하세요!" 또는 "행복한 월요일!"
+- 양식 편지 머리말이 아니라 목회자가 잠깐 등장한 느낌이어야 합니다
 
-Format:
+**예시:**
+- "지난 주일은 한참 동안 생각하게 될 아침이었습니다. 함께 자리해 주셔서 감사합니다."
+- "지금 우리는 좋은 일의 한가운데 있습니다. 보셔야 합니다."
+- "광고 전에 잠깐. 이번 주 김 집사님 가정을 위해 기도하고 있습니다. 아시는 분 있으시면 연락해 주세요."
+
+---
+
+#### 본문
+
+이메일의 본체입니다. 각 광고 항목은 일관된 구조를 따릅니다: 그 일을 설명하는 명확한 한 문장, 관련 세부사항 1~2문장, 그리고 명확한 행동 요청 하나.
+
+**본문 규칙:**
+
+- 리드 항목은 2~3 문장. 가장 위 자리를 얻었으니 숨 쉴 공간을 줍니다.
+- 다른 모든 항목은 1~2 문장. 그 이상 안 됩니다.
+- 모든 항목은 명확한 다음 행동: 등록, 신청, 참석, 답장, 친구 데려오기.
+- 핵심 디테일은 굵게: 날짜, 시간, 장소, 마감.
+- 광고 항목은 5개를 넘지 않음. 더 주셨다면 우선순위가 낮은 것을 잘라내고 무엇을 잘라냈는지 알려드립니다.
+- 사소한 행사에 문단 분량의 광고를 쓰지 마십시오. 한 문장과 링크면 충분합니다.
+
+**광고 문구의 어휘 규칙:**
+- "교제"보다 "모임"이나 "만남"
+- "사역에 연결"보다 "섬김"이나 "봉사"
+- "함께 신앙생활"보다 "함께 만나서 기도"나 "같이 모이기"
+- "새가족 안내"보다 "처음 오신 분은?"
+- "은혜 받으세요" 같은 마무리는 빼고 그냥 문장을 마치십시오.
+
+---
+
+#### 빠른 링크 섹션
+
+이번 주 행동 항목과 링크를 훑어볼 수 있는 글머리표 목록. 본문을 훑고 무엇을 클릭할지 알고 싶은 독자를 위한 섹션.
+
+형식:
 
 ```
-This week:
-- [Register for Family Camp] → [link]
-- [Sign up to serve Sunday] → [link]
-- [Watch last week's message] → [link]
-- [Give online] → [link]
+이번 주:
+- [여름 수련회 등록] → [링크]
+- [주일 섬김 신청] → [링크]
+- [지난주 설교 다시 듣기] → [링크]
+- [온라인 헌금] → [링크]
 ```
 
-Keep it to 3 to 5 items. If there is no link for an action, leave it off this list.
+3~5개로 유지. 행동에 링크가 없으면 이 목록에서 제외.
 
 ---
 
-#### Closing
+#### 마무리
 
-- One sentence. Warm, pastoral, direct.
-- Vary the signoff week to week. "See you Sunday" is fine and honest. "Praying for you this week" works. "We will leave the light on" is a little much.
-- Never end with "Be blessed" or "Stay blessed" or any variation.
-- Never end with a rhetorical question designed to prompt replies ("What are you expecting God to do this week?"). That belongs in a different format.
-
----
-
-## Format Rules
-
-These apply to the full email, not just individual sections.
-
-**Paragraph length:** 1 to 3 sentences per paragraph. If it runs longer, break it.
-
-**Bold usage:** Bold dates, times, locations, and deadlines. Do not bold random phrases for emphasis. Bold should mean: "this is information you need to act."
-
-**Line breaks:** Generous. Assume the reader is on a phone between other tasks. White space is not wasted space.
-
-**Total word count:** 200 to 400 words. Shorter is better. A 180-word email that covers everything beats a 420-word email that meanders.
-
-**Never bury the lead.** The most important thing goes first. This is not a mystery novel.
+- 한 문장. 따뜻하고, 목회적이고, 직설적으로.
+- 매주 마무리 표현 바꾸기. "주일에 뵙겠습니다"도 좋고 솔직합니다. "이번 주에도 기도하겠습니다"도 됩니다. "불 켜놓고 기다리겠습니다"는 과합니다.
+- "은혜 받으세요" 또는 "은혜 받으시기 바랍니다" 등의 어떤 변형으로도 끝맺지 마십시오.
+- 답장을 유도하는 가짜 질문으로 끝맺지 마십시오 ("이번 주에 하나님께 무엇을 기대하시나요?"). 그건 다른 형식에 속합니다.
 
 ---
 
-## Anti-Patterns
+## 형식 규칙
 
-Things that make church emails get ignored, deleted, or unsubscribed from:
+전체 이메일에 적용되는 규칙입니다.
 
-- Opening with "Greetings, [Church Name] family!" (every week, like clockwork, instantly skippable)
-- Opening with "Happy [day of week]!" (no one cares)
-- Listing 8 announcements at equal priority (forces the reader to triage your job for you)
-- Writing a 5-sentence paragraph about a minor event no one will attend
-- All-caps for emphasis (reads as shouting)
-- Vague CTAs: "Check out the website" or "Learn more" with no context
-- Signing off with "Be blessed" (automatic Christianese filter, gets tuned out)
-- Using the same subject line formula every week (opens will drop within a month)
+**문단 길이:** 문단당 1~3 문장. 더 길어지면 끊습니다.
+
+**굵게 사용:** 날짜, 시간, 장소, 마감을 굵게. 강조를 위해 임의의 어구를 굵게 하지 마십시오. 굵게는 "이 정보로 행동해야 합니다"를 의미해야 합니다.
+
+**줄 바꿈:** 넉넉하게. 독자가 다른 일 사이 휴대폰을 보고 있다고 가정합니다. 공백은 낭비된 공간이 아닙니다.
+
+**총 글자 수:** 한국어 기준 400~800자. 짧을수록 좋습니다. 모든 것을 다루는 350자 이메일이 두서없는 900자 이메일보다 낫습니다.
+
+**리드를 묻지 마십시오.** 가장 중요한 것이 먼저 나옵니다. 추리 소설이 아닙니다.
 
 ---
 
-## Example Output Structure
+## 안티 패턴
 
-Here is what a finished email looks like before personalization:
+교회 이메일이 무시되거나, 삭제되거나, 수신 거부되게 만드는 것들:
+
+- "[교회 이름] 가족 여러분, 안녕하세요!"로 시작 (매주, 시계처럼, 즉시 건너뛰어짐)
+- "행복한 [요일]!"로 시작 (아무도 관심 없음)
+- 광고 8개를 동등한 우선순위로 나열 (독자가 당신의 일을 분류하게 만듦)
+- 아무도 참석하지 않을 사소한 행사에 5문장 단락 쓰기
+- 강조를 위한 전체 대문자 (소리 지르는 것처럼 읽힘)
+- 모호한 행동 요청: 맥락 없는 "웹사이트 확인하세요" 또는 "더 알아보세요"
+- "은혜 받으세요"로 마무리 (자동 클리셰 필터, 무시됨)
+- 매주 같은 제목 공식 사용 (한 달 안에 열람률이 떨어짐)
+
+---
+
+## 출력 예시 구조
+
+개인화 전 완성된 이메일이 어떤 모습인지:
 
 ```
-Subject A: [Specific, compelling, under 50 chars]
-Subject B: [Alternative angle, same length target]
-Preview: [40-90 chars, complements Subject A]
+제목 A: [구체적, 매력적, 30자 미만]
+제목 B: [대안 각도, 같은 길이 목표]
+미리보기: [30~60자, 제목 A를 보완]
 
 ---
 
-[Personal greeting, 1-2 sentences]
+[개인 인사, 1~2문장]
 
-[Lead item, 2-3 sentences, bold key details, CTA]
+[리드 항목, 2~3문장, 핵심 디테일 굵게, 행동 요청]
 
-[Item 2, 1-2 sentences, CTA]
+[항목 2, 1~2문장, 행동 요청]
 
-[Item 3, 1-2 sentences, CTA]
+[항목 3, 1~2문장, 행동 요청]
 
-[Item 4, 1-2 sentences, CTA (optional)]
+[항목 4, 1~2문장, 행동 요청 (선택)]
 
-This week:
-- [Action item 1] → [link]
-- [Action item 2] → [link]
-- [Action item 3] → [link]
+이번 주:
+- [행동 항목 1] → [링크]
+- [행동 항목 2] → [링크]
+- [행동 항목 3] → [링크]
 
-[Closing sentence]
+[마무리 문장]
 
-[Pastor name]
-[Church name]
+[목회자 이름]
+[교회 이름]
 ```
 
 ---
 
-## Why This Works
+## 왜 이게 작동하는가
 
-Short paragraphs and a strict priority order are not just stylistic preferences. They reflect how people actually read email: on a phone, in a gap between things, looking for a reason to keep scrolling or a reason to stop. An email that respects that reality gets read. An email that does not gets archived.
+짧은 문단과 엄격한 우선순위는 단순한 스타일 선호가 아닙니다. 사람들이 실제로 이메일을 어떻게 읽는지를 반영합니다. 휴대폰에서, 일 사이의 틈에서, 계속 스크롤할 이유 또는 멈출 이유를 찾으며. 그 현실을 존중하는 이메일은 읽힙니다. 그렇지 않은 이메일은 보관됩니다.
 
-The subject line and preview text do the hardest work. If those two lines do not earn a click, everything else is invisible. That is why they get built first and given the most attention.
+제목과 미리보기 텍스트가 가장 어려운 일을 합니다. 이 두 줄이 클릭을 얻어내지 못하면, 나머지는 모두 보이지 않습니다. 그래서 가장 먼저 만들어지고 가장 많은 주의를 받습니다.
 
-The "one most important thing" rule forces clarity that most pastors skip. Every item feels important to the person who submitted it. But your congregation is not you. They need you to decide what matters most and say it first.
+"가장 중요한 한 가지" 규칙은 대부분의 목회자가 건너뛰는 명확성을 강제합니다. 모든 항목은 제출한 사람에게는 중요하게 느껴집니다. 하지만 회중은 당신이 아닙니다. 무엇이 가장 중요한지 결정하고 먼저 말해 주는 사람이 필요합니다.

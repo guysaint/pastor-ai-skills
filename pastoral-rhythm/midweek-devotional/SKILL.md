@@ -1,152 +1,152 @@
 ---
 name: midweek-devotional
-description: Write a short midweek devotional (200-300 words) to send via email or app. Scripture-based, personal, warm. Keeps the congregation connected between Sundays.
+description: 이메일 또는 앱으로 보낼 짧은 주중 묵상글(한국어 기준 400~600자)을 작성합니다. 성경 기반, 개인적, 따뜻함. 주일 사이 회중과의 연결을 유지.
 ---
 
-# Midweek Devotional
+# 주중 묵상글
 
-A pastoral moment for the middle of the week.
+한 주의 중간을 위한 목회적 순간.
 
-> Requires: pastor-foundation skill
-
----
-
-## What You Need to Provide
-
-**Required:**
-- A verse, passage, or theme
-
-**Optional:**
-- Connection to your current sermon series
-- Something happening in the community or world that's on people's minds
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Step 1: Write the Devotional
+## 제공해야 할 것
 
-Use this exact structure. Every section has a purpose. Don't skip any of them.
+**필수:**
+- 구절, 본문, 또는 주제
 
-### Opening (1-2 sentences)
-
-Meet the reader where they are on Wednesday. Not where you wish they were.
-
-The opening should be honest and human. Skip the greeting entirely. Drop the reader into a real moment.
-
-What not to write: "Happy Wednesday, church family!"
-
-What to aim for: "By Wednesday most of us have already forgotten what we committed to on Sunday. That's not failure. That's being human."
-
-The goal is immediate recognition. The reader should think: "That's exactly where I am right now."
-
-### Scripture (quoted in full)
-
-Pull 1-3 verses. Not a full chapter. The whole passage should fit in a single short paragraph.
-
-Use the pastor's preferred translation. If no preference is given, use the ESV or NIV, whichever reads more naturally for the text.
-
-Quote it cleanly. No verse-by-verse breakdown. Let the text breathe.
-
-### Reflection (3-5 sentences)
-
-This is the heart of the devotional.
-
-Write in first person. Write as a pastor who has been sitting with this text for days, not someone summarizing a commentary. What does this passage mean for THIS week, in THIS moment, for people carrying real weight?
-
-Be specific. Vague spiritual encouragement does nothing. Anchor the reflection to something concrete: a feeling, a situation, a tension people are actually navigating.
-
-Keep sentences short. Two to three per paragraph. Midweek readers are scanning while eating lunch or driving carpool. Make every sentence earn its place.
-
-This section should feel like a handwritten note from someone who knows you, not a blog post from someone who needs page views.
-
-### One Takeaway (1 sentence)
-
-A single line the reader can carry into Thursday, Friday, and the weekend.
-
-Practical. Memorable. Short. This is not a summary of the reflection. It is an action or a posture: something the reader can actually hold onto.
-
-Test it: can someone repeat this sentence to a coworker without fumbling it? If not, simplify it.
-
-### Closing (2-3 sentences)
-
-End with a prayer or a benediction-style blessing. Not both.
-
-A closing prayer should be direct and personal, addressed to God, written in the first person plural (we, us, our). It should feel like the pastor is praying with the reader, not at them.
-
-A benediction should send the reader out with confidence and peace. Something they could read aloud over themselves before they close their phone.
-
-Do not end with a sign-off like "Have a blessed week!" or "In His grace." Just let the prayer or blessing be the ending.
+**선택사항:**
+- 현재 설교 시리즈와의 연결
+- 사람들의 마음에 있는 공동체나 세상의 일
 
 ---
 
-## Format Rules
+## 단계 1: 묵상글 작성
 
-- **Total length:** 200-300 words. Not a word more. Count them if needed.
-- **Paragraphs:** 2-3 sentences max. No walls of text.
-- **Tone:** Warm, unhurried, personal. Like a pastor texting a friend, not writing for a publication.
-- **Point of view:** First person is fine. Encouraged, even. It makes the devotional feel like a real person wrote it.
-- **Translation note:** If a passage reads awkwardly in the translation given, note the translation used at the bottom of the devotional in italics.
+이 구조를 정확히 사용합니다. 각 섹션에 목적이 있습니다. 어느 것도 건너뛰지 마십시오.
+
+### 오프닝 (1~2 문장)
+
+수요일에 독자를 그가 있는 자리에서 만나십시오. 당신이 바라는 자리가 아니라.
+
+오프닝은 정직하고 인간적이어야 합니다. 인사말은 통째로 건너뛰십시오. 독자를 실제 순간에 떨어뜨리십시오.
+
+쓰지 말 것: "행복한 수요일입니다, 교회 가족 여러분!"
+
+지향할 것: "수요일이면 대부분의 사람들이 주일에 결단한 것을 이미 잊었습니다. 그것은 실패가 아닙니다. 인간이라는 것입니다."
+
+목표는 즉각적인 인식입니다. 독자는 이렇게 생각해야 합니다: "그게 바로 지금 내가 있는 자리야."
+
+### 성경 (전체 인용)
+
+1~3 구절 뽑기. 한 장 전체가 아닙니다. 본문 전체가 짧은 한 단락에 들어가야 합니다.
+
+목회자의 선호 번역본을 사용. 선호가 없다면 개역개정 또는 새번역 중 본문이 더 자연스럽게 읽히는 것을 사용.
+
+깔끔하게 인용. 구절별 분해 없음. 본문이 숨 쉬게 두십시오.
+
+### 묵상 (3~5 문장)
+
+이것이 묵상글의 심장입니다.
+
+1인칭으로 쓰십시오. 주석을 요약하는 사람이 아니라 며칠 동안 이 본문과 함께 앉아 있던 목회자처럼 쓰십시오. 이 본문이 이번 주에, 이 순간에, 실제 무게를 안고 있는 사람들에게 무엇을 의미하는가?
+
+구체적으로. 모호한 영적 격려는 아무것도 하지 않습니다. 묵상을 구체적인 것에 닻 내리십시오: 한 감정, 한 상황, 사람들이 실제로 헤쳐 가는 긴장.
+
+문장을 짧게 유지하십시오. 단락당 2~3개. 주중 독자는 점심을 먹으며 또는 카풀을 운전하며 훑어봅니다. 모든 문장이 자리를 얻게 하십시오.
+
+이 섹션은 페이지뷰가 필요한 사람의 블로그 글이 아니라, 당신을 아는 사람이 손으로 쓴 메모처럼 느껴져야 합니다.
+
+### 한 가지 결론 (1 문장)
+
+독자가 목요일, 금요일, 그리고 주말로 가지고 갈 한 줄.
+
+실용적. 기억하기 쉬운. 짧은. 묵상의 요약이 아닙니다. 행동 또는 자세입니다: 독자가 실제로 붙들 수 있는 것.
+
+테스트: 누군가 이 문장을 동료에게 더듬지 않고 반복할 수 있는가? 그렇지 않다면 단순화하십시오.
+
+### 마무리 (2~3 문장)
+
+기도 또는 축도 스타일 축복으로 끝내십시오. 둘 다는 아닙니다.
+
+마무리 기도는 직접적이고 개인적이며, 하나님께 드리는 것이고, 1인칭 복수(우리)로 쓰여야 합니다. 목회자가 독자를 대상으로 기도하는 것이 아니라 독자와 함께 기도하는 것처럼 느껴져야 합니다.
+
+축도는 독자를 확신과 평안으로 보내야 합니다. 휴대폰을 닫기 전에 자신에게 소리 내어 읽을 수 있을 것 같은 것.
+
+"복된 한 주 되세요!" 또는 "그분의 은혜 안에서"와 같은 마무리로 끝내지 마십시오. 기도나 축복 자체가 끝이 되게 하십시오.
 
 ---
 
-## Anti-Patterns
+## 형식 규칙
 
-Avoid these. They will kill the devotional.
-
-- Never exceed 300 words. Brevity is pastoral care. Long devotionals get skimmed or deleted.
-- Never turn this into a sermon. One insight. One takeaway. That is enough.
-- Never use the devotional to promote events, announcements, or campaigns.
-- Never open with "Dear church family" or any variation of a formal greeting.
-- Never close with "Have a blessed week!" It is a cliche that signals the pastor stopped thinking.
-- Never write a reflection that could apply to any week of any year. Be specific to this week.
-- Never quote more than 3 verses. Resist the urge to pile on more Scripture for credibility. One passage, held well, is better than five passages held loosely.
+- **총 길이:** 한국어 기준 400~600자. 한 자도 더 안 됨. 필요하면 세십시오.
+- **단락:** 최대 2~3 문장. 텍스트의 벽 없음.
+- **톤:** 따뜻하고, 서두르지 않으며, 개인적. 출판물을 위해 쓰는 게 아니라 친구에게 문자 보내는 목회자처럼.
+- **시점:** 1인칭 괜찮음. 권장됨. 진짜 사람이 쓴 것처럼 느껴지게 합니다.
+- **번역본 메모:** 주어진 번역본에서 본문이 어색하게 읽힌다면, 묵상글 하단에 사용된 번역본을 이탤릭으로 메모.
 
 ---
 
-## Output
+## 안티 패턴
 
-Deliver the devotional as a formatted PDF using `generate-pdf.py`.
+이것들을 피하십시오. 묵상글을 죽입니다.
 
-No headers inside the devotional itself. No labels like "Opening:" or "Reflection:" in the final output. Those are structural guides for writing it, not formatting for the reader.
+- 300자 초과(한국어 기준 600자) 절대 안 됨. 간결함은 목회적 돌봄입니다. 긴 묵상글은 훑거나 삭제됩니다.
+- 이것을 설교로 만들지 마십시오. 한 통찰. 한 결론. 그것이면 충분합니다.
+- 묵상글을 행사, 광고, 캠페인 홍보에 사용하지 마십시오.
+- "사랑하는 교회 가족 여러분께" 또는 어떤 격식 있는 인사 변형으로도 시작하지 마십시오.
+- "복된 한 주 되세요!"로 마무리하지 마십시오. 목회자가 사고를 멈췄다는 신호의 클리셰입니다.
+- 어느 해의 어느 주에도 적용될 수 있는 묵상글 쓰지 마십시오. 이번 주에 구체적으로.
+- 3 구절 이상 인용 금지. 신뢰를 위해 성경을 쌓으려는 충동을 저항하십시오. 잘 다룬 한 본문이 느슨하게 다룬 다섯 본문보다 낫습니다.
 
-The devotional should read as one continuous piece: a short note from a pastor who cares, arriving in someone's inbox on a Wednesday morning.
+---
 
-If the input includes a current sermon series, weave in a single line of connection. Keep it light. Something like: "We've been talking on Sundays about..." is enough. Don't force a lecture. One thread is sufficient.
+## 출력
 
-If the input includes a community event or current moment on people's minds, let it inform the opening or reflection. Ground the text in the world the reader is actually living in.
+`generate-pdf.py`를 사용해 묵상글을 포맷된 PDF로 전달.
 
-Word count check before finalizing: if it exceeds 300 words, cut from the reflection first, then the closing. The opening and takeaway are the last things to trim.
+묵상글 안에 헤더 없음. 최종 출력에 "오프닝:" 또는 "묵상:" 같은 라벨 없음. 그것들은 작성을 위한 구조 가이드이지, 독자를 위한 포맷이 아닙니다.
 
-### PDF Generation
+묵상글은 한 연속된 글로 읽혀야 합니다: 수요일 아침 누군가의 받은편지함에 도착하는, 마음 쓰는 목회자의 짧은 메모.
 
-Write the devotional content to a JSON file, then run `generate-pdf.py` to produce the branded PDF.
+입력에 현재 설교 시리즈가 포함되어 있다면, 연결의 한 줄을 엮으십시오. 가볍게. "주일에 …에 대해 이야기하고 있습니다"가 충분합니다. 강의를 강요하지 마십시오. 줄기 하나로 충분합니다.
 
-**JSON schema:**
+입력에 공동체 행사나 사람들의 마음에 있는 현재 순간이 포함되어 있다면, 그것이 오프닝이나 묵상에 정보를 주게 하십시오. 독자가 실제로 살고 있는 세상에 글을 닻 내리십시오.
+
+마무리 전 글자 수 확인: 600자(한국어) 초과 시, 먼저 묵상에서 자르고, 다음 마무리에서. 오프닝과 결론은 마지막에 다듬습니다.
+
+### PDF 생성
+
+묵상글 콘텐츠를 JSON 파일로 작성한 다음, `generate-pdf.py`를 실행해 브랜드 PDF 생성.
+
+**JSON 스키마:**
 
 ```json
 {
-  "church_name": "CHURCH_NAME from foundation",
-  "date": "April 16, 2026",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "passage_reference": "Psalm 46:10",
-  "translation": "ESV",
-  "scripture_text": "Be still, and know that I am God.",
-  "opening": "Opening text (1-2 sentences).",
-  "reflection": "Reflection text. Separate paragraphs with double newlines.",
-  "takeaway": "One sentence the reader carries into the rest of the week.",
-  "closing": "Prayer or benediction text."
+  "church_name": "파운데이션의 CHURCH_NAME",
+  "date": "2026년 4월 16일",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "passage_reference": "시편 46:10",
+  "translation": "개역개정",
+  "scripture_text": "너희는 가만히 있어 내가 하나님 됨을 알지어다.",
+  "opening": "오프닝 텍스트 (1~2 문장).",
+  "reflection": "묵상 텍스트. 문단은 이중 줄바꿈으로 구분.",
+  "takeaway": "독자가 한 주 나머지로 가지고 갈 한 문장.",
+  "closing": "기도 또는 축도 텍스트."
 }
 ```
 
-**Field notes:**
+**필드 메모:**
 
-- `church_name` and `pastor_name` come from the pastor-foundation skill.
-- `reflection` uses `\n\n` to separate paragraphs.
-- No section headers appear in the PDF. The layout flows as one continuous piece.
-- The PDF is church-branded (no REACHRIGHT branding). Footer shows only a thin gray rule and page number.
+- `church_name`과 `pastor_name`은 pastor-foundation 스킬에서 가져옴.
+- `reflection`은 `\n\n`으로 문단 구분.
+- PDF에 섹션 헤더는 등장하지 않음. 레이아웃이 한 연속된 글로 흐름.
+- PDF는 교회 브랜드 (REACHRIGHT 브랜딩 없음). 푸터는 얇은 회색 선과 페이지 번호만 표시.
 
-**Usage:**
+**사용법:**
 
 ```bash
-python generate-pdf.py input.json                  # output auto-named from date
-python generate-pdf.py input.json devotional.pdf   # explicit output path
+python generate-pdf.py input.json                  # 출력 파일명 날짜에서 자동 생성
+python generate-pdf.py input.json devotional.pdf   # 명시적 출력 경로
 ```

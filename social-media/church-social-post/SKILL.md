@@ -1,179 +1,179 @@
 ---
 name: church-social-post
-description: Write a platform-ready social media post for your church. Provide a topic, event, or scripture. Get back captions for Facebook, Instagram, and Twitter with image suggestions. Optimized for each platform.
+description: 교회의 플랫폼 준비가 완료된 소셜미디어 포스트 작성. 주제, 행사, 또는 성경 구절을 제공하면 페이스북·인스타그램·트위터용 캡션과 이미지 제안을 돌려받습니다. 각 플랫폼에 최적화.
 ---
 
-# Church Social Media Post
+# 교회 소셜미디어 포스트
 
-**One topic, three platforms, zero stress.**
+**한 주제, 세 플랫폼, 스트레스 제로.**
 
-> Requires: pastor-foundation skill
-
----
-
-## What You Need to Provide
-
-Give me any of the following:
-
-- A topic (e.g., "We just baptized 12 people this Sunday")
-- An upcoming event (e.g., "Easter Sunday service on April 20")
-- A scripture verse (e.g., "Romans 8:28")
-- A sermon quote or insight (e.g., "You can't lead people where you haven't been yourself")
-- A church win, story, or milestone
-- A general idea you want to post about
-
-**Optional:** Tell me which platform(s) you want, and if you have a post type preference: quote graphic, photo caption, engagement question, event promo, or story/testimony.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Step 1: Select Post Type
+## 제공해야 할 것
 
-Before writing, I match your input to the best post format:
+다음 중 무엇이든:
 
-| Input | Best Post Type |
+- 주제 (예: "이번 주일 12명이 침례를 받았습니다")
+- 다가오는 행사 (예: "4월 20일 부활주일 예배")
+- 성경 구절 (예: "로마서 8:28")
+- 설교 인용 또는 통찰 (예: "자신이 가보지 않은 곳으로 사람을 이끌 수 없습니다")
+- 교회의 좋은 소식, 스토리, 이정표
+- 포스팅하고 싶은 일반적 아이디어
+
+**선택사항:** 원하는 플랫폼, 포스트 유형 선호 (인용 그래픽, 사진 캡션, 참여 질문, 행사 홍보, 스토리/간증) 알려주십시오.
+
+---
+
+## 단계 1: 포스트 유형 선택
+
+작성 전에 입력을 최적의 포스트 형식에 맞춥니다:
+
+| 입력 | 최적 포스트 유형 |
 |---|---|
-| Scripture verse | Quote graphic with reflection caption |
-| Upcoming event | Event promo with clear CTA |
-| Sermon quote or insight | Thought-leadership caption |
-| Church win or story | Testimony/celebration post |
-| No specific input | Engagement question or behind-the-scenes prompt |
+| 성경 구절 | 묵상 캡션이 있는 인용 그래픽 |
+| 다가오는 행사 | 명확한 행동 요청이 있는 행사 홍보 |
+| 설교 인용 또는 통찰 | 사고 리더십 캡션 |
+| 교회 좋은 소식 또는 스토리 | 간증/축하 포스트 |
+| 특정 입력 없음 | 참여 질문 또는 비하인드 신 제안 |
 
-If you tell me your preference, I use that. If not, I choose based on what will perform best for your input.
-
----
-
-## Step 2: Write Platform-Specific Posts
-
-I write a distinct, optimized post for each platform. These are never copy-paste copies of each other. Each platform has a different culture, audience behavior, and algorithm. I respect that.
+선호를 말씀해 주시면 그것을 사용합니다. 아니라면 입력에 가장 잘 맞을 것으로 선택합니다.
 
 ---
 
-### Facebook
+## 단계 2: 플랫폼별 포스트 작성
 
-**Target length:** 100-250 words. Facebook rewards slightly longer posts that invite conversation. Walls of text kill reach. So does one-sentence fluff.
-
-**Structure:**
-- Hook line (first sentence must stop the scroll)
-- Body (context, story, or reflection)
-- CTA (what do you want them to do next?)
-- Question (drives comments, which drive reach)
-
-**Image suggestion:** I describe the ideal image for this post. If it's a quote graphic, I give you the exact quote text (under 15 words) and a style description.
-
-**Example output format:**
-
-> **[Hook line]**
->
-> [Body: 2-4 short paragraphs with a clear point or story]
->
-> [CTA: one sentence]
->
-> [Comment-driving question]
->
-> Image: [Description of ideal photo, graphic, or design]
+각 플랫폼에 대해 뚜렷하게 최적화된 포스트를 작성합니다. 서로의 복붙 카피가 절대 아닙니다. 각 플랫폼은 다른 문화, 다른 청중 행동, 다른 알고리즘을 가집니다. 그것을 존중합니다.
 
 ---
 
-### Instagram
+### 페이스북
 
-**Target length:** 50-150 words for feed post. Instagram is visual first, caption second. The caption supports the image, not the other way around.
+**목표 길이:** 한국어 기준 200~500자. 페이스북은 대화를 초대하는 약간 더 긴 포스트에 보상합니다. 텍스트의 벽은 도달을 죽입니다. 한 문장 빈말도 마찬가지입니다.
 
-**Structure:**
-- Hook line (this must work before the "...more" cutoff, roughly 125 characters)
-- Body (reflection, context, or story)
-- 3-5 hashtags at the end (never at the start, never 30 at once)
+**구조:**
+- 후크 문장 (첫 문장이 스크롤을 멈춰야 함)
+- 본문 (맥락, 이야기, 또는 묵상)
+- 행동 요청 (다음에 무엇을 해주길 원하는가?)
+- 질문 (댓글을 유도, 댓글이 도달을 만듦)
 
-**Story version:** If relevant, I suggest a quick Story format using a poll sticker, question sticker, or countdown for events.
+**이미지 제안:** 이 포스트에 이상적인 이미지를 묘사합니다. 인용 그래픽이라면 정확한 인용 텍스트(8단어 이하/한국어 15자 이하)와 스타일 묘사 제공.
 
-**Carousel suggestion:** If the content is list-based or has multiple points, I flag it as a carousel opportunity and suggest what each slide covers.
+**예시 출력 형식:**
 
-**Image suggestion:** I describe the ideal image or graphic concept. If quote graphic: exact text (under 15 words) and style description.
-
-**Example output format:**
-
-> **[Hook line]**
+> **[후크 문장]**
 >
-> [Body: short, punchy, visual language]
+> [본문: 명확한 포인트나 이야기가 있는 2~4개의 짧은 단락]
 >
-> #hashtag1 #hashtag2 #hashtag3
+> [행동 요청: 한 문장]
 >
-> Image: [Description]
+> [댓글 유도 질문]
 >
-> Story version (optional): [Poll or question sticker concept]
+> 이미지: [이상적인 사진, 그래픽, 또는 디자인 묘사]
 
 ---
 
-### Twitter/X
+### 인스타그램
 
-**Target length:** Under 280 characters, ideally under 200. Twitter rewards punchy, opinionated, conversational posts. This is not the place for paragraphs.
+**목표 길이:** 피드 포스트 한국어 기준 100~300자. 인스타그램은 이미지 우선, 캡션 둘째입니다. 캡션은 이미지를 지원합니다, 그 반대가 아닙니다.
 
-**Tone:** Slightly edgier than Facebook or Instagram. More direct. Less polish. More personality.
+**구조:**
+- 후크 문장 ("…더보기" 컷오프 전에 작동해야 함, 약 60~70자 한국어 기준)
+- 본문 (묵상, 맥락, 또는 이야기)
+- 끝에 해시태그 3~5개 (시작이 아님, 30개 한꺼번에도 아님)
 
-**Hashtags:** 0-1. No keyword stuffing.
+**스토리 버전:** 관련 있다면 행사용 투표 스티커, 질문 스티커, 카운트다운을 사용한 짧은 스토리 형식 제안.
 
-**Format options:**
-- Standalone tweet: one punchy statement, observation, or question
-- Thread starter: first tweet hooks, rest of thread delivers the value (I note when the content calls for this)
+**캐러셀 제안:** 콘텐츠가 목록 기반이거나 여러 포인트가 있다면 캐러셀 기회로 표시하고 각 슬라이드가 다룰 내용 제안.
 
-**Example output format:**
+**이미지 제안:** 이상적인 이미지나 그래픽 컨셉 묘사. 인용 그래픽이라면 정확한 텍스트(한국어 15자 이하)와 스타일 묘사.
 
-> [Punchy, under-200-character tweet]
+**예시 출력 형식:**
+
+> **[후크 문장]**
 >
-> Format: Standalone tweet (or) Thread starter
+> [본문: 짧고, 펀치 있고, 시각적 언어]
 >
-> Thread notes (if applicable): [What each follow-up tweet covers]
+> #해시태그1 #해시태그2 #해시태그3
+>
+> 이미지: [묘사]
+>
+> 스토리 버전 (선택): [투표 또는 질문 스티커 컨셉]
 
 ---
 
-## Step 3: Image Suggestions
+### 트위터/X
 
-For every post, I give you a specific image description. Not vague. Not generic. Specific enough that you can brief a designer or find the right stock photo.
+**목표 길이:** 한국어 기준 140자 미만. 트위터는 펀치 있고, 의견 있고, 대화체 포스트에 보상합니다. 단락의 자리가 아닙니다.
 
-For quote graphics, I give you:
-- The exact quote text (15 words or fewer)
-- Font style direction (bold/serif/clean/etc.)
-- Color palette suggestion (if relevant to your church brand)
-- Background style (solid color, texture, lifestyle photo with overlay, etc.)
+**톤:** 페이스북이나 인스타그램보다 약간 더 날카롭게. 더 직접적으로. 덜 다듬어서. 더 개성 있게.
 
----
+**해시태그:** 0~1개. 키워드 스터핑 금지.
 
-## Anti-Patterns I Avoid
+**형식 옵션:**
+- 단독 트윗: 펀치 있는 한 문장 진술, 관찰, 또는 질문
+- 스레드 시작: 첫 트윗이 후킹, 나머지 스레드가 가치 전달 (콘텐츠가 이를 요구할 때 표시)
 
-These are the things that kill reach, signal low effort, and make your church look out of touch online. I never do these.
+**예시 출력 형식:**
 
-- **Never post the same caption across all three platforms.** Different platforms need different voices. What works on Facebook reads wrong on Twitter.
-- **Never use more than 5 hashtags on any platform.** More is not more. It looks spammy and tanks reach on most platforms.
-- **Never start an Instagram caption with a hashtag.** It buries the hook before anyone reads it.
-- **Never post a Facebook link with no context.** A bare link with no caption or setup gets almost zero organic reach. Always write a post around the link.
-- **Never post scripture without reflection.** "Jeremiah 29:11" alone is not a strategy. Every verse needs a sentence or two connecting it to real life. Otherwise it's noise.
-- **Never use em dashes.** Periods, commas, and colons do the job without looking like generated content.
+> [한국어 140자 미만의 펀치 있는 트윗]
+>
+> 형식: 단독 트윗 (또는) 스레드 시작
+>
+> 스레드 메모 (해당될 경우): [각 후속 트윗이 다루는 것]
 
 ---
 
-## Output Format
+## 단계 3: 이미지 제안
 
-I deliver posts in this order:
+모든 포스트에 대해 구체적인 이미지 묘사 제공. 모호하지 않게. 일반적이지 않게. 디자이너에게 브리프하거나 적절한 스톡 사진을 찾을 수 있을 만큼 구체적으로.
 
-1. **Post Type Selected** (one line, explains which format and why)
-2. **Facebook Post** (full caption + image suggestion)
-3. **Instagram Post** (full caption + hashtags + image suggestion + Story version if relevant)
-4. **Twitter/X Post** (full tweet + format note)
-5. **Quick Tip** (one sentence about timing, boosting, or repurposing this content if there's something worth flagging)
-
-Everything is ready to copy and post. No brackets to fill in. No "insert your church name here." You get finished content.
+인용 그래픽의 경우 제공:
+- 정확한 인용 텍스트 (한국어 15자 이하)
+- 폰트 스타일 방향 (굵게/명조/깔끔/등)
+- 색상 팔레트 제안 (교회 브랜드에 관련 있을 경우)
+- 배경 스타일 (단색, 텍스처, 오버레이가 있는 라이프스타일 사진 등)
 
 ---
 
-## Usage Examples
+## 안티 패턴 (피합니다)
 
-**Input:** "We just had our biggest Easter attendance ever. 847 people showed up."
+도달을 죽이고, 노력 부족 신호를 보내고, 교회를 온라인에서 시대에 뒤떨어져 보이게 만드는 것들. 절대 하지 않습니다.
 
-**Input:** "Philippians 4:13. I want to post something around this verse for Monday morning motivation."
+- **세 플랫폼에 같은 캡션 절대 포스팅 안 됨.** 다른 플랫폼은 다른 목소리를 필요로 합니다. 페이스북에 작동하는 것은 트위터에서 잘못 읽힙니다.
+- **어느 플랫폼에서도 해시태그 5개 초과 금지.** 많을수록 좋은 게 아닙니다. 스팸 같아 보이고 대부분의 플랫폼에서 도달을 떨어뜨립니다.
+- **인스타그램 캡션을 해시태그로 시작 금지.** 누군가 읽기 전에 후크를 묻어버립니다.
+- **맥락 없이 페이스북 링크 포스팅 금지.** 캡션이나 설정 없는 맨 링크는 거의 0의 오가닉 도달을 얻습니다. 항상 링크 주변에 포스트를 쓰십시오.
+- **묵상 없이 성경 포스팅 금지.** "예레미야 29:11"만 있는 것은 전략이 아닙니다. 모든 구절은 실제 삶에 연결하는 1~2문장이 필요합니다. 아니면 소음입니다.
+- **줄표 사용 금지.** 마침표, 쉼표, 콜론이 생성된 콘텐츠처럼 보이지 않게 일을 합니다.
 
-**Input:** "We're launching a new young adults ministry called 'The Table' on April 27. Sunday morning, 9am."
+---
 
-**Input:** "Sermon quote from yesterday: 'God doesn't call the qualified. He qualifies the called.' Want to turn this into posts."
+## 출력 형식
 
-**Input:** "I just want to post something this week but I have no idea what. Help."
+이 순서로 포스트 전달:
 
-All of these work. Give me what you have and I'll handle the rest.
+1. **선택된 포스트 유형** (한 줄, 어떤 형식이며 왜인지 설명)
+2. **페이스북 포스트** (전체 캡션 + 이미지 제안)
+3. **인스타그램 포스트** (전체 캡션 + 해시태그 + 이미지 제안 + 관련 있으면 스토리 버전)
+4. **트위터/X 포스트** (전체 트윗 + 형식 메모)
+5. **빠른 팁** (타이밍, 부스팅, 또는 이 콘텐츠 재활용에 대해 표시할 만한 게 있으면 한 문장)
+
+모든 것이 복사 후 포스팅 준비 완료. 채워야 할 괄호 없음. "[교회 이름 여기]" 없음. 완성된 콘텐츠를 받습니다.
+
+---
+
+## 사용 예시
+
+**입력:** "이번 부활주일 역대 최다 출석이었습니다. 847명이 왔습니다."
+
+**입력:** "빌립보서 4:13. 월요일 아침 동기부여로 이 구절 관련 포스트하고 싶습니다."
+
+**입력:** "4월 27일 '식탁'이라는 새 청년 사역을 시작합니다. 주일 오전 9시."
+
+**입력:** "어제 설교 인용: '하나님은 자격 있는 자를 부르지 않으십니다. 부르신 자를 자격 있게 하십니다.' 포스트로 만들고 싶습니다."
+
+**입력:** "그냥 이번 주에 뭔가 포스팅하고 싶은데 뭘 할지 모르겠습니다. 도와주세요."
+
+이 모두 작동합니다. 가진 것을 주시면 나머지는 처리합니다.

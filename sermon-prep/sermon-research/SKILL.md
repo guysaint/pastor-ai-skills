@@ -1,248 +1,247 @@
 ---
 name: sermon-research
-description: Deep research assistant for weekly sermon preparation. Provide a scripture passage, topic, and questions -- get back commentary insights, historical context, original language notes, and thinking prompts. Research only -- no outlines, no sermon writing.
+description: 주간 설교 준비를 위한 깊이 있는 조사 보조자. 성경 본문, 주제, 질문을 제공하면 주석 통찰, 역사적 배경, 원어 노트, 사고 촉진 질문을 돌려받습니다. 조사만 수행, 개요·설교 작성은 하지 않음.
 ---
 
-# Sermon Research Assistant
+# 설교 조사 보조자
 
-Go deeper into the text so you can preach with confidence.
+본문 안으로 더 깊이 들어가, 확신 있게 설교할 수 있도록 돕습니다.
 
-**Requires:** pastor-foundation skill installed for church context and voice settings.
+**필수:** 교회 컨텍스트와 목소리 설정을 위한 pastor-foundation 스킬 설치.
 
 ---
 
-## What You Need to Provide
+## 제공해야 할 것
 
-Give me the scripture passage you are preaching. That is the only required input. Everything else helps me go deeper, but you do not need it all to get started.
+설교할 성경 본문을 알려주세요. 그것만 있으면 됩니다. 나머지는 더 깊이 들어가는 데 도움이 되지만, 시작하기 위해 모두 필요한 것은 아닙니다.
 
-| Input | Required | Notes |
+| 입력 | 필수 여부 | 비고 |
 |---|---|---|
-| Scripture passage | Yes | Book, chapter, verse range (e.g., Romans 8:1-11) |
-| Topic or angle | No | The lens you are preaching through, if you already have one |
-| Series context | No | What the larger series is, where this week falls |
-| Questions you are wrestling with | No | Interpretive questions, tension points, things you are unsure about |
+| 성경 본문 | 예 | 권, 장, 절 범위 (예: 로마서 8:1-11) |
+| 주제 또는 관점 | 아니요 | 이미 정한 설교 관점이 있다면 |
+| 시리즈 맥락 | 아니요 | 더 큰 시리즈가 무엇이며 이번 주가 어디에 위치하는지 |
+| 씨름 중인 질문 | 아니요 | 해석상 질문, 긴장점, 확신이 서지 않는 부분 |
 
-If all you have is a passage, that is enough. I will not ask you five follow-up questions before starting. Give me what you have and I will get to work.
-
----
-
-## Research Workflow
-
-### Step 1: Passage Context
-
-Every passage lives somewhere. Before you can preach it well, you need to know where you are standing.
-
-This section covers:
-
-- **Book overview.** Who wrote it, when, and to whom. The historical situation of the author.
-- **Audience.** What was the original community dealing with? What were they expecting, fearing, or celebrating?
-- **Literary genre.** Is this epistle, narrative, poetry, apocalyptic, wisdom literature? The genre shapes how the passage works and what kind of demands it makes on the reader.
-- **Placement in the book.** Where does this passage fall in the larger argument or story? What just happened? What comes next? Knowing the surrounding material keeps you from making the text say something the author never intended.
-
-Length: 2-3 paragraphs. Enough to orient you, not enough to overwhelm you.
+본문만 있어도 충분합니다. 시작 전에 다섯 가지 질문을 던지지 않습니다. 가진 것을 주시면 작업에 들어갑니다.
 
 ---
 
-### Step 2: Historical and Cultural Background
+## 조사 워크플로우
 
-The Bible was written in specific times and places. Modern readers bring 2,000 years of cultural distance to the text without realizing it. This step closes that gap.
+### 단계 1: 본문의 맥락
 
-This section covers:
+모든 본문은 어딘가에 위치합니다. 본문을 잘 설교하려면 자신이 어디에 서 있는지 알아야 합니다.
 
-- **Political and social realities.** Who held power? What was daily life like for ordinary people in this culture?
-- **Religious context.** What did Jewish law, Roman religion, or local pagan practice look like on the ground? What assumptions did first-century people carry that shape the passage?
-- **Cultural practices.** Hospitality, honor and shame, patron-client relationships, purity laws, agricultural cycles: these details are not trivia. They are the air the original audience breathed.
-- **What modern readers miss.** I will flag two or three specific details that a contemporary reader would read past but that the original audience would have caught immediately.
+이 섹션은 다음을 다룹니다:
 
-Length: 2-3 paragraphs. Dense and specific, not a general history lesson.
+- **권 개관.** 누가, 언제, 누구에게 썼는가. 저자의 역사적 상황.
+- **수신 공동체.** 원래 공동체는 무엇과 씨름하고 있었는가? 무엇을 기대하고, 두려워하고, 기뻐하고 있었는가?
+- **문학 장르.** 서신인가, 내러티브인가, 시인가, 묵시인가, 지혜문학인가? 장르가 본문의 작동 방식과 독자에게 요구하는 것을 결정합니다.
+- **권 안에서의 위치.** 이 본문은 더 큰 논증이나 이야기 안에서 어디에 있는가? 바로 앞에는 무엇이 있는가? 뒤에는 무엇이 오는가? 주변 자료를 알면 저자가 결코 의도하지 않은 말을 본문에서 끌어내지 않게 됩니다.
+
+분량: 2~3 문단. 방향을 잡을 만큼이지, 압도하지 않을 만큼.
 
 ---
 
-### Step 3: Key Word Study
+### 단계 2: 역사적·문화적 배경
 
-Not every word needs a word study. Some do. This step identifies 3-5 words in your passage that carry significant theological weight, have a range of meaning that matters for interpretation, or are translated inconsistently across major Bible versions.
+성경은 특정 시대와 장소에서 기록되었습니다. 현대 독자는 자신도 모르는 사이에 2,000년의 문화적 거리를 본문에 가져옵니다. 이 단계는 그 간극을 메웁니다.
 
-For each word, I will provide:
+이 섹션은 다음을 다룹니다:
 
-| Column | What It Shows |
+- **정치·사회적 현실.** 권력은 누구에게 있었는가? 그 문화 속 보통 사람들의 일상은 어떠했는가?
+- **종교적 맥락.** 유대 율법, 로마 종교, 또는 그 지역의 이방 종교 실천은 실제로 어떤 모습이었는가? 1세기 사람들이 본문 형성에 영향을 미친 어떤 전제를 가지고 있었는가?
+- **문화적 관습.** 환대, 명예와 수치, 후견인-피후견인 관계, 정결법, 농경 주기. 이런 세부사항은 잡학 상식이 아닙니다. 원래 청중이 호흡하던 공기입니다.
+- **현대 독자가 놓치는 것.** 현대 독자는 그냥 지나치지만 원래 청중은 즉시 알아챘을 구체적인 디테일 2~3개를 표시합니다.
+
+분량: 2~3 문단. 일반적인 역사 강의가 아니라 밀도 있고 구체적으로.
+
+---
+
+### 단계 3: 핵심 단어 연구
+
+모든 단어가 단어 연구를 필요로 하지는 않습니다. 어떤 단어는 필요합니다. 이 단계는 본문에서 중요한 신학적 무게를 지닌 단어, 해석에 중요한 의미 폭을 지닌 단어, 또는 주요 한국어 번역본에서 일관되지 않게 번역되는 단어 3~5개를 식별합니다.
+
+각 단어에 대해 다음을 제공합니다:
+
+| 항목 | 보여주는 것 |
 |---|---|
-| English word | As it appears in the text |
-| Transliteration | Phonetic spelling of the Hebrew or Greek |
-| Literal meaning | Root definition |
-| Range of meaning | How the word is used elsewhere in Scripture |
-| Translation comparison | How NIV, ESV, KJV, NLT, and NASB handle it differently |
+| 한국어 단어 | 본문에 나타나는 그대로 |
+| 음역 | 히브리어 또는 그리스어의 발음 표기 |
+| 문자적 의미 | 어원적 정의 |
+| 의미의 범위 | 성경 다른 곳에서 이 단어가 어떻게 사용되는가 |
+| 번역본 비교 | 개역개정, 새번역, 우리말성경, 현대인의성경이 어떻게 다르게 처리하는가 |
 
-The point is not to make you look smart for knowing Greek. The point is to hand you the tools to make a better interpretive decision and explain it clearly to your congregation without a seminary lecture.
-
----
-
-### Step 4: Commentary Insights
-
-Commentaries are not the final word, but they are how you get two thousand years of careful thinkers into your study before Sunday. This step surfaces what major commentators say about the passage.
-
-I will draw from 3-5 commentators or theological traditions, covering:
-
-- The main interpretive question in the passage and how different scholars land on it.
-- Where commentators agree. Widespread agreement is a signal worth noting.
-- Where they diverge. Disagreement usually marks a genuine tension in the text, not just a matter of preference.
-- Academic and pastoral perspectives. Technical commentaries ask different questions than preaching commentaries. Both are useful.
-
-I will name the commentators I am drawing from. I will not fabricate quotes. I will summarize their positions accurately. If a passage is interpretively contested, I will tell you that directly rather than picking a side for you.
-
-See `references/commentary-sources.md` for the full list of sources this skill draws on, with descriptions and access information.
+핵심은 헬라어를 안다고 똑똑해 보이게 만드는 것이 아닙니다. 더 나은 해석적 결정을 내리고 그것을 회중에게 신학교 강의 없이 명확하게 설명할 도구를 손에 쥐어드리는 것입니다.
 
 ---
 
-### Step 5: Cross-References and Parallel Passages
+### 단계 4: 주석 통찰
 
-Scripture interprets scripture. This step gives you 5-8 related passages with a clear note on how each one connects to your text.
+주석이 최종 결정권자는 아니지만, 일요일 전에 2,000년에 걸친 신중한 사상가들을 서재로 불러들이는 방법입니다. 이 단계는 주요 주석가들이 본문에 대해 무엇을 말하는지 표면에 끌어올립니다.
 
-For each cross-reference, I will provide:
+3~5명의 주석가 또는 신학 전통에서 다음을 다룹니다:
 
-- **Reference.** Book, chapter, and verse.
-- **Connection.** One sentence on why it matters for your passage.
-- **Connection type.** One of three categories:
-  - *Direct parallel:* Same event or teaching from a different angle.
-  - *Thematic connection:* A passage that develops the same theological idea.
-  - *OT background:* An Old Testament text that your New Testament passage quotes, alludes to, or assumes the reader knows.
+- 본문의 주요 해석 쟁점과 학자들이 어떻게 정리하는가.
+- 주석가들이 동의하는 지점. 광범위한 합의는 주목할 신호입니다.
+- 의견이 갈리는 지점. 불일치는 보통 단순한 선호의 문제가 아니라 본문 내의 진짜 긴장을 표시합니다.
+- 학문적·목회적 관점. 기술적 주석은 설교 주석과 다른 질문을 던집니다. 둘 다 유용합니다.
 
-This is not a list for its own sake. Each reference is there because it does something useful: sheds light on an ambiguous word, shows how the theme develops across the canon, or gives you a second angle into the same truth.
+인용하는 주석가의 이름을 명시합니다. 인용문을 지어내지 않습니다. 그들의 입장을 정확하게 요약합니다. 본문이 해석상 다투어지는 경우, 한쪽 편을 들지 않고 그렇다고 직접 말씀드립니다.
 
----
-
-### Step 6: Theological Themes
-
-Most passages carry more than one theological idea. This step names the 3-5 major themes in your text and connects each one to the world your congregation actually lives in.
-
-For each theme, I will provide:
-
-- **Name.** A short, clear label for the theme.
-- **How it appears in the text.** Where and how the passage develops this idea. Specific, not general.
-- **One practical implication.** How this theological reality might land for a congregation of 100-300 people in a local church context. What question does it answer? What fear does it address? What obedience does it call for?
-
-This section is not a sermon outline. It is a map of the theological terrain. What you do with that terrain is your job.
+이 스킬이 참고하는 출처의 전체 목록은 `references/commentary-sources.md`를 보십시오.
 
 ---
 
-### Step 7: Thinking Prompts
+### 단계 5: 상호 참조와 병행 본문
 
-Good preaching is not just about knowing what the text says. It is about knowing what your congregation will do with it, where they will get stuck, and what assumptions they are carrying into the room.
+성경이 성경을 해석합니다. 이 단계는 본문과 관련된 5~8개의 본문을 각각이 어떻게 연결되는지에 대한 명확한 설명과 함께 제공합니다.
 
-These 5-7 questions are designed to push your thinking before you touch a single outline or illustration. They are not sermon structure questions. They are interpretive pressure tests.
+각 상호 참조에 대해:
 
-Examples of the kind of questions this section asks:
+- **참조.** 권, 장, 절.
+- **연결.** 본문에 왜 중요한지 한 문장.
+- **연결 유형.** 세 범주 중 하나:
+  - *직접 병행:* 같은 사건이나 가르침을 다른 각도에서.
+  - *주제적 연결:* 같은 신학적 사상을 발전시키는 본문.
+  - *구약 배경:* 신약 본문이 인용하거나 암시하거나 독자가 안다고 전제하는 구약 본문.
 
-- What assumption might your congregation bring to this text that the original audience would not have had?
-- Where is the natural application of this passage too easy? Where might it be harder than it looks?
-- What does this passage demand that your congregation probably does not want to hear?
-- If your congregation walks out feeling good about this sermon, did you preach the whole text?
-- What is the most common way this passage is mishandled from the pulpit, and how do you avoid it?
-
-The questions will be tailored to your specific passage, not pulled from a generic list.
+목록을 위한 목록이 아닙니다. 각 참조는 모호한 단어에 빛을 비추거나, 정경 전반에 걸쳐 주제가 어떻게 발전하는지 보여주거나, 같은 진리에 대한 두 번째 각도를 제공하는 등 유용한 역할을 합니다.
 
 ---
 
-## Output Format
+### 단계 6: 신학적 주제
 
-This skill outputs a formatted PDF document, not terminal text. The PDF includes styled headers, formatted tables for word studies, structured lists for cross-references, and clean typography designed for reading and markup on screen or in print.
+대부분의 본문은 하나 이상의 신학적 사상을 담고 있습니다. 이 단계는 본문의 주요 주제 3~5개를 명명하고, 각 주제를 회중이 실제로 살아가는 세상과 연결합니다.
 
-### Requirements
+각 주제에 대해:
 
-The PDF generator requires Python and the `reportlab` library. If reportlab is not installed, install it before generating:
+- **이름.** 짧고 명확한 라벨.
+- **본문에서 어떻게 나타나는가.** 본문이 이 사상을 어디서 어떻게 발전시키는가. 일반적이지 않고 구체적으로.
+- **하나의 실제적 함의.** 이 신학적 실재가 50~200명 규모의 지역 교회 회중에게 어떻게 가닿을 수 있는가. 어떤 질문에 답하는가? 어떤 두려움을 다루는가? 어떤 순종을 부르는가?
+
+이 섹션은 설교 개요가 아닙니다. 신학적 지형의 지도입니다. 그 지형으로 무엇을 할지는 당신의 몫입니다.
+
+---
+
+### 단계 7: 사고 촉진 질문
+
+좋은 설교는 본문이 무엇을 말하는지 아는 것만이 아닙니다. 회중이 본문으로 무엇을 할지, 어디서 막힐지, 어떤 전제를 가지고 들어올지 아는 것입니다.
+
+이 5~7개의 질문은 개요나 예화에 손대기 전에 사고를 밀어붙이도록 설계되었습니다. 설교 구조에 관한 질문이 아닙니다. 해석상의 압력 테스트입니다.
+
+이 섹션이 던지는 질문의 예:
+
+- 원래 청중에게는 없었지만 당신의 회중이 이 본문에 가져올 전제는 무엇인가?
+- 이 본문의 자연스러운 적용이 어디에서 너무 쉬워지는가? 보기보다 어려운 지점은 어디인가?
+- 이 본문이 회중에게 요구하는 것 중 그들이 아마 듣고 싶지 않을 것은 무엇인가?
+- 회중이 이 설교에 대해 좋은 기분으로 나간다면, 본문 전체를 설교한 것인가?
+- 이 본문이 강단에서 가장 흔히 잘못 다뤄지는 방식은 무엇이며, 어떻게 피할 수 있는가?
+
+질문은 일반적인 목록에서 뽑힌 것이 아니라 당신의 본문에 맞춰집니다.
+
+---
+
+## 출력 형식
+
+이 스킬은 터미널 텍스트가 아니라 포맷된 PDF 문서를 출력합니다. PDF는 스타일된 헤더, 단어 연구를 위한 포맷된 표, 상호 참조를 위한 구조화된 목록, 화면이나 인쇄에서 읽고 표시하기 좋도록 설계된 깔끔한 타이포그래피를 포함합니다.
+
+### 요구 사항
+
+PDF 생성기는 Python과 `reportlab` 라이브러리가 필요합니다. reportlab이 설치되어 있지 않다면 생성 전에 설치하십시오:
 
 ```
 pip install reportlab
 ```
 
-### How It Works
+### 작동 방식
 
-After completing all seven research steps, do the following:
+7개 조사 단계를 모두 완료한 후, 다음을 수행하십시오:
 
-1. **Write a JSON file** containing the structured research data. Save it as a temporary file (e.g., `sermon-research-temp.json`) in the current working directory.
-2. **Locate `generate-pdf.py`** in the same directory as this skill file. Search skill directories if needed.
-3. **Run the script:** `python generate-pdf.py sermon-research-temp.json`
-4. **Delete the temporary JSON file** after the PDF generates successfully.
-5. **Tell the pastor** the PDF filename and where it was saved.
+1. **JSON 파일 작성** — 구조화된 조사 데이터를 담은 JSON 파일을 만듭니다. 현재 작업 디렉토리에 임시 파일로 저장 (예: `sermon-research-temp.json`).
+2. **`generate-pdf.py` 위치 확인** — 이 스킬 파일과 같은 디렉토리에 있습니다. 필요하면 스킬 디렉토리를 검색.
+3. **스크립트 실행:** `python generate-pdf.py sermon-research-temp.json`
+4. **PDF가 성공적으로 생성된 후 임시 JSON 파일 삭제.**
+5. **목회자에게 PDF 파일명과 저장 위치를 알림.**
 
-The PDF saves to the current working directory with a filename based on the passage (e.g., `Sermon-Research-Romans-8-1-11.pdf`).
+PDF는 현재 작업 디렉토리에 본문 기반 파일명으로 저장됩니다 (예: `Sermon-Research-Romans-8-1-11.pdf`).
 
-### JSON Data Structure
+### JSON 데이터 구조
 
-Structure the research into this exact format before generating the PDF. Every field maps to a section in the document.
+PDF 생성 전 조사 내용을 정확히 이 형식으로 구조화하십시오. 모든 필드가 문서의 한 섹션에 매핑됩니다.
 
 ```json
 {
-  "passage": "Romans 8:1-11",
+  "passage": "로마서 8:1-11",
   "date": "2026-04-08",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "church_name": "CHURCH_NAME from foundation",
-  "passage_context": "Full text of the Passage Context section. Use double line breaks to separate paragraphs.",
-  "historical_background": "Full text of the Historical and Cultural Background section. Use double line breaks to separate paragraphs.",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "church_name": "파운데이션의 CHURCH_NAME",
+  "passage_context": "본문의 맥락 섹션 전체 텍스트. 문단 구분은 이중 줄바꿈으로.",
+  "historical_background": "역사적·문화적 배경 섹션 전체 텍스트. 문단 구분은 이중 줄바꿈으로.",
   "word_studies": [
     {
-      "english": "condemnation",
+      "korean": "정죄",
       "transliteration": "katakrima",
-      "literal_meaning": "adverse sentence, punishment following a guilty verdict",
-      "range_of_meaning": "Used 3 times in the NT, all in Romans. Refers to the sentence itself, not the act of judging.",
+      "literal_meaning": "유죄 판결에 따른 형, 처벌",
+      "range_of_meaning": "신약에서 3회 사용, 모두 로마서. 판단 행위 자체가 아니라 그 선고를 가리킴.",
       "translations": {
-        "NIV": "condemnation",
-        "ESV": "condemnation",
-        "KJV": "condemnation",
-        "NLT": "condemnation",
-        "NASB": "condemnation"
+        "개역개정": "정죄",
+        "새번역": "정죄",
+        "우리말성경": "심판",
+        "현대인의성경": "유죄 판결"
       }
     }
   ],
-  "commentary_insights": "Full text of the Commentary Insights section. Use double line breaks to separate paragraphs.",
+  "commentary_insights": "주석 통찰 섹션 전체 텍스트. 문단 구분은 이중 줄바꿈으로.",
   "cross_references": [
     {
-      "reference": "Galatians 5:16-25",
-      "connection": "Paul's parallel treatment of life in the Spirit versus life in the flesh.",
-      "type": "Thematic connection"
+      "reference": "갈라디아서 5:16-25",
+      "connection": "성령을 따른 삶과 육신을 따른 삶에 대한 바울의 병행 처리.",
+      "type": "주제적 연결"
     }
   ],
   "theological_themes": [
     {
-      "name": "Freedom from condemnation",
-      "in_text": "Opens the passage with the declaration that there is now no condemnation for those in Christ Jesus.",
-      "implication": "For a congregation carrying guilt from past failures, this is not abstract theology. It is the ground they stand on."
+      "name": "정죄로부터의 자유",
+      "in_text": "본문은 그리스도 예수 안에 있는 자에게 결코 정죄함이 없다는 선언으로 시작됨.",
+      "implication": "과거 실패로 인한 죄책을 안고 있는 회중에게 이것은 추상적 신학이 아닙니다. 그들이 딛고 서는 땅입니다."
     }
   ],
   "thinking_prompts": [
-    "What assumption might your congregation bring to this text that the original audience would not have had?",
-    "Where is the natural application of this passage too easy?"
+    "원래 청중에게는 없었지만 당신의 회중이 이 본문에 가져올 전제는 무엇인가?",
+    "이 본문의 자연스러운 적용이 어디에서 너무 쉬워지는가?"
   ]
 }
 ```
 
-**Important notes on the JSON:**
-- `passage_context`, `historical_background`, and `commentary_insights` are plain text strings. Separate paragraphs with double newlines (`\n\n`).
-- `word_studies` is an array of objects. Include 3-5 entries matching the words identified in Step 3.
-- `cross_references` uses three type values: "Direct parallel", "Thematic connection", or "OT background".
-- `theological_themes` is an array of 3-5 theme objects.
-- `thinking_prompts` is an array of 5-7 question strings.
-- Use the pastor's real name and church name from the foundation variables, not placeholders.
-- Do not use em dashes anywhere in the content. Use commas, colons, or periods instead.
+**JSON 관련 중요 사항:**
+- `passage_context`, `historical_background`, `commentary_insights`는 일반 텍스트 문자열입니다. 문단은 이중 줄바꿈(`\n\n`)으로 구분합니다.
+- `word_studies`는 객체 배열입니다. 단계 3에서 식별된 단어와 매칭되는 3~5개 항목을 포함합니다.
+- `cross_references`는 세 가지 type 값을 사용합니다: "직접 병행", "주제적 연결", "구약 배경".
+- `theological_themes`는 3~5개의 주제 객체 배열입니다.
+- `thinking_prompts`는 5~7개의 질문 문자열 배열입니다.
+- 파운데이션 변수에서 목회자의 실제 이름과 교회 이름을 사용하고, 자리표시자를 사용하지 마십시오.
+- 콘텐츠 어디에도 줄표(—)를 사용하지 마십시오. 쉼표, 콜론, 마침표를 사용하십시오.
 
 ---
 
-## Anti-Patterns
+## 안티 패턴
 
-This skill will not do the following, even if you ask:
+이 스킬은 요청해도 다음을 수행하지 않습니다:
 
-- **No sermon outline or structure.** Research is research. Structure comes in your prep, not here.
-- **No three-point frameworks.** The AI will not suggest how to organize the sermon.
-- **No fabricated quotes.** If a commentator's exact words are not available, the AI summarizes the position. It does not invent a quotation to make a point sound more authoritative.
-- **No over-spiritualized history.** The Roman census was a political act. The Temple Mount was a real place with real economic activity. Historical context is not a metaphor. This skill reads it plainly before asking what it means theologically.
-
----
-
-## Why This Exists
-
-Most pastors do not have a seminary library, a research assistant, or three hours to spend in commentaries before a busy week. This skill does not replace deep personal study. It compresses the front end of that study so you spend your time thinking and praying, not hunting down background information you already know you need.
-
-The work of applying the text to your congregation's life belongs to you. The Holy Spirit works through that process. What this skill does is make sure you are not preaching on insufficient information about what the text actually says.
+- **설교 개요나 구조 없음.** 조사는 조사입니다. 구조는 여기가 아니라 당신의 준비 작업에서 나옵니다.
+- **3대지 프레임워크 없음.** AI는 설교를 어떻게 구성할지 제안하지 않습니다.
+- **꾸며낸 인용문 없음.** 주석가의 정확한 단어를 사용할 수 없는 경우, AI는 입장을 요약합니다. 권위 있게 들리게 하려고 인용문을 지어내지 않습니다.
+- **과도하게 영적으로 채색한 역사 없음.** 로마의 호적은 정치적 행위였습니다. 성전산은 실제 경제 활동이 있던 실제 장소였습니다. 역사적 맥락은 은유가 아닙니다. 이 스킬은 신학적 의미를 묻기 전에 그것을 있는 그대로 읽습니다.
 
 ---
 
-**Why this works:** Separating research from structure keeps you from locking into a sermon shape too early. Pastors who research and outline in the same step often end up preaching what they already believed rather than what the text demands.
+## 왜 이 스킬이 존재하는가
+
+대부분의 목회자에게는 신학교 도서관도, 조사 보조자도, 바쁜 한 주 전에 주석을 들고 세 시간을 보낼 여유도 없습니다. 이 스킬은 깊은 개인 묵상을 대체하지 않습니다. 그 묵상의 앞단을 압축해 주어, 이미 필요하다고 알고 있던 배경 정보를 사냥하느라 시간을 쓰지 않고, 사고하고 기도하는 데 시간을 쓰도록 합니다.
+
+본문을 회중의 삶에 적용하는 일은 당신의 몫입니다. 성령은 그 과정을 통해 일하십니다. 이 스킬이 하는 일은 본문이 실제로 무엇을 말하는지에 대해 부족한 정보로 설교하지 않도록 하는 것입니다.
+
+---
+
+**이게 잘 되는 이유:** 조사를 구조와 분리하면 설교 형태에 너무 일찍 갇히지 않게 됩니다. 조사와 개요 작성을 같은 단계에서 하는 목회자는 결국 본문이 요구하는 것이 아니라 자신이 이미 믿고 있던 것을 설교하게 되는 경우가 많습니다.

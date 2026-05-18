@@ -1,205 +1,205 @@
 ---
 name: sermon-series
-description: Plan a multi-week sermon series. Provide a theme or book of the Bible and number of weeks. Get back series title options, weekly breakdown with passages, titles, and big ideas.
+description: 다주간 설교 시리즈를 기획합니다. 주제 또는 성경 권과 주차 수를 제공하면 시리즈 제목 옵션, 본문·제목·핵심 메시지가 담긴 주차별 분해를 돌려받습니다.
 ---
 
-# Sermon Series Planner
+# 설교 시리즈 기획자
 
-Map out your next series so every week builds on the last.
+다음 시리즈를 기획해 매주가 앞주 위에 쌓이도록 만드십시오.
 
-> Requires: pastor-foundation skill
-
----
-
-## What You'll Provide
-
-To build your series, give me:
-
-- **Theme, topic, or book of the Bible** (e.g., "the book of James," "anxiety," "what it means to follow Jesus")
-- **Number of weeks**, or say "suggest a length" and I'll recommend one
-- **Any constraints**: things like "Easter lands on week 4," "end with a giving emphasis," "we have a guest preacher on week 2," or "keep it accessible for seekers"
-
-If you don't have constraints, just give me the theme and weeks. I'll take it from there.
+> 필수: pastor-foundation 스킬
 
 ---
 
-## Step 1: Understand the Scope
+## 제공해야 할 것
 
-Before building anything, I'll assess what you're working with.
+시리즈를 짜기 위해 다음을 알려주세요:
 
-**If you're preaching a book of the Bible:**
-- Is the whole book teachable in your timeframe, or does it need to be a focused portion?
-- Some books (Philippians, James, Ruth) fit naturally into 4-6 weeks. Others (Romans, Genesis) need a curated selection or a multi-series approach.
-- I'll flag if the number of weeks is too ambitious or too shallow for the material.
+- **주제, 토픽, 또는 성경 권** (예: "야고보서", "불안", "예수를 따른다는 것의 의미")
+- **주차 수**, 또는 "추천해 줘"라고 말하면 추천해 드립니다
+- **제약 조건**: "부활주일이 4주차에 든다", "마지막은 헌신 강조로 끝난다", "2주차는 초청 강사", "구도자가 접근 가능하게" 같은 것들
 
-**If you're preaching a theme:**
-- I'll identify the 4-8 strongest passages that anchor the topic biblically.
-- I'll avoid the temptation to chase every verse. The best thematic series has a clear through-line, not a concordance dump.
-- Themes that are too broad (e.g., "faith") need to be narrowed. I'll help you find the angle.
-
-**Output of this step:** A brief scope assessment. One paragraph. If the premise needs adjustment, I'll say so before building the full plan.
+제약 조건이 없으면 주제와 주차 수만 주시면 됩니다. 거기서 시작합니다.
 
 ---
 
-## Step 2: Three Series Title Options
+## 단계 1: 범위 이해
 
-I'll generate exactly three title options. Not five. Not eight. Three, done well.
+뭔가를 짜기 전에 작업할 재료를 평가합니다.
 
-Each title will be:
-- Memorable and 2-4 words
-- Functional on a banner, social graphic, or bulletin header
-- Free of worn-out church series names ("Unshakeable," "Breakthrough," "Reset," "Anchored," "Deep Dive," "Level Up")
-- A pun only if it's actually good. Forced wordplay is worse than no wordplay.
+**성경 권을 설교한다면:**
+- 정해진 기간에 권 전체를 가르칠 수 있는가, 아니면 집중된 부분이 필요한가?
+- 어떤 권은 (빌립보서, 야고보서, 룻기) 4~6주에 자연스럽게 들어맞습니다. 다른 권은 (로마서, 창세기) 선별된 본문이나 여러 시리즈 접근이 필요합니다.
+- 주차 수가 재료에 비해 너무 야심차거나 너무 얕다면 표시해 드립니다.
 
-For each title, I'll include a one-sentence tagline that could live under it on a graphic or in promotional copy.
+**주제를 설교한다면:**
+- 그 주제를 성경적으로 정박해 주는 가장 강한 본문 4~8개를 식별합니다.
+- 모든 구절을 쫓아가려는 유혹을 피합니다. 가장 좋은 주제 시리즈는 명확한 하나의 흐름을 가집니다. 색인 덩어리가 아닙니다.
+- 너무 광범위한 주제 (예: "믿음")는 좁혀야 합니다. 각도를 찾도록 돕습니다.
 
-**Example format:**
+**이 단계의 출력:** 짧은 범위 평가. 한 문단. 전제 조정이 필요하면 전체 계획을 짜기 전에 그렇게 말씀드립니다.
 
-| Title | Tagline |
+---
+
+## 단계 2: 시리즈 제목 옵션 3개
+
+정확히 3개의 제목 옵션을 생성합니다. 5개가 아닙니다. 8개가 아닙니다. 셋, 잘 만든 것.
+
+각 제목은:
+- 2~4 단어로 기억하기 쉬움
+- 현수막, 소셜 그래픽, 주보 머리에 기능함
+- 닳고 닳은 교회 시리즈 이름 없음 ("흔들리지 않는", "돌파", "리셋", "닻 내림", "딥다이브", "한 단계 위로")
+- 말장난은 진짜 좋을 때만. 억지스러운 언어 유희는 없는 것보다 나쁩니다.
+
+각 제목에 대해 그래픽 아래나 홍보 문구에 들어갈 수 있는 한 문장 태그라인을 함께 제공합니다.
+
+**예시 형식:**
+
+| 제목 | 태그라인 |
 |---|---|
-| **Carried** | What it looks like when God does the heavy lifting. |
-| **Hold Fast** | Staying grounded when everything around you shifts. |
-| **All of It** | Surrendering the parts of your life you're still holding back. |
+| **들림** | 하나님이 무거운 짐을 드실 때의 모습. |
+| **굳게 붙들라** | 모든 것이 흔들릴 때 단단히 서는 법. |
+| **그 모든 것** | 아직 붙들고 있는 삶의 부분을 내려놓기. |
 
-You pick one. Or tell me the direction feels off and we'll go again.
+하나를 고르십시오. 또는 방향이 어긋난 것 같다고 말씀해 주시면 다시 갑니다.
 
 ---
 
-## Step 3: Weekly Breakdown
+## 단계 3: 주차별 분해
 
-The core deliverable. A full table showing every week of the series.
+핵심 산출물입니다. 시리즈의 모든 주차를 보여주는 표.
 
-| Week | Sermon Title | Scripture Passage | Big Idea | Connective Thread |
+| 주차 | 설교 제목 | 성경 본문 | 큰 아이디어 | 연결 흐름 |
 |---|---|---|---|---|
-| 1 | ... | ... | One sentence core truth | How this week sets up week 2 |
-| 2 | ... | ... | One sentence core truth | How this follows week 1, sets up week 3 |
+| 1 | ... | ... | 한 문장 핵심 진리 | 이번 주가 2주차를 어떻게 준비하는지 |
+| 2 | ... | ... | 한 문장 핵심 진리 | 1주차에 이어, 3주차로 어떻게 이어지는지 |
 | ... | | | | |
 
-**What goes in each column:**
+**각 열에 들어가는 내용:**
 
-- **Sermon Title:** Compelling, not just a passage summary. "Faith That Works" is better than "James Chapter 2." It should make someone want to be in the room.
-- **Scripture Passage:** Primary text. If there are supporting passages, I'll note them but keep the main reference clean.
-- **Big Idea:** One sentence. Not a topic. A claim. "God's grace isn't just undeserved, it's unconditional" is a big idea. "We're talking about grace" is not.
-- **Connective Thread:** What makes this a series and not just a collection of sermons. Each week should land on its own and also pull the listener toward the next week. I'll write a brief note on how each sermon connects to what came before and what comes next.
+- **설교 제목:** 끌리는 제목, 단순한 본문 요약이 아님. "야고보서 2장"보다 "행함이 있는 믿음"이 낫습니다. 그 자리에 있고 싶게 만들어야 합니다.
+- **성경 본문:** 주 본문. 보조 본문이 있다면 표시하지만 주 참조는 깔끔하게 유지.
+- **큰 아이디어:** 한 문장. 주제가 아니라 주장. "하나님의 은혜는 받을 자격이 없을 뿐 아니라 조건도 없다"는 큰 아이디어입니다. "은혜에 대해 이야기합니다"는 아닙니다.
+- **연결 흐름:** 이것을 단순한 설교 모음이 아닌 시리즈로 만드는 것. 매주가 그 자체로 가닿아야 하고, 동시에 청자를 다음 주로 끌어가야 합니다. 각 설교가 앞과 뒤에 어떻게 연결되는지 짧게 적습니다.
 
-The arc should build. Week 1 establishes tension or sets a premise. The middle weeks develop it. The final week lands with weight. If the strongest content is in week 2 and the series fizzles from there, we've got a problem. I'll flag that if I see it.
-
----
-
-## Step 4: Series Arc
-
-After the table, a 2-3 sentence summary of the emotional and theological arc.
-
-This is the narrative skeleton. Where does the series start emotionally? Where does it build? Where does it land?
-
-A good series takes people somewhere. It doesn't just cover ground. If someone attends every week, they should feel like they traveled a distance, not just received information. I'll describe that journey in plain language so you can use it in your elder meetings, your promo copy, and your own head as you prepare.
+호는 쌓여야 합니다. 1주차가 긴장이나 전제를 세웁니다. 중간 주차들이 발전시킵니다. 마지막 주차가 무게 있게 착지합니다. 가장 강한 콘텐츠가 2주차에 있고 그 후로 시리즈가 식는다면 문제입니다. 보이면 표시해 드립니다.
 
 ---
 
-## Step 5: Practical Notes
+## 단계 4: 시리즈 아크
 
-A few quick assessments before you go build it:
+표 뒤에 정서적·신학적 아크의 2~3문장 요약이 따릅니다.
 
-**Duration check.** Is this series the right length? Congregational attention on a single series typically holds well through 6 weeks and drops meaningfully after 8. If you've asked for a 10-week series on a theme, I'll tell you. If 4 weeks feels like you're rushing rich material, I'll say that too.
+이것이 내러티브의 뼈대입니다. 시리즈가 정서적으로 어디서 시작하는가? 어디서 빌드업되는가? 어디에 착지하는가?
 
-**Weeks needing special attention.** I'll flag any week that's likely to be emotionally heavy (grief, sin, money, sexuality), theologically complex, or a natural visitor spike (Easter, Christmas, a community event). Those weeks may need extra prep, different framing, or a pastoral sensitivity note.
-
-**Series launch recommendation.** One sentence on how to open strong. Options include: a teaser week the Sunday before the series starts, a cold open into the first week with no announcement, or a pre-series event or mailer. I'll give you my read on what fits your material.
+좋은 시리즈는 사람들을 어딘가로 데려갑니다. 단순히 영역을 다루는 게 아닙니다. 누군가 매주 참석한다면, 그저 정보를 받은 게 아니라 거리를 여행한 느낌이 들어야 합니다. 당회 회의, 홍보 문구, 그리고 준비 중인 본인의 머릿속에서 쓸 수 있도록 그 여정을 평이한 언어로 묘사합니다.
 
 ---
 
-## Anti-Patterns I Avoid
+## 단계 5: 실용적 메모
 
-These are the series planning mistakes I won't make, and will push back on if I see them emerging:
+가서 짜기 전 몇 가지 빠른 평가:
 
-- Generating 8 title options when you only need to make one decision. Three is enough.
-- Making every sermon title follow the same formula (all one-word titles, all questions, all alliterative). Formulaic title patterns draw attention to the formula.
-- Front-loading the best content. Week 1 needs to be strong enough to hook, but the best sermon should be near the end. Build to it.
-- Planning series longer than 8 weeks unless you explicitly ask. Attention drops. Even great series lose momentum.
-- Confusing "a lot of passages" with "a strong series." One clear passage per week, preached well, beats three passages skimmed.
-- Vague big ideas. If the big idea could apply to 40 different sermons, it's not a big idea yet.
+**기간 점검.** 시리즈 길이가 적절한가? 단일 시리즈에 대한 회중의 집중력은 보통 6주까지는 잘 유지되다 8주 후에는 의미 있게 떨어집니다. 어떤 주제로 10주짜리를 요청하셨다면 알려드립니다. 4주가 풍성한 재료를 서두르는 것 같다면 그것도 말씀드립니다.
 
----
+**특별히 신경 써야 할 주차.** 정서적으로 무거울 가능성이 큰 주차 (슬픔, 죄, 돈, 성), 신학적으로 복잡한 주차, 또는 자연스러운 방문자 증가 (부활주일, 성탄절, 지역 행사) 주차를 표시합니다. 그 주차들은 추가 준비, 다른 프레이밍, 또는 목회적 민감성 메모가 필요할 수 있습니다.
 
-## How to Use This
-
-Paste your request in plain language:
-
-> "I want to do a 5-week series on the Sermon on the Mount. We're going through a season of transition as a church, and I want it to feel grounding and hopeful. No major holidays in the window."
-
-> "Book of Ruth, 4 weeks, women's ministry emphasis but it's a whole-church series."
-
-> "Something on prayer. I'm not sure how long. Suggest a length. We want to use it as a fall launch series."
-
-I'll take it from there and return the full plan: scope assessment, three title options, weekly breakdown table, series arc, and practical notes.
+**시리즈 런칭 추천.** 강하게 시작하는 법에 대한 한 문장. 시리즈 시작 한 주 전 티저 주일, 사전 알림 없이 1주차로 콜드 오픈, 또는 시리즈 전 행사나 우편물 등의 옵션. 재료에 맞는 것에 대한 제 의견을 드립니다.
 
 ---
 
-## Output Format
+## 안티 패턴 (피합니다)
 
-This skill outputs a formatted PDF document, not terminal text. The PDF includes a branded title banner, formatted tables for title options and weekly breakdown, structured sections for scope assessment, series arc, and practical notes, and clean typography designed for reading and markup on screen or in print.
+이런 시리즈 기획 실수는 하지 않으며, 보이면 밀어내겠습니다:
 
-### Requirements
+- 결정 하나만 내려야 하는데 제목 옵션 8개 생성하기. 셋이면 충분합니다.
+- 모든 설교 제목이 같은 공식을 따르게 하기 (모두 한 단어, 모두 질문, 모두 두운). 공식적 제목 패턴은 공식 자체에 주의를 끕니다.
+- 최고의 콘텐츠를 앞에 배치하기. 1주차는 후킹할 만큼 강해야 하지만, 가장 좋은 설교는 끝 가까이 있어야 합니다. 거기로 빌드업하십시오.
+- 명시적으로 요청하지 않는 한 8주 넘는 시리즈 기획. 집중력이 떨어집니다. 좋은 시리즈도 모멘텀을 잃습니다.
+- "많은 본문"을 "강한 시리즈"와 혼동하기. 한 주당 하나의 명확한 본문을 잘 설교하는 것이, 세 본문을 훑는 것보다 낫습니다.
+- 모호한 큰 아이디어. 큰 아이디어가 40개의 다른 설교에 적용될 수 있다면, 아직 큰 아이디어가 아닙니다.
 
-The PDF generator requires Python and the `reportlab` library. If reportlab is not installed, install it before generating:
+---
+
+## 사용법
+
+평이한 언어로 요청을 붙여넣으세요:
+
+> "산상수훈 5주 시리즈를 하고 싶습니다. 교회가 전환기를 지나고 있어, 정착감과 소망이 느껴지길 원합니다. 기간 안에 큰 명절은 없습니다."
+
+> "룻기, 4주, 여전도회 강조이지만 전 교회 시리즈입니다."
+
+> "기도에 관한 것. 얼마나 길어야 할지 모르겠습니다. 추천해 주세요. 가을 런칭 시리즈로 쓰고 싶습니다."
+
+여기서 받아 전체 계획을 돌려드립니다: 범위 평가, 제목 옵션 3개, 주차별 분해 표, 시리즈 아크, 실용적 메모.
+
+---
+
+## 출력 형식
+
+이 스킬은 터미널 텍스트가 아니라 포맷된 PDF 문서를 출력합니다. PDF는 브랜드 타이틀 배너, 제목 옵션과 주차별 분해를 위한 포맷된 표, 범위 평가·시리즈 아크·실용적 메모를 위한 구조화된 섹션, 그리고 화면이나 인쇄에서 읽고 표시하기 좋은 깔끔한 타이포그래피를 포함합니다.
+
+### 요구 사항
+
+PDF 생성기는 Python과 `reportlab` 라이브러리가 필요합니다:
 
 ```
 pip install reportlab
 ```
 
-### How It Works
+### 작동 방식
 
-After completing all five planning steps, do the following:
+5개 기획 단계를 모두 완료한 후 다음을 수행합니다:
 
-1. **Write a JSON file** containing the structured series plan data. Save it as a temporary file (e.g., `sermon-series-temp.json`) in the current working directory.
-2. **Locate `generate-pdf.py`** in the same directory as this skill file. Search skill directories if needed.
-3. **Run the script:** `python generate-pdf.py sermon-series-temp.json`
-4. **Delete the temporary JSON file** after the PDF generates successfully.
-5. **Tell the pastor** the PDF filename and where it was saved.
+1. **JSON 파일 작성** — 구조화된 시리즈 기획 데이터를 담은 JSON. 현재 작업 디렉토리에 임시 파일로 저장 (예: `sermon-series-temp.json`).
+2. **`generate-pdf.py` 위치 확인** — 이 스킬 파일과 같은 디렉토리.
+3. **스크립트 실행:** `python generate-pdf.py sermon-series-temp.json`
+4. **PDF가 성공적으로 생성된 후 임시 JSON 파일 삭제.**
+5. **목회자에게 PDF 파일명과 저장 위치를 알림.**
 
-The PDF saves to the current working directory with a filename based on the series title (e.g., `Sermon-Series-Hold-Fast.pdf`).
+PDF는 현재 작업 디렉토리에 시리즈 제목 기반 파일명으로 저장됩니다 (예: `Sermon-Series-Hold-Fast.pdf`).
 
-### JSON Data Structure
+### JSON 데이터 구조
 
-Structure the series plan into this exact format before generating the PDF. Every field maps to a section in the document.
+PDF 생성 전 시리즈 기획을 정확히 이 형식으로 구조화하십시오.
 
 ```json
 {
-  "series_title": "Hold Fast",
-  "series_tagline": "Staying grounded when everything shifts",
-  "passage_or_theme": "Hebrews 10-12",
+  "series_title": "굳게 붙들라",
+  "series_tagline": "모든 것이 흔들릴 때 단단히 서는 법",
+  "passage_or_theme": "히브리서 10-12장",
   "num_weeks": 4,
   "date": "2026-04-08",
-  "pastor_name": "PASTOR_NAME from foundation",
-  "church_name": "CHURCH_NAME from foundation",
-  "scope_assessment": "Full text of the scope assessment paragraph.",
+  "pastor_name": "파운데이션의 PASTOR_NAME",
+  "church_name": "파운데이션의 CHURCH_NAME",
+  "scope_assessment": "범위 평가 문단 전체 텍스트.",
   "title_options": [
     {
-      "title": "Hold Fast",
-      "tagline": "Staying grounded when everything shifts"
+      "title": "굳게 붙들라",
+      "tagline": "모든 것이 흔들릴 때 단단히 서는 법"
     }
   ],
   "weekly_breakdown": [
     {
       "week": 1,
-      "sermon_title": "The Confidence You Already Have",
-      "passage": "Hebrews 10:19-25",
-      "big_idea": "You have access to God that nothing can revoke.",
-      "connective_thread": "Establishes the premise: we hold fast because of what Christ already did."
+      "sermon_title": "이미 가지고 있는 확신",
+      "passage": "히브리서 10:19-25",
+      "big_idea": "당신은 무엇도 취소할 수 없는, 하나님께로의 접근권을 가지고 있다.",
+      "connective_thread": "전제를 세움: 우리는 그리스도께서 이미 행하신 일 때문에 굳게 붙듭니다."
     }
   ],
-  "series_arc": "Full text of the series arc summary.",
+  "series_arc": "시리즈 아크 요약 전체 텍스트.",
   "practical_notes": {
-    "duration_check": "Full text of the duration check.",
-    "special_attention": "Full text of the special attention notes.",
-    "launch_recommendation": "Full text of the launch recommendation."
+    "duration_check": "기간 점검 전체 텍스트.",
+    "special_attention": "특별 주의 메모 전체 텍스트.",
+    "launch_recommendation": "런칭 추천 전체 텍스트."
   }
 }
 ```
 
-**Important notes on the JSON:**
-- `title_options` is an array of exactly 3 objects, each with a `title` and `tagline` string.
-- `weekly_breakdown` is an array with one object per week, matching the number of weeks in the series.
-- `practical_notes` is an object with three string fields: `duration_check`, `special_attention`, and `launch_recommendation`.
-- Use the pastor's real name and church name from the foundation variables, not placeholders.
-- Do not use em dashes anywhere in the content. Use commas, colons, or periods instead.
+**JSON 관련 중요 사항:**
+- `title_options`는 정확히 3개의 객체 배열, 각각 `title`과 `tagline` 문자열.
+- `weekly_breakdown`은 주차당 한 객체씩, 시리즈의 주차 수와 일치하는 배열.
+- `practical_notes`는 세 문자열 필드를 가진 객체: `duration_check`, `special_attention`, `launch_recommendation`.
+- 파운데이션 변수에서 목회자의 실제 이름과 교회 이름을 사용.
+- 콘텐츠 어디에도 줄표(—)를 사용하지 않음. 쉼표, 콜론, 마침표 사용.

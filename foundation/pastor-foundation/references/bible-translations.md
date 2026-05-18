@@ -1,26 +1,38 @@
-# Bible Translation Reference
+# 성경 번역본 참고
 
-A quick guide to the most common Bible translations. Use this to choose your preferred translation for the `BIBLE_TRANSLATION` context variable.
+가장 일반적으로 사용되는 성경 번역본 가이드입니다. `BIBLE_TRANSLATION` 컨텍스트 변수에 선호 번역본을 설정할 때 참고하세요.
 
-| Abbreviation | Full Name | Style | Common Associations |
+## 한국어 번역본
+
+| 약어 | 정식 명칭 | 스타일 | 주요 사용처 |
 |---|---|---|---|
-| **NIV** | New International Version | Balance of accuracy and readability (midpoint between word-for-word and thought-for-thought) | Broad evangelical default. Used across nondenominational, Baptist, and many mainline churches. |
-| **ESV** | English Standard Version | Word-for-word (formal equivalence) with modern English | Popular in Reformed, SBC, and Acts 29 circles. Growing as a standard in evangelical publishing. |
-| **NKJV** | New King James Version | Word-for-word, updating the KJV into modern English while keeping its formal style | Common in charismatic, Pentecostal, and traditional Baptist churches. |
-| **NLT** | New Living Translation | Thought-for-thought (dynamic equivalence), prioritizing natural English | Widely used in small groups, youth ministry, and churches that prioritize accessibility. |
-| **CSB** | Christian Standard Bible | Optimal equivalence (balances word-for-word and thought-for-thought) | Published by Holman (SBC). Growing adoption in Southern Baptist and evangelical churches. |
-| **NASB** | New American Standard Bible | Strict word-for-word (most literal major translation) | Favored in seminary settings and by pastors who prioritize precision for study and exegesis. |
-| **KJV** | King James Version | Word-for-word, 1611 English (updated in later editions) | Traditional and independent Baptist churches, KJV-only congregations, Anglicans with traditional liturgy. |
-| **MSG** | The Message | Paraphrase (not a direct translation), written in contemporary conversational English | Used for devotional reading and illustration. Not typically used as a primary pulpit Bible. |
-| **AMP** | Amplified Bible | Word-for-word with expanded bracketed definitions to convey the range of original meanings | Used for personal study when readers want to see the depth behind individual words. |
-| **NET** | New English Translation | Balance of word-for-word and thought-for-thought, with extensive translator footnotes | Popular in academic settings. The full text and 60,000+ notes are freely available online. |
+| **개역개정** | 개역개정판 (대한성서공회, 2005) | 형식 일치 (직역 위주), 다소 옛 문체 보존 | 한국 개신교 주류 표준. 장로교·감리교·성결교·침례교 다수 교단의 강단 성경. |
+| **새번역** | 표준새번역 개정판 (대한성서공회, 2001) | 직역과 의역의 균형, 현대 한국어 | 가독성 중시 교회, 청년·새가족 사역, 일부 진보 성향 교단. |
+| **우리말성경** | 우리말성경 (두란노, 2004) | 의역 위주, 자연스러운 한국어 | 새가족·전도용. 묵상·소그룹 자료에 자주 사용. |
+| **현대인의성경** | 현대인의성경 (생명의말씀사) | 의역(풀어 쓴 번역) | 묵상·예화용. 강단 성경으로는 권장되지 않음. |
+| **공동번역** | 공동번역 개정판 (1999) | 의역, 가톨릭·개신교 공동 작업 | 가톨릭과 일부 진보 개신교. 복음주의 강단에서는 잘 쓰이지 않음. |
+| **쉬운성경** | 쉬운성경 (아가페) | 의역, 어린이·청소년 어휘 | 어린이부·청소년부 사역. |
+| **메시지(한글판)** | The Message 한글판 (복있는사람) | 풀어 쓴 번역 (직역 아님), 구어체 | 묵상·예화용. 강단 본문으로는 권장되지 않음. |
 
-## How to Choose
+## 영어 번역본 (참고)
 
-- **For preaching and public reading:** NIV, ESV, or CSB give you a strong balance of accuracy and clarity.
-- **For deep study and exegesis:** NASB or ESV keep you closest to the original word order and structure.
-- **For accessibility and newcomers:** NLT reads the most naturally for people unfamiliar with the Bible.
-- **For quotability and tradition:** NKJV and KJV carry the weight of familiarity for long-time churchgoers.
-- **For illustration and devotion:** The Message can make a familiar passage hit differently, but always pair it with a more literal translation for teaching.
+영문 인용이 필요한 경우:
 
-If you are not sure, NIV is the default. It is the most widely read English translation and works well across preaching, teaching, and print.
+| 약어 | 정식 명칭 | 스타일 |
+|---|---|---|
+| **NIV** | New International Version | 직역과 의역의 균형 |
+| **ESV** | English Standard Version | 직역(형식 일치), 현대 영어 |
+| **NASB** | New American Standard Bible | 가장 엄격한 직역. 학문적 사용 |
+| **KJV** | King James Version | 1611년 영어 |
+| **NLT** | New Living Translation | 의역(의미 일치) |
+| **MSG** | The Message | 풀어 쓴 번역 |
+
+## 선택 가이드
+
+- **강단 설교·공적 낭독:** 개역개정이 한국 교회 표준입니다. 새번역도 무리 없습니다.
+- **깊이 있는 묵상·주해:** 개역개정 + 새번역 비교가 효과적입니다.
+- **새가족·전도·접근성:** 우리말성경이나 새번역이 자연스럽게 읽힙니다.
+- **어린이·청소년 사역:** 쉬운성경 또는 우리말성경.
+- **묵상 자료·예화:** 현대인의성경, 메시지(한글판)는 익숙한 본문을 새롭게 들리게 합니다. 단, 가르침이나 강단 본문으로는 사용하지 말고 반드시 직역본과 함께 보십시오.
+
+확실하지 않다면 개역개정이 기본값입니다. 한국 개신교에서 가장 널리 사용되며, 강단·교육·인쇄 모두에서 무난합니다.
