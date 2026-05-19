@@ -4,7 +4,7 @@
 > 원저자: Thomas Costello (MIT License). 한글 번역: guysaint.
 > 한국 교회 맥락(용어, 성경 번역본, 신학 가드레일 등)에 맞춰 의역·각색되었습니다.
 
-목회자를 위해 만들어진 AI 워크플로우 도구 13개. 단순 프롬프트가 아닙니다. 매주 반복되는 업무를 처리해 주는 다단계 스킬로, 사역에 집중할 수 있도록 돕습니다.
+목회자를 위해 만들어진 AI 워크플로우 도구 14개 (원본 13개 + 한글판 추가 1개). 단순 프롬프트가 아닙니다. 매주 반복되는 업무를 처리해 주는 다단계 스킬로, 사역에 집중할 수 있도록 돕습니다.
 
 [Claude Code](https://claude.ai/code)용으로 제작되었습니다. Claude.ai Projects에서도 동작합니다.
 
@@ -28,6 +28,7 @@
 | `/sermon-research` | 본문에 대한 깊이 있는 조사: 주석, 역사적 배경, 단어 연구, 사고 촉진 질문. 포맷된 PDF 출력. | 주간 |
 | `/sermon-brainstorm` | 명확한 설교 개요를 산출하는 대화식 브레인스토밍 | 주간 |
 | `/sermon-series` | 제목, 본문, 핵심 메시지로 구성된 다주간 시리즈 기획 | 월간 |
+| `/sermon-polish` 🇰🇷 | 작성된 설교 원고 다듬기: 구조 검토, 라인 편집, 구두 표현, 전달 제안 | 주간 |
 | **글 작성** | | |
 | `/church-email` | 주간 교회 이메일 작성: 제목, 미리보기 텍스트, 본문 | 주간 |
 | `/announcement-script` | 주일 광고용 60~90초 스피치 원고 | 주간 |
@@ -42,6 +43,8 @@
 | **목회 리듬** | | |
 | `/midweek-devotional` | 이메일·앱용 200~300자 묵상글: 목회적·개인적·간결 | 주간 |
 | `/meeting-agenda` | 시간 블록과 토의 질문이 있는 구조화된 회의 안건 | 주간 |
+
+> 🇰🇷 표시는 원본에 없고 한글판에서 추가된 스킬입니다.
 
 ---
 
@@ -70,6 +73,7 @@ cp -r pastor-ai-skills/foundation/pastor-foundation ~/.claude/skills/
 
 # 사용할 스킬 복사
 cp -r pastor-ai-skills/sermon-prep/sermon-research ~/.claude/skills/
+cp -r pastor-ai-skills/sermon-prep/sermon-polish ~/.claude/skills/
 cp -r pastor-ai-skills/written-communication/church-email ~/.claude/skills/
 cp -r pastor-ai-skills/sermon-repurposing/small-group-questions ~/.claude/skills/
 # ... 필요한 만큼 추가
