@@ -6,15 +6,64 @@ Reusable components for generating branded PDF documents.
 Required: pip install reportlab
 """
 
+import os
+
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.colors import HexColor
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle,
     HRFlowable
 )
+
+
+# --- Korean font registration ---
+# 스킬과 이 모듈의 스타일은 "Helvetica"/"Times-Roman" 같은 영문 폰트 이름을
+# 하드코딩합니다. 한글이 두부(box)로 깨지지 않도록, 번들된 나눔고딕 TTF를
+# 그 표준 이름들로 재등록합니다. 그러면 fontName 문자열을 한 곳도 고치지 않고
+# 모든 출력물이 한글로 렌더링됩니다.
+
+_FONT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")
+_KR_REGULAR = os.path.join(_FONT_DIR, "NanumGothic-Regular.ttf")
+_KR_BOLD = os.path.join(_FONT_DIR, "NanumGothic-Bold.ttf")
+
+_korean_fonts_ready = False
+
+
+def register_korean_fonts():
+    """번들된 나눔고딕을 reportlab 표준 폰트 이름으로 재등록한다.
+
+    한 번만 실행되며, 모듈 import 시 자동 호출된다. 나눔고딕 글꼴 파일이
+    없으면 조용히 영문 기본 폰트로 남겨 둔다(한글은 깨지지만 충돌은 없음).
+    """
+    global _korean_fonts_ready
+    if _korean_fonts_ready:
+        return
+    if not (os.path.exists(_KR_REGULAR) and os.path.exists(_KR_BOLD)):
+        return
+
+    # 나눔고딕에는 기울임꼴이 없으므로 일반체로 매핑한다.
+    regular_names = ["Helvetica", "Times-Roman", "Times-Italic", "Helvetica-Oblique"]
+    bold_names = ["Helvetica-Bold", "Times-Bold"]
+
+    for name in regular_names:
+        pdfmetrics.registerFont(TTFont(name, _KR_REGULAR))
+    for name in bold_names:
+        pdfmetrics.registerFont(TTFont(name, _KR_BOLD))
+
+    pdfmetrics.registerFontFamily(
+        "Helvetica",
+        normal="Helvetica", bold="Helvetica-Bold",
+        italic="Helvetica", boldItalic="Helvetica-Bold",
+    )
+    _korean_fonts_ready = True
+
+
+register_korean_fonts()
 
 
 # --- Color Palette ---
