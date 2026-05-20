@@ -34,7 +34,7 @@ def generate_pdf(json_path, output_path=None):
 
     doc = create_doc(
         output_path,
-        title=f"Sermon Brief: {data.get('passage', '')}",
+        title=f"설교 브리프: {data.get('passage', '')}",
         author=data.get("pastor_name", ""),
     )
     styles = build_styles()
@@ -49,16 +49,16 @@ def generate_pdf(json_path, output_path=None):
         meta_parts.append(data["pastor_name"])
     if data.get("church_name"):
         meta_parts.append(data["church_name"])
-    add_title_banner(story, "SERMON BRIEF", data.get("passage", ""), meta_parts, styles)
+    add_title_banner(story, "설교 브리프", data.get("passage", ""), meta_parts, styles)
 
-    add_brief_field(story, "Big Idea", data.get("big_idea"), styles)
-    add_brief_field(story, "Key Tension", data.get("key_tension"), styles)
-    add_brief_field(story, "Audience Need", data.get("audience_need"), styles)
-    add_brief_field(story, "Desired Response", data.get("desired_response"), styles)
-    add_brief_field(story, "The Turn", data.get("the_turn"), styles)
+    add_brief_field(story, "핵심 메시지", data.get("big_idea"), styles)
+    add_brief_field(story, "핵심 긴장", data.get("key_tension"), styles)
+    add_brief_field(story, "회중의 필요", data.get("audience_need"), styles)
+    add_brief_field(story, "바라는 반응", data.get("desired_response"), styles)
+    add_brief_field(story, "전환점", data.get("the_turn"), styles)
 
     if data.get("supporting_passages"):
-        section_header(story, "Supporting Passages", styles)
+        section_header(story, "뒷받침 본문", styles)
         items = []
         for sp in data["supporting_passages"]:
             ref = sp.get("reference", "")
@@ -66,11 +66,11 @@ def generate_pdf(json_path, output_path=None):
             items.append(f"<b>{ref}</b>: {note}" if note else f"<b>{ref}</b>")
         add_bullet_list(story, items, styles)
 
-    add_brief_field(story, "One Image or Illustration Idea", data.get("illustration_idea"), styles)
+    add_brief_field(story, "이미지 또는 예화 아이디어", data.get("illustration_idea"), styles)
 
     story.append(Spacer(1, 16))
     closing = [Paragraph(
-        "<i>This brief is a launchpad, not a script. Take it to prayer and make it yours.</i>",
+        "<i>이 브리프는 출발점이지 원고가 아닙니다. 기도로 가져가 당신의 것으로 만드십시오.</i>",
         styles["prompt"]
     )]
     add_shaded_box(story, closing, styles)

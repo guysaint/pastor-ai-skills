@@ -33,55 +33,55 @@ def generate_pdf(json_path, output_path=None):
 
     doc = create_doc(
         output_path,
-        title=f"Small Group Guide: {data.get('passage', '')}",
+        title=f"순·목장 나눔 가이드: {data.get('passage', '')}",
         author=data.get("pastor_name", ""),
     )
     styles = build_styles()
     story = []
 
     meta_parts = [p for p in [data.get("date"), data.get("pastor_name"), data.get("church_name")] if p]
-    add_title_banner(story, "SMALL GROUP DISCUSSION GUIDE", data.get("passage", ""), meta_parts, styles)
+    add_title_banner(story, "순·목장 나눔 가이드", data.get("passage", ""), meta_parts, styles)
 
     if data.get("big_idea"):
-        section_header(story, "Big Idea", styles)
+        section_header(story, "핵심 메시지", styles)
         big_idea_elements = [Paragraph(f"<b>{data['big_idea']}</b>", styles["body_content"])]
         add_shaded_box(story, big_idea_elements, styles)
         story.append(Spacer(1, 12))
 
     if data.get("icebreakers"):
-        section_header(story, "Icebreaker (leader picks one)", styles)
+        section_header(story, "아이스브레이커 (인도자가 하나 선택)", styles)
         add_bullet_list(story, data["icebreakers"], styles)
 
-    translation = data.get("translation", "NIV")
-    section_header(story, "Read the Passage Together", styles)
+    translation = data.get("translation", "개역개정")
+    section_header(story, "본문 함께 읽기", styles)
     story.append(Paragraph(f"{data.get('passage', '')} ({translation})", styles["body"]))
 
     num = 1
     if data.get("observation_questions"):
-        section_header(story, "Observation Questions", styles)
+        section_header(story, "관찰 질문", styles)
         num = add_numbered_questions(story, data["observation_questions"], styles, num)
 
     if data.get("interpretation_questions"):
-        section_header(story, "Interpretation Questions", styles)
+        section_header(story, "해석 질문", styles)
         num = add_numbered_questions(story, data["interpretation_questions"], styles, num)
 
     if data.get("application_questions"):
-        section_header(story, "Application Questions", styles)
+        section_header(story, "적용 질문", styles)
         num = add_numbered_questions(story, data["application_questions"], styles, num)
 
     if data.get("going_deeper_questions"):
-        section_header(story, "Going Deeper", styles)
+        section_header(story, "더 깊이", styles)
         num = add_numbered_questions(story, data["going_deeper_questions"], styles, num)
 
-    section_header(story, "Closing", styles)
+    section_header(story, "마무리", styles)
     if data.get("prayer_prompt"):
-        story.append(Paragraph("PRAYER PROMPT", styles["body_label"]))
+        story.append(Paragraph("기도 제목", styles["body_label"]))
         prayer_elements = [Paragraph(data["prayer_prompt"], styles["prompt"])]
         add_shaded_box(story, prayer_elements, styles)
         story.append(Spacer(1, 8))
 
     if data.get("optional_challenge"):
-        story.append(Paragraph("OPTIONAL CHALLENGE", styles["body_label"]))
+        story.append(Paragraph("선택 도전 과제", styles["body_label"]))
         story.append(Paragraph(data["optional_challenge"], styles["body_content"]))
 
     add_reachright_footer(story, styles)

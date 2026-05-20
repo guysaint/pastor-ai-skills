@@ -16,15 +16,15 @@ from reportlab.platypus import Paragraph
 
 
 def add_practical_notes(story, notes, styles):
-    section_header(story, "Practical Notes", styles)
+    section_header(story, "실무 노트", styles)
     if notes.get("duration_check"):
-        story.append(Paragraph("DURATION CHECK", styles["body_label"]))
+        story.append(Paragraph("기간 점검", styles["body_label"]))
         story.append(Paragraph(notes["duration_check"], styles["body_content"]))
     if notes.get("special_attention"):
-        story.append(Paragraph("WEEKS NEEDING SPECIAL ATTENTION", styles["body_label"]))
+        story.append(Paragraph("특별히 주의할 주차", styles["body_label"]))
         story.append(Paragraph(notes["special_attention"], styles["body_content"]))
     if notes.get("launch_recommendation"):
-        story.append(Paragraph("SERIES LAUNCH RECOMMENDATION", styles["body_label"]))
+        story.append(Paragraph("시리즈 시작 추천", styles["body_label"]))
         story.append(Paragraph(notes["launch_recommendation"], styles["body_content"]))
 
 
@@ -39,7 +39,7 @@ def generate_pdf(json_path, output_path=None):
 
     doc = create_doc(
         output_path,
-        title=f"Sermon Series: {data.get('series_title', '')}",
+        title=f"설교 시리즈: {data.get('series_title', '')}",
         author=data.get("pastor_name", ""),
     )
     styles = build_styles()
@@ -49,20 +49,20 @@ def generate_pdf(json_path, output_path=None):
     subtitle = data.get("series_title", "")
     if data.get("series_tagline"):
         subtitle += f" -- {data['series_tagline']}"
-    add_title_banner(story, "SERMON SERIES", subtitle, meta_parts, styles)
+    add_title_banner(story, "설교 시리즈", subtitle, meta_parts, styles)
 
     if data.get("scope_assessment"):
-        add_section(story, "Scope Assessment", data["scope_assessment"], styles)
+        add_section(story, "범위 평가", data["scope_assessment"], styles)
 
     if data.get("title_options"):
-        section_header(story, "Series Title Options", styles)
-        headers = ["Title", "Tagline"]
+        section_header(story, "시리즈 제목 옵션", styles)
+        headers = ["제목", "태그라인"]
         rows = [[opt.get("title", ""), opt.get("tagline", "")] for opt in data["title_options"]]
         add_table(story, headers, rows, [2.0, 4.5], styles)
 
     if data.get("weekly_breakdown"):
-        section_header(story, "Weekly Breakdown", styles)
-        headers = ["Week", "Sermon Title", "Scripture", "Big Idea", "Connective Thread"]
+        section_header(story, "주차별 분해", styles)
+        headers = ["주차", "설교 제목", "본문", "핵심 메시지", "연결 흐름"]
         rows = []
         for week in data["weekly_breakdown"]:
             rows.append([
@@ -75,7 +75,7 @@ def generate_pdf(json_path, output_path=None):
         add_table(story, headers, rows, [0.5, 1.2, 1.0, 1.8, 2.0], styles)
 
     if data.get("series_arc"):
-        add_section(story, "Series Arc", data["series_arc"], styles)
+        add_section(story, "시리즈 전체 흐름", data["series_arc"], styles)
 
     if data.get("practical_notes"):
         add_practical_notes(story, data["practical_notes"], styles)

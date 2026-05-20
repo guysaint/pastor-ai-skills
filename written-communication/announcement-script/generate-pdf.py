@@ -63,7 +63,7 @@ def generate_pdf(json_path, output_path=None):
 
     doc = create_doc(
         output_path,
-        title=f"Announcement Script: {data.get('date', '')}",
+        title=f"주일 광고 원고: {data.get('date', '')}",
         author="",
     )
     base_styles = build_styles()
@@ -71,15 +71,15 @@ def generate_pdf(json_path, output_path=None):
     story = []
 
     # Header
-    story.append(Paragraph("Sunday Announcements", styles["script_title"]))
+    story.append(Paragraph("주일 광고", styles["script_title"]))
 
     meta_parts = []
     if data.get("date"):
         meta_parts.append(data["date"])
     if data.get("estimated_seconds"):
-        meta_parts.append(f"~{data['estimated_seconds']} seconds")
+        meta_parts.append(f"~{data['estimated_seconds']}초")
     if data.get("items_covered") and data.get("items_submitted"):
-        meta_parts.append(f"{data['items_covered']} of {data['items_submitted']} items")
+        meta_parts.append(f"{data['items_submitted']}개 중 {data['items_covered']}개 항목")
     if meta_parts:
         story.append(Paragraph("  |  ".join(meta_parts), styles["script_meta"]))
 
@@ -89,7 +89,7 @@ def generate_pdf(json_path, output_path=None):
     if data.get("deliverer") or data.get("tone_notes"):
         note_parts = []
         if data.get("deliverer"):
-            note_parts.append(f"Deliverer: {data['deliverer']}")
+            note_parts.append(f"전달자: {data['deliverer']}")
         if data.get("tone_notes"):
             note_parts.append(data["tone_notes"])
         story.append(Paragraph("  |  ".join(note_parts), styles["script_note"]))
@@ -105,7 +105,7 @@ def generate_pdf(json_path, output_path=None):
     # Bumped items
     if data.get("bumped_items"):
         story.append(HRFlowable(width="100%", thickness=0.5, color=MED_GRAY, spaceBefore=20, spaceAfter=8))
-        story.append(Paragraph("For the Bulletin / Slides / Email", styles["bumped_header"]))
+        story.append(Paragraph("주보 / 슬라이드 / 이메일용", styles["bumped_header"]))
         items = []
         for bi in data["bumped_items"]:
             item_name = bi.get("item", "")

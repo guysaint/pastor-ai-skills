@@ -20,7 +20,7 @@ from reportlab.platypus import Paragraph, Spacer, HRFlowable
 def add_time_check(story, time_check, styles):
     allocated = time_check.get("allocated", "")
     available = time_check.get("available", "")
-    text = f"<b>{allocated} minutes allocated</b>  /  {available} minutes available"
+    text = f"<b>배정 {allocated}분</b>  /  가용 {available}분"
     elements = [Paragraph(text, styles["body_content"])]
     add_shaded_box(story, elements, styles)
     story.append(Spacer(1, 16))
@@ -36,9 +36,9 @@ def add_agenda_item(story, item, styles):
     header_text = f"{title}  <font color=\"#{slate_hex}\">[{purpose}]</font>"
     story.append(Paragraph(header_text, styles["body_bold"]))
 
-    meta_line = f"{minutes} min"
+    meta_line = f"{minutes}분"
     if lead:
-        meta_line += f"  |  Lead: {lead}"
+        meta_line += f"  |  담당: {lead}"
     story.append(Paragraph(meta_line, styles["body_label"]))
     story.append(Spacer(1, 4))
 
@@ -46,12 +46,12 @@ def add_agenda_item(story, item, styles):
         story.append(Paragraph(item["context"], styles["body_content"]))
 
     if item.get("discussion_question"):
-        story.append(Paragraph("DISCUSSION QUESTION", styles["body_label"]))
+        story.append(Paragraph("토의 질문", styles["body_label"]))
         story.append(Paragraph(item["discussion_question"], styles["body_content"]))
 
     if item.get("decision_needed") and item["decision_needed"].lower() != "no":
-        story.append(Paragraph("DECISION NEEDED", styles["body_label"]))
-        detail = item.get("decision_detail", "Yes")
+        story.append(Paragraph("결정 필요", styles["body_label"]))
+        detail = item.get("decision_detail", "예")
         story.append(Paragraph(detail, styles["body_content"]))
 
     story.append(HRFlowable(width="100%", thickness=0.5, color=RULE_GRAY, spaceBefore=8, spaceAfter=12))
@@ -69,7 +69,7 @@ def generate_pdf(json_path, output_path=None):
     meeting_type = data.get("meeting_type", "Meeting")
     doc = create_doc(
         output_path,
-        title=f"{meeting_type} Agenda: {data.get('date', '')}",
+        title=f"{meeting_type} 안건: {data.get('date', '')}",
         author=data.get("pastor_name", ""),
     )
     styles = build_styles()
@@ -89,25 +89,25 @@ def generate_pdf(json_path, output_path=None):
     if data.get("location"):
         meta_parts.append(data["location"])
 
-    add_title_banner(story, f"{meeting_type.upper()} AGENDA", "", meta_parts, styles)
+    add_title_banner(story, f"{meeting_type} 안건", "", meta_parts, styles)
 
     if data.get("time_check"):
         add_time_check(story, data["time_check"], styles)
 
     if data.get("opening"):
         opening = data["opening"]
-        section_header(story, f"Opening ({opening.get('minutes', 5)} min)", styles)
+        section_header(story, f"여는 순서 ({opening.get('minutes', 5)}분)", styles)
         if opening.get("prayer_note"):
             story.append(Paragraph(opening["prayer_note"], styles["body"]))
         if opening.get("checkin_question"):
-            story.append(Paragraph(f"<b>Check-in:</b> {opening['checkin_question']}", styles["body"]))
+            story.append(Paragraph(f"<b>체크인:</b> {opening['checkin_question']}", styles["body"]))
 
     if data.get("agenda_items"):
         for item in data["agenda_items"]:
             add_agenda_item(story, item, styles)
 
     if data.get("action_items"):
-        section_header(story, "Action Items and Next Steps", styles)
+        section_header(story, "행동 항목과 다음 단계", styles)
         items = []
         for ai in data["action_items"]:
             action = ai.get("action", "")
@@ -115,20 +115,20 @@ def generate_pdf(json_path, output_path=None):
             deadline = ai.get("deadline", "")
             parts = [f"<b>{action}</b>"]
             if owner:
-                parts.append(f"Owner: {owner}")
+                parts.append(f"담당: {owner}")
             if deadline:
-                parts.append(f"By: {deadline}")
+                parts.append(f"기한: {deadline}")
             items.append("  |  ".join(parts))
         add_bullet_list(story, items, styles)
 
     if data.get("closing"):
         closing = data["closing"]
-        section_header(story, f"Closing ({closing.get('minutes', 2)} min)", styles)
+        section_header(story, f"닫는 순서 ({closing.get('minutes', 2)}분)", styles)
         if closing.get("note"):
             story.append(Paragraph(closing["note"], styles["body"]))
 
     if data.get("parking_lot"):
-        section_header(story, "Parking Lot", styles)
+        section_header(story, "보류 안건", styles)
         add_bullet_list(story, data["parking_lot"], styles)
 
     add_reachright_footer(story, styles)

@@ -29,15 +29,15 @@ from reportlab.lib.units import inch
 
 def add_word_studies(story, word_studies, styles):
     """Add the word study table with refined styling."""
-    section_header(story, "Key Word Study", styles)
+    section_header(story, "핵심 단어 연구", styles)
 
     if not word_studies:
-        story.append(Paragraph("No word studies provided.", styles["body"]))
+        story.append(Paragraph("단어 연구 없음.", styles["body"]))
         return
 
     headers = [
-        "English", "Transliteration",
-        "Literal Meaning", "Range of Meaning", "Translations"
+        "한국어", "음역",
+        "문자적 의미", "의미의 범위", "번역본 비교"
     ]
 
     header_row = [Paragraph(h, styles["table_header"]) for h in headers]
@@ -51,7 +51,7 @@ def add_word_studies(story, word_studies, styles):
         trans_text = ", ".join(trans_parts) if trans_parts else ""
 
         row = [
-            Paragraph(ws.get("english", ""), styles["table_cell_bold"]),
+            Paragraph(ws.get("korean", ws.get("english", "")), styles["table_cell_bold"]),
             Paragraph(ws.get("transliteration", ""), styles["table_cell"]),
             Paragraph(ws.get("literal_meaning", ""), styles["table_cell"]),
             Paragraph(ws.get("range_of_meaning", ""), styles["table_cell"]),
@@ -95,10 +95,10 @@ def add_word_studies(story, word_studies, styles):
 
 def add_cross_references(story, cross_refs, styles):
     """Add cross-references as a formatted bullet list."""
-    section_header(story, "Cross-References and Parallel Passages", styles)
+    section_header(story, "상호 참조와 병행 본문", styles)
 
     if not cross_refs:
-        story.append(Paragraph("No cross-references provided.", styles["body"]))
+        story.append(Paragraph("상호 참조 없음.", styles["body"]))
         return
 
     for ref in cross_refs:
@@ -113,10 +113,10 @@ def add_cross_references(story, cross_refs, styles):
 
 def add_theological_themes(story, themes, styles):
     """Add theological themes with structured sub-sections."""
-    section_header(story, "Theological Themes", styles)
+    section_header(story, "신학적 주제", styles)
 
     if not themes:
-        story.append(Paragraph("No themes provided.", styles["body"]))
+        story.append(Paragraph("주제 없음.", styles["body"]))
         return
 
     from reportlab.platypus import HRFlowable
@@ -134,11 +134,11 @@ def add_theological_themes(story, themes, styles):
         ))
 
         if in_text:
-            story.append(Paragraph("IN THE TEXT", styles["body_label"]))
+            story.append(Paragraph("본문에서", styles["body_label"]))
             story.append(Paragraph(in_text, styles["body_content"]))
 
         if implication:
-            story.append(Paragraph("FOR YOUR CONGREGATION", styles["body_label"]))
+            story.append(Paragraph("회중에게", styles["body_label"]))
             story.append(Paragraph(implication, styles["body_content"]))
 
         story.append(Spacer(1, 8))
@@ -146,10 +146,10 @@ def add_theological_themes(story, themes, styles):
 
 def add_thinking_prompts(story, prompts, styles):
     """Add thinking prompts inside a shaded container with gold left border."""
-    section_header(story, "Thinking Prompts", styles)
+    section_header(story, "사고 촉진 질문", styles)
 
     if not prompts:
-        story.append(Paragraph("No prompts provided.", styles["body"]))
+        story.append(Paragraph("질문 없음.", styles["body"]))
         return
 
     # Build prompt paragraphs
@@ -193,15 +193,15 @@ def generate_pdf(json_path, output_path=None):
     if data.get("church_name"):
         meta_parts.append(data["church_name"])
 
-    add_title_banner(story, "SERMON RESEARCH", data.get("passage", ""), meta_parts, styles)
+    add_title_banner(story, "설교 조사", data.get("passage", ""), meta_parts, styles)
 
     # Sections
     if data.get("passage_context"):
-        add_section(story, "Passage Context", data["passage_context"], styles)
+        add_section(story, "본문의 맥락", data["passage_context"], styles)
 
     if data.get("historical_background"):
         add_section(
-            story, "Historical and Cultural Background",
+            story, "역사적·문화적 배경",
             data["historical_background"], styles
         )
 
@@ -210,7 +210,7 @@ def generate_pdf(json_path, output_path=None):
 
     if data.get("commentary_insights"):
         add_section(
-            story, "Commentary Insights",
+            story, "주석 통찰",
             data["commentary_insights"], styles
         )
 
